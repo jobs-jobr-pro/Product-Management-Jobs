@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
 This repository collects curated **Product manager opportunities in 2025**.  
@@ -8,9 +9,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ## Current Openings
 
-| Company | Position | Location | Type | Posted |
+| Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-
 | **[Cycode](https://cycode.com/)** | **[Product Manager - Application Security](https://cycode.com/careers/position/?pos_title=product-manager---application-security&pos_id=3B.C50)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 11 |
 | **[Guardio](https://guard.io/)** | **[Product Manager - Growth Team](https://www.comeet.com/jobs/guardio/57.000/product-manager---growth-team/9D.C56)** | Tel Aviv-Yafo, IL | On Site | Sep 11 |
 | **[GK8](https://www.gk8.io/)** | **[Product Manager](https://www.comeet.com/jobs/gk8bygalaxy/E8.000/product-manager/5D.C5C)** | Ramat Gan, Tel Aviv District, IL | On Site | Sep 11 |
@@ -100,3 +100,4 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 ---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)**
+<!-- prettier-ignore-end -->
