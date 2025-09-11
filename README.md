@@ -3,17 +3,14 @@
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
 
-**📊 Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 201k
-
-**🔥 Trending Skills:** agile, scrum, user research, analytics, roadmap
-
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
 
-| Company | Position | Location | Work Model | Date Posted |
-| ------- | -------- | -------- | ---------- | ----------- |
+| Company | Position | Location | Type | Posted |
+| ------- | -------- | -------- | ---- | ------ |
+
 | **[Cycode](https://cycode.com/)** | **[Product Manager - Application Security](https://cycode.com/careers/position/?pos_title=product-manager---application-security&pos_id=3B.C50)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 11 |
 | **[Guardio](https://guard.io/)** | **[Product Manager - Growth Team](https://www.comeet.com/jobs/guardio/57.000/product-manager---growth-team/9D.C56)** | Tel Aviv-Yafo, IL | On Site | Sep 11 |
 | **[GK8](https://www.gk8.io/)** | **[Product Manager](https://www.comeet.com/jobs/gk8bygalaxy/E8.000/product-manager/5D.C5C)** | Ramat Gan, Tel Aviv District, IL | On Site | Sep 11 |
@@ -64,6 +61,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Senior Data Product Manager](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Senior-Data-Product-Manager_JR-0000004487)** | Northampton, Barclays Campus, Pavilion Drive, United Kingdom | On Site | Sep 11 |
 | **[Epson](https://www.epson.com)** | **[Product Manager](https://jobs.epson.com/job/Los-Alamitos-Product-Manager-CA/1325188300/)** | Los Alamitos, CA, US | On Site | Sep 11 |
 | **[GEA Group](https://www.gea.com/)** | **[Product Manager Slicing & Scanning (m/w/d)](https://gea.wd3.myworkdayjobs.com/en-US/equest/job/Kempten/Product-Manager-Slicing---Scanning--m-w-d-_JR-0032968)** | Kempten : Ignaz-Kiechle-Str. 40, Germany | On Site | Sep 11 |
+
+---
+
+**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 201k  
+_Note: Stats are approximate and based on available job data_
+
+**Trending Skills:** agile, scrum, user research, analytics, roadmap  
+_Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
 
