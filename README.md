@@ -1,6 +1,8 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
+<sub><small>Last updated: Sep 15, 2025 at 02:20 UTC</small></sub>
+
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
 
@@ -11,60 +13,60 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Cycode](https://cycode.com/)** | **[Product Manager - Application Security](https://cycode.com/careers/position/?pos_title=product-manager---application-security&pos_id=3B.C50)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 11 |
-| **[Guardio](https://guard.io/)** | **[Product Manager - Growth Team](https://www.comeet.com/jobs/guardio/57.000/product-manager---growth-team/9D.C56)** | Tel Aviv-Yafo, IL | On Site | Sep 11 |
-| **[GK8](https://www.gk8.io/)** | **[Product Manager](https://www.comeet.com/jobs/gk8bygalaxy/E8.000/product-manager/5D.C5C)** | Ramat Gan, Tel Aviv District, IL | On Site | Sep 11 |
-| **[iPostal1](https://ipostal1.com/)** | **[Junior Product Manager - Montebello, NY](https://uszoom.freshteam.com/jobs/dyhDdU1vvG4T/junior-product-manager-montebello-ny)** | New York, Montebello, United States of America | On Site | Sep 11 |
-| **[Capgemini](https://www.capgemini.com/)** | **[frog, Sr. Product Manager](https://capgemini.taleo.net/careersection/1/jobdetail.ftl?job=078957)** | US-NY-New York | On Site | Sep 11 |
-| **[Tesco](https://www.tesco.com/)** | **[Associate Product Manager - Basket Pricing](https://careers.tesco.com/en_GB/careersmarketplace/JobDetail/Associate-Product-Manager-Basket-Pricing/147206)** | Welwyn Garden City, United Kingdom of Great Britain and Northern Ireland | On Site | Sep 11 |
-| **[Tesco](https://www.tesco.com/)** | **[Product Manager - Commercial Product](https://careers.tesco.com/en_GB/careersmarketplace/JobDetail/Product-Manager-Commercial-Product/146404)** | Welwyn Garden City, United Kingdom of Great Britain and Northern Ireland | On Site | Sep 11 |
-| **[Deloitte](https://www.deloitte.com/)** | **[Product Manager](https://apply.deloitte.com/en_US/careers/JobDetail/Product-Manager/311683)** | New York, New York, United States | On Site | Sep 11 |
-| **[Bloomberg](https://www.bloomberg.com/)** | **[Product Manager - Data License Platform](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Data-License-Platform/14429)** | New York | On Site | Sep 11 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Product Manager, TikTok Risk & Response Platform (Multiple Positions)](https://lifeattiktok.com/search/7547822594575026450)** | Seattle, Washington, United States | On Site | Sep 11 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Strategy Product Manager - USDS (Multiple Positions)](https://lifeattiktok.com/search/7547888437722958088)** | Seattle, Washington, United States | On Site | Sep 11 |
-| **[TikTok](https://www.tiktok.com/)** | **[Product Manager - User Growth (Multiple Positions)](https://lifeattiktok.com/search/7547881316184803591)** | San Jose, California, United States | On Site | Sep 11 |
-| **[TikTok](https://www.tiktok.com/)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Summer (MBA)](https://lifeattiktok.com/search/7479124922725157127)** | San Jose, California, United States | On Site | Sep 11 |
-| **[TikTok](https://www.tiktok.com/)** | **[TikTok Search Product Manager - E-Commerce Search Evaluations - Singapore](https://lifeattiktok.com/search/7481121067584227592)** | Singapore, Singapore | On Site | Sep 11 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Product Manager - Payments](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210666213)** | LONDON, LONDON, United Kingdom | On Site | Sep 11 |
-| **[Arcadis](https://www.arcadis.com/)** | **[Senior Product Manager](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/34289)** | Netherlands | On Site | Sep 11 |
-| **[Google](https://www.google.com/)** | **[Product Manager II, User Voice](https://www.google.com/about/careers/applications/jobs/results/79828623678153414-product-manager-ii-user-voice)** | Hyderabad, Telangana, India; Bengaluru, Karnataka, India | On Site | Sep 11 |
-| **[Google](https://www.google.com/)** | **[Senior Product Manager, Google Workspace](https://www.google.com/about/careers/applications/jobs/results/81816154154115782-senior-product-manager-google-workspace)** | New York, NY, USA; Sunnyvale, CA, USA | On Site | Sep 11 |
-| **[Google](https://www.google.com/)** | **[Senior Product Manager, Google Distributed Cloud](https://www.google.com/about/careers/applications/jobs/results/85295678959297222-senior-product-manager-google-distributed-cloud)** | Cambridge, MA, USA | On Site | Sep 11 |
-| **[TyrAds](https://tyrads.com/)** | **[Assistant Product Manager](https://tyrads.freshteam.com/jobs/M4xqO9qcVOnJ/assistant-product-manager)** | BALI, Bali, Indonesia | On Site | Sep 11 |
-| **[KPN](https://www.kpn.com)** | **[Senior Product Manager Data Services](https://jobs.smartrecruiters.com/KPN/744000081278055-senior-product-manager-data-services)** | Rotterdam, ZH, Netherlands | On Site | Sep 11 |
-| **[Vend](https://vend.com)** | **[Product Manager - Jobs User Matching (Interim)](https://emp.jobylon.com/jobs/307328-vend-product-manager-jobs-user-matching-interim/)** | Stockholm; Oslo | On Site | Sep 11 |
-| **[Bayer](https://www.bayer.com/)** | **[Enterprise Product Manager, Location 360 Imagery Team - Creve Coeur, MO](https://jobs.bayer.com/job/Creve-Coeur-Enterprise-Product-Manager%2C-Location-360-Imagery-Team-Creve-Coeur%2C-MO-Miss/1246266401/)** | Creve Coeur, Missouri, US | On Site | Sep 11 |
-| **[Skai](https://skai.io/)** | **[Senior Product Manager](https://skai.io/company/careers/tel-aviv-israel/senior-product-manager/)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 11 |
-| **[Bring! Labs AG](https://www.getbring.com)** | **[Product Manager (m/w/x)](https://join.com/companies/bring/14839547-product-manager-m-w-x)** | Basel, Switzerland | On Site | Sep 11 |
-| **[Tata Capital](https://www.tatacapital.com/)** | **[Product Manager - Education Loans - RFB - Mumbai - Lower Parel (17th Floor) - JM](https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25856)** | Mumbai, Maharashtra, India | On Site | Sep 11 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Staff Inbound Product Manager - Data & Analytics](https://jobs.smartrecruiters.com/ServiceNow/744000081238385-staff-inbound-product-manager-data-analytics)** | Hyderabad, Telangana, India | On Site | Sep 11 |
-| **[EatClub Pty Ltd](https://eatclub.com/)** | **[Senior Product Manager - Loyalty & Partnerships - Remote](https://employmenthero.com/jobs/jobs/eatclub-pty-ltd-senior-product-manager-loyalty-partnerships-remote-9ido3/)** | Melbourne, Victoria 3000, Australia | Remote | Sep 11 |
-| **[AudioCodes](https://www.audiocodes.com/)** | **[Product Manager](https://www.comeet.com/jobs/audiocodes/85.004/product-manager/DC.C56)** | Or Yehuda, EMEA, IL | On Site | Sep 11 |
-| **[Canva](https://www.canva.com)** | **[Product Manager (Senior/ Principal) - Programmatic SEO (Relocate to Australia)](https://jobs.smartrecruiters.com/Canva/6000000000575308-product-manager-senior-principal-programmatic-seo-relocate-to-australia-)** | San Francisco, CA, United States | On Site | Sep 11 |
-| **[Stedi](https://www.stedi.com/)** | **[Product Manager](https://jobs.ashbyhq.com/stedi/3ca357f6-f121-4f2a-9ac4-a03e6270523f)** | Remote in the USA | Remote | Sep 11 |
-| **[SEEK](https://www.seek.com.au)** | **[Senior Product Manager - Talent Search](https://jobs.smartrecruiters.com/SEEK/744000081149211-senior-product-manager-talent-search)** | Cremorne, Victoria, Australia | On Site | Sep 11 |
-| **[Steadily](https://steadily.com)** | **[Sr Product Manager (KANSAS CITY METRO OR AUSTIN, TX)](https://jobs.ashbyhq.com/steadily/6e02807c-8cf4-4b2e-af52-e07ba4992a5c)** | Overland Park, KS | On Site | Sep 11 |
-| **[Shield AI](https://shield.ai/)** | **[Staff Technical Product Manager, Sustainment (R3848)](https://jobs.lever.co/shieldai/1d9a3fed-5b9e-4038-a87a-eddba141b067)** | Dallas Metro Area | On Site | Sep 11 |
-| **[AT&T](https://www.att.com/)** | **[Senior Tech Product Manager](https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Plano-Texas/Senior-Tech-Product-Manager_R-79651)** | USA:TX:Plano / W Plano Pkwy - Adm:3400 W Plano Pkwy, United States | On Site | Sep 11 |
-| **[Koki Holdings](https://metabo.com/)** | **[Product Manager](https://metabo.wd3.myworkdayjobs.com/en-US/metabocareers/job/Bengaluru/Product-Manager_JR_1001702-1)** | Bengaluru, India | On Site | Sep 11 |
-| **[KOKI Group](https://www.koki.com/)** | **[Product Manager](https://metabo.wd3.myworkdayjobs.com/en-US/kokicareers/job/Bengaluru/Product-Manager_JR_1001702)** | Bengaluru, India | On Site | Sep 11 |
-| **[Adobe](https://www.adobe.com/)** | **[Sr. Product Manager, Frame.io](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Sr-Product-Manager--Frameio_R159033)** | New York, United States | On Site | Sep 11 |
-| **[Elsevier](https://www.elsevier.com/)** | **[Senior Product Manager II](https://relx.wd3.myworkdayjobs.com/en-US/ElsevierJobs/job/Oxford/Senior-Product-Manager-II_R101155)** | UK-Oxford (Nielsen House), United Kingdom | On Site | Sep 11 |
-| **[AT&T](https://www.att.com/)** | **[Sr. Technical Product Manager](https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USATXDallas--Two-ATT-Plaza-211-S-Akard-St---Dat211-S-Akard-St/Sr-Tech-Product-Manager_R-61180)** | USA:TX:Dallas / Two AT&T Plaza (211 S Akard St) - Dat:211 S Akard St, United States | On Site | Sep 11 |
-| **[Heartland Group](https://www.heartland.co.nz/)** | **[Product Manager - Auto](https://heartland.wd3.myworkdayjobs.com/en-US/External/job/Newmarket---277/Product-Manager---Auto_JR100252-1)** | Newmarket - 277, New Zealand | On Site | Sep 11 |
-| **[Skylum](https://skylum.com/)** | **[Senior Product Manager – Luminar Neo](https://skylum.bamboohr.com/careers/194)** | Kyiv, Kyiv, Ukraine (Hybrid) | Remote | Sep 11 |
-| **[Lowe's Companies, Inc.](https://www.lowes.com/)** | **[Sr Product Manager](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Bengaluru/Senior-Product-Manager-FinanceTech_JR-02217979-1)** | Bengaluru, India | On Site | Sep 11 |
-| **[Medline Industries, LP](https://www.medline.com/)** | **[Product Manager - Vascular Access](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Chicago-Illinois/Product-Manager---Vascular-Access_R2514829-1)** | CORP- Chicago - Merchandise Mart, United States | On Site | Sep 11 |
-| **[Nike](https://www.nike.com/)** | **[Senior Product Manager, ITC](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Karnataka-India/Senior-Technical-Product-Management-Analyst-Specialist_R-65073)** | INDIA TECHNOLOGY CENTER, India | On Site | Sep 11 |
-| **[Elsevier](https://www.elsevier.com/)** | **[Group Product Manager](https://relx.wd3.myworkdayjobs.com/en-US/ElsevierJobs/job/Oxford/Group-Product-Manager_R101156)** | UK-Oxford (Nielsen House), United Kingdom | On Site | Sep 11 |
-| **[Roche](https://www.roche.com/)** | **[Product Manager](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Seoul/Product-Manager_202507-118982)** | Seoul Daechidong, Korea, Republic of | On Site | Sep 11 |
-| **[Barclays](https://home.barclays/)** | **[Senior Data Product Manager](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Senior-Data-Product-Manager_JR-0000004487)** | Northampton, Barclays Campus, Pavilion Drive, United Kingdom | On Site | Sep 11 |
-| **[Epson](https://www.epson.com)** | **[Product Manager](https://jobs.epson.com/job/Los-Alamitos-Product-Manager-CA/1325188300/)** | Los Alamitos, CA, US | On Site | Sep 11 |
-| **[GEA Group](https://www.gea.com/)** | **[Product Manager Slicing & Scanning (m/w/d)](https://gea.wd3.myworkdayjobs.com/en-US/equest/job/Kempten/Product-Manager-Slicing---Scanning--m-w-d-_JR-0032968)** | Kempten : Ignaz-Kiechle-Str. 40, Germany | On Site | Sep 11 |
+| **[Bright Data](https://brightdata.com/)** | **[Product Manager (former Developer)](https://brightdata.com/careers/product-manager-former-developer?gtm_latency=1)** | Netanya, Center District, IL | On Site | Sep 13 |
+| **[TikTok](https://www.tiktok.com/)** | **[Product Manager - Paid User Growth - TikTok LIVE](https://lifeattiktok.com/search/7186579574116976953)** | Singapore, Singapore | On Site | Sep 13 |
+| **[TikTok](https://www.tiktok.com/)** | **[Product Manager, Photo Safety, Platform Responsibility](https://lifeattiktok.com/search/7530421205800192263)** | Singapore, Singapore | On Site | Sep 13 |
+| **[Meta](https://www.meta.com/)** | **[Product Manager, Supply Chain Optimization](https://www.metacareers.com/jobs/1399340147806238/)** | Bangalore, India | On Site | Sep 13 |
+| **[Meta](https://www.meta.com/)** | **[Product Manager - Devices](https://www.metacareers.com/jobs/1106888494928857/)** | Sunnyvale, CA \| Redmond, WA \| Seattle, WA \| Burlingame, CA | On Site | Sep 13 |
+| **[Google](https://www.google.com/)** | **[Group Product Manager, Photos Storytelling](https://www.google.com/about/careers/applications/jobs/results/119171839980118726-group-product-manager-photos-storytelling)** | Mountain View, CA, USA; New York, NY, USA | On Site | Sep 13 |
+| **[Google](https://www.google.com/)** | **[Group Product Manager, Discover Growth](https://www.google.com/about/careers/applications/jobs/results/76832945729348294-group-product-manager-discover-growth)** | Mountain View, CA, USA | On Site | Sep 13 |
+| **[Google](https://www.google.com/)** | **[Senior Product Manager, Compute, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/93358536775344838-senior-product-manager-compute-google-cloud)** | Kirkland, WA, USA | On Site | Sep 13 |
+| **[Datavant](https://www.datavant.com/)** | **[Staff Product Manager, Legal & Insurance](https://www.datavant.com/about/careers/open-roles/job?gh_jid=4918772008)** | Remote - United States | Remote | Sep 13 |
+| **[Axon](https://www.axon.com/)** | **[Principal Product Manager - Command and Control](https://job-boards.greenhouse.io/axon/jobs/6683228003)** | Seattle, Washington, United States | On Site | Sep 13 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Acquisition Product Manager, Vice President](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210625053)** | Columbus, OH, United States | On Site | Sep 13 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Senior Product Manager-PowerPoint](https://jobs.careers.microsoft.com/global/en/job/1828590/)** | Mountain View, California, United States | On Site | Sep 13 |
+| **[DAT](https://www.dat.com/)** | **[Product Manager](https://careers.dat.com/jobs/5528448004?gh_jid=5528448004)** | Denver, CO, USA; Seattle, Washington, United States | On Site | Sep 13 |
+| **[Walmart](https://careers.walmart.com/)** | **[Product Manager III, Supply Chain, Walmart International](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Product-Manager-III--Supply-Chain--Walmart-International_R-2198233)** | (USA) SUNNYVALE V - 640 W CALIFORNIA CA SUNNYVALE Home Office, United States | On Site | Sep 13 |
+| **[Bentley Systems](https://www.bentley.com/)** | **[Senior Product Manager, Applied AI](https://jobs.bentley.com/job/Remote-Senior-Product-Manager%2C-Applied-AI-NB/1325958100/)** | Remote, CA | Remote | Sep 13 |
+| **[Visa](https://visa.com)** | **[Sr. Product Manager, Digital Solutions Design & Implementation](https://jobs.smartrecruiters.com/Visa/744000081750625-sr-product-manager-digital-solutions-design-implementation)** | Toronto, CANADA, Canada | On Site | Sep 12 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Technical Product Manager – CRM Sales](https://jobs.smartrecruiters.com/ServiceNow/744000081749744-staff-technical-product-manager-crm-sales-)** | Santa Clara, California, United States | On Site | Sep 12 |
+| **[Replicant](https://www.replicant.com/)** | **[Senior Product Manager](https://jobs.ashbyhq.com/replicant/f6968d27-717f-4ef4-9f7d-24ab58316c7f)** | United States | Remote | Sep 12 |
+| **[Wise](https://wise.com)** | **[Consumer Spend Product Manager](https://jobs.smartrecruiters.com/Wise/744000081747876-consumer-spend-product-manager)** | London, United Kingdom | On Site | Sep 12 |
+| **[Lyft](https://www.lyft.com/)** | **[Senior Product Manager, Growth - Lyft Ads](https://app.careerpuck.com/job-board/lyft/job/8160894002?gh_jid=8160894002)** | New York Office | On Site | Sep 12 |
+| **[Masimo](https://www.masimo.com/)** | **[Product Manager, Capnography](https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/3414)** | Irvine, CA, United States | On Site | Sep 12 |
+| **[Masimo](https://www.masimo.com/)** | **[Product Manager, All Sensors](https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/3416)** | Irvine, CA, United States | On Site | Sep 12 |
+| **[Masimo](https://www.masimo.com/)** | **[Product Manager, Rainbow](https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/3417)** | Irvine, CA, United States | On Site | Sep 12 |
+| **[Vantage](https://gotvantage.com/)** | **[Senior Product Manager](https://jobs.ashbyhq.com/vantageanalytics/7d5c8f44-bf57-4f8c-93a2-37e9afc398ce)** | Remote | Remote | Sep 12 |
+| **[Zed Industries](https://zed.dev)** | **[Product Manager](https://jobs.ashbyhq.com/zed/b080a3d1-9c7d-4bc8-9003-50b842cf590d)** | The Americas (North, Central, South) | Remote | Sep 12 |
+| **[Masimo](https://www.masimo.com/)** | **[Sr Product Manager, Low Acuity Monitors](https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/3421)** | Irvine, CA, United States | On Site | Sep 12 |
+| **[Level Access](https://www.levelaccess.com/)** | **[Senior Product Manager](https://job-boards.greenhouse.io/levelaccess/jobs/8168286002)** | Canada - Remote | Remote | Sep 12 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Senior Product Manager](https://jobs.careers.microsoft.com/global/en/job/1873632/)** | Redmond, Washington, United States | On Site | Sep 12 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Product Manager II](https://jobs.careers.microsoft.com/global/en/job/1874865/)** | Redmond, Washington, United States | On Site | Sep 12 |
+| **[Twilio](https://www.twilio.com/)** | **[Product Manager](https://job-boards.greenhouse.io/twilio/jobs/7248413)** | Remote - British Columbia, Canada | Remote | Sep 12 |
+| **[Chan Zuckerberg Initiative](https://chanzuckerberg.com/)** | **[Principal Product Manager, Science](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/7249260?gh_jid=7249260)** | Redwood City, CA (Open to Flex) | On Site | Sep 12 |
+| **[Roofr](https://roofr.com/)** | **[Principal Product Manager](https://job-boards.greenhouse.io/roofr/jobs/4608393005)** | Remote - Canada | Remote | Sep 12 |
+| **[AeroVect](https://aerovect.com)** | **[Senior Technical Product Manager (Autonomy / Robotics)](https://jobs.ashbyhq.com/aerovect/dbca8220-d541-4d0b-a6a7-b3e4cad7ee69)** | Toronto | Remote | Sep 12 |
+| **[Dark Wolf Solutions](https://www.darkwolfsolutions.com/)** | **[Product Manager](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7245852003)** | Tampa, FL | On Site | Sep 12 |
+| **[Justworks, Inc.](https://justworks.com/)** | **[Product Manager, International Payroll](https://boards.greenhouse.io/justworks/jobs/6824149?gh_jid=6824149)** | Toronto, Canada | On Site | Sep 12 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Product Manager Vice President](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210646455)** | Columbus, OH, United States | On Site | Sep 12 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[J.P. Morgan Wealth Management - Vice President - Product Manager](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210667427)** | Jersey City, NJ, United States | On Site | Sep 12 |
+| **[BenchPrep](https://benchprep.com/)** | **[Part-Time Product Manager (HRCI Cert Prep) - Remote](https://job-boards.greenhouse.io/benchprep/jobs/8168121002)** | USA | Remote | Sep 12 |
+| **[Crumbl](https://www.crumbl.com)** | **[Product Manager](https://jobs.lever.co/crumbl/d655a25c-6144-40ca-9aad-51db86b675a9)** | Lindon, UT | On Site | Sep 12 |
+| **[N26](https://n26.com/)** | **[Product Manager - Operations Platforms and Tools](https://n26.com/en-eu/careers/positions/6783420?gh_jid=6783420)** | Barcelona | On Site | Sep 12 |
+| **[ZoomInfo](https://www.zoominfo.com/)** | **[Principal Product Manager, Talent Solutions](https://www.zoominfo.com/careers?gh_jid=8167162002)** | Remote-US-TX | Remote | Sep 12 |
+| **[CoolIT Systems](https://www.coolitsystems.com/)** | **[Product Manager](https://recruiting.ultipro.ca/COO5001COLT/JobBoard/05857940-9028-4d4a-8544-26bd990d20d6/OpportunityDetail?opportunityId=ee80b9f5-d626-49af-98b7-266d0f0d91b2)** | Calgary, Alberta, Canada | On Site | Sep 12 |
+| **[HONK](https://honkforhelp.com/)** | **[Associate Product Manager](https://jobs.lever.co/honkforhelp/d2e29cd4-ffb2-47b1-866d-e55dd16d60eb)** | Remote | Remote | Sep 12 |
+| **[HONK](https://honkforhelp.com/)** | **[Senior Product Manager - Fleet and Logistics](https://jobs.lever.co/honkforhelp/69844576-b1c1-4d10-9cc5-64dcd3e30c9c)** | Remote | Remote | Sep 12 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Senior Product Manager - Windows 365](https://jobs.careers.microsoft.com/global/en/job/1874512/)** | Redmond, Washington, United States | On Site | Sep 12 |
+| **[Zeta Global](https://zetaglobal.com/)** | **[Senior Product Manager](https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5642042004)** | Remote - United States | Remote | Sep 12 |
+| **[Nomi Health](https://nomihealth.com/)** | **[Associate Product Manager](https://jobs.lever.co/nomihealth/7e5f2d36-3a44-4657-a42f-194df8bcc973)** | Salt Lake City, Utah | On Site | Sep 12 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Product Manager](https://jobs.smartrecruiters.com/NBCUniversal3/744000081709094-product-manager)** | Orlando, FL, United States | Remote | Sep 12 |
+| **[Vancity](https://www.vancity.com)** | **[Product Manager, Lending (12-month contract)](https://recruiting.ultipro.com/VAN5000VCSCU/JobBoard/a46cbdaa-ca2c-49b6-8d2b-e0ceaafa0e25/OpportunityDetail?opportunityId=1c7c904d-e6af-46bf-a015-ec7d288b9ede)** | Vancouver, British Columbia, Canada | On Site | Sep 12 |
+| **[Fortune Brands Innovations](https://www.fbin.com/)** | **[Senior Product Manager - Connected Products](https://jobs.smartrecruiters.com/FortuneBrands/744000081707755-senior-product-manager-connected-products)** | Deerfield, ILLINOIS, United States | On Site | Sep 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 201k  
+**Current Stats:** 50 jobs | 30% remote | 37 companies | Avg salary: 215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
@@ -96,6 +98,14 @@ This repository tracks current Product manager positions from companies across d
 This repository gets consistent traffic from Product manager professionals actively job searching. The audience is pre-qualified and specifically interested in Product manager opportunities.
 
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+
+## Related Job Repositories
+
+Looking for other opportunities? Check out these related job repositories:
+
+- [Software Engineering Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs)
+
+
 
 ---
 
