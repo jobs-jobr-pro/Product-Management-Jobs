@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 16, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 16, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -33,6 +33,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Securities Services - Fund Administration Product Manager - Vice President](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210633341)** | Mumbai, Maharashtra, India | On Site | Sep 16 |
 | **[Gloat](https://gloat.com/)** | **[Senior Product Manager (Platform)](https://gloat.com/careers-at-gloat/co/israel/4D.C54/senior-product-manager-platform/all/)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 16 |
 | **[Colgate-Palmolive](https://www.colgatepalmolive.com/)** | **[Global Product Manager](https://jobs.colgate.com/job/Overland-Park-Global-Product-Manager-KS-66062/1326331300/)** | Overland Park, KS, US | On Site | Sep 16 |
+| **[Dometic Group](https://www.dometicgroup.com/)** | **[Product Manager – Mobile Power Solutions](https://emp.jobylon.com/jobs/302241-land-vehicles-emea-product-manager-mobile-power-solutions/)** | Pescara | On Site | Sep 16 |
 | **[monday.com](https://monday.com/)** | **[Senior Product Manager (Board App Team)](https://monday.com/careers/E1.D54)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 16 |
 | **[Freshworks](https://www.freshworks.com)** | **[Senior Product Manager](https://jobs.smartrecruiters.com/Freshworks/744000082161400-senior-product-manager)** | Bengaluru, India | On Site | Sep 16 |
 | **[adidas](https://www.adidas-group.com/)** | **[Product Manager - Footwear SMU, Creation Center Portland](https://jobs.adidas-group.com/job/Portland-Product-Manager-Footwear-SMU%2C-Creation-Center-Portland-OR/1247944101/)** | Portland, OR, US | On Site | Sep 16 |
@@ -54,19 +55,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bank of China (Hong Kong)](https://www.bochk.com/)** | **[Senior Product Manager (Innovation & Strategic Asset Management Team) - AMC](https://careers.pageuppeople.com/798/cw/en/job/499686)** | Hong Kong | On Site | Sep 16 |
 | **[NKSFB, LLC](https://www.nksfb.com/)** | **[Senior Product Manager/Product Manager](https://jobs.crelate.com/portal/intrepidustalentsolutions/job/1z1nhe7wgw7w9uw3bigcjqskah)** | United States | On Site | Sep 16 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Product Manager](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/308039)** | United States | On Site | Sep 16 |
-| **[EY](https://www.ey.com)** | **[Product Manager-Owner - Payments-Manager](https://careers.ey.com/ey/job/Bengaluru-Product-Manager-Owner-Payments-Manager-KA-560016/1247959001/)** | Bengaluru, KA, IN, 560016 | On Site | Sep 16 |
-| **[Tencent](https://www.tencent.com/)** | **[Product Manager (Technical Background)](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/Singapore-CapitaSky/Product-Manager--Technical-Background-_R106053)** | Singapore-CapitaSky | On Site | Sep 16 |
-| **[U.S. Bank](https://www.usbank.com/)** | **[Senior Digital Product Manager](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/Senior-Digital-Product-Manager_2025-0021352)** | Charlotte, NC, United States | On Site | Sep 16 |
-| **[Medline Industries, LP](https://www.medline.com/)** | **[Associate Product Manager - Japan](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Associate-Product-Manager---Japan_R2514269)** | CORP- Northfield - Headquarters, United States | On Site | Sep 16 |
-| **[Titanom Technologies](https://titanom.com/)** | **[Junior Product Manager](https://apply.workable.com/j/9039B52B57/apply)** | Germering, Bavaria, Germany | On Site | Sep 16 |
+| **[Aliaxis](https://www.aliaxis.com/)** | **[Product Manager Benelux](https://aliaxis.wd3.myworkdayjobs.com/en-US/Aliaxis/job/BE---Tongeren/Product-Manager-Benelux_R-52499-1)** | BE - Tongeren, Belgium | On Site | Sep 16 |
+| **[Global](https://global.com/)** | **[Product Manager - LED/LCD](https://thisisglobal.wd3.myworkdayjobs.com/en-US/Global/job/Holborn---London/Product-Manager---LED-LCD_R0008164-1)** | Holborn - London, United Kingdom | On Site | Sep 16 |
 | **[Convatec](https://www.convatecgroup.com/)** | **[Product Manager, Ostomy](https://convatec.wd1.myworkdayjobs.com/en-US/ConvaTec/job/Tokyo-Japan/Product-Manager--Ostomy_JR00016759-1)** | TYO-Suidobashi, Japan | On Site | Sep 16 |
-| **[SAP](https://www.sap.com/)** | **[SAP iXp Intern - Product Manager](https://jobs.sap.com/job/Waterloo-SAP-iXp-Intern-Product-Manager-ON-N2L6R2/1247957101/)** | Waterloo, ON, CA, N2L6R2 | On Site | Sep 16 |
-| **[Allstate](https://www.allstate.com/)** | **[Digital Product Manager](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Digital-Product-Manager_R20961)** | Ind – Blr Sez 1 (3Rd, 6Th & 7Th Floor), India | On Site | Sep 16 |
-| **[Worldpay](https://www.worldpay.com/)** | **[Senior Product Manager - Platforms](https://worldpay.wd5.myworkdayjobs.com/en-US/Worldpay_External_Careers_Site/job/GBR-LNDN-25-Walbrook-FL56/Senior-Product-Manager---Platforms_JR0607325)** | GBR LNDN 25 Walbrook FL5&6, United Kingdom | On Site | Sep 16 |
+| **[Donaldson](https://www.donaldson.com/)** | **[Product Manager](https://donaldson.wd5.myworkdayjobs.com/en-US/DonaldsonCareers/job/Bloomington-MN-USA/Product-Manager_JR-24594)** | Bloomington, United States | On Site | Sep 16 |
+| **[Japan Tobacco International](https://www.jti.com/)** | **[RRP PRODUCT MANAGER](https://jobs.jti.com/job/ALMATY-RRP-PRODUCT-MANAGER-040704/1247987301/)** | ALMATY, KZ, 040704 | On Site | Sep 16 |
+| **[PayPal](https://www.paypal.com/)** | **[Lead Product Manager](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Lead-Product-Manager_R0131259-1)** | USA - California - San Jose - Corp - N First St, United States | On Site | Sep 16 |
+| **[Supermicro](https://www.supermicro.com)** | **[Product Manager, Cable](https://jobs.supermicro.com/job/Chungho-Product-Manager%2C-Cable-Taiw/1326419900/)** | Chungho, Taiwan, TW | On Site | Sep 16 |
+| **[SRS Distribution Inc.](https://www.srsdistribution.com/)** | **[Senior Digital Product Manager](https://srsdistribution.wd1.myworkdayjobs.com/en-US/SRS/job/McKinney-Texas/Senior-Digital-Product-Manager_REQ44792)** | McKinney, TX, United States | On Site | Sep 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 175k  
+**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 201k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
