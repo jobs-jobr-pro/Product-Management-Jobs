@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Product Manager](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Manager_REQ246198-1)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Sep 17 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Product Manager- Payments](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Manager--Payments_REQ246268-1)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Sep 17 |
 | **[qlub](https://qlub.io/)** | **[Senior Product Manager (Customer Experience) Fintech - Istanbul/Beşiktaş](https://qlub.factorialhr.com/job_posting/senior-product-manager-customer-experience-fintech-istanbul-besiktas-264183)** | Hybrid (34000, Istanbul, Turkey, Türkiye) | On Site | Sep 16 |
 | **[Pemo](https://pemo.io)** | **[Growth Product Manager (Remote)](https://pemo.freshteam.com/jobs/6W9ugSEUvSCW/growth-product-manager-remote)** | Dubai, United Arab Emirates | Remote | Sep 16 |
 | **[Eliq](https://eliq.com/)** | **[Senior Product Manager - Eliq Intelligence](https://eliq.freshteam.com/jobs/Dwx_CpRZLL6E/senior-product-manager-eliq-intelligence)** | Västra Götaland County, Gothenburg, Sweden | On Site | Sep 16 |
@@ -55,18 +57,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bank of China (Hong Kong)](https://www.bochk.com/)** | **[Senior Product Manager (Innovation & Strategic Asset Management Team) - AMC](https://careers.pageuppeople.com/798/cw/en/job/499686)** | Hong Kong | On Site | Sep 16 |
 | **[NKSFB, LLC](https://www.nksfb.com/)** | **[Senior Product Manager/Product Manager](https://jobs.crelate.com/portal/intrepidustalentsolutions/job/1z1nhe7wgw7w9uw3bigcjqskah)** | United States | On Site | Sep 16 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Product Manager](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/308039)** | United States | On Site | Sep 16 |
-| **[Aliaxis](https://www.aliaxis.com/)** | **[Product Manager Benelux](https://aliaxis.wd3.myworkdayjobs.com/en-US/Aliaxis/job/BE---Tongeren/Product-Manager-Benelux_R-52499-1)** | BE - Tongeren, Belgium | On Site | Sep 16 |
-| **[Global](https://global.com/)** | **[Product Manager - LED/LCD](https://thisisglobal.wd3.myworkdayjobs.com/en-US/Global/job/Holborn---London/Product-Manager---LED-LCD_R0008164-1)** | Holborn - London, United Kingdom | On Site | Sep 16 |
-| **[Convatec](https://www.convatecgroup.com/)** | **[Product Manager, Ostomy](https://convatec.wd1.myworkdayjobs.com/en-US/ConvaTec/job/Tokyo-Japan/Product-Manager--Ostomy_JR00016759-1)** | TYO-Suidobashi, Japan | On Site | Sep 16 |
-| **[Donaldson](https://www.donaldson.com/)** | **[Product Manager](https://donaldson.wd5.myworkdayjobs.com/en-US/DonaldsonCareers/job/Bloomington-MN-USA/Product-Manager_JR-24594)** | Bloomington, United States | On Site | Sep 16 |
-| **[Japan Tobacco International](https://www.jti.com/)** | **[RRP PRODUCT MANAGER](https://jobs.jti.com/job/ALMATY-RRP-PRODUCT-MANAGER-040704/1247987301/)** | ALMATY, KZ, 040704 | On Site | Sep 16 |
-| **[PayPal](https://www.paypal.com/)** | **[Lead Product Manager](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Lead-Product-Manager_R0131259-1)** | USA - California - San Jose - Corp - N First St, United States | On Site | Sep 16 |
 | **[Supermicro](https://www.supermicro.com)** | **[Product Manager, Cable](https://jobs.supermicro.com/job/Chungho-Product-Manager%2C-Cable-Taiw/1326419900/)** | Chungho, Taiwan, TW | On Site | Sep 16 |
-| **[SRS Distribution Inc.](https://www.srsdistribution.com/)** | **[Senior Digital Product Manager](https://srsdistribution.wd1.myworkdayjobs.com/en-US/SRS/job/McKinney-Texas/Senior-Digital-Product-Manager_REQ44792)** | McKinney, TX, United States | On Site | Sep 16 |
+| **[Titanom Technologies](https://titanom.com/)** | **[Junior Product Manager](https://apply.workable.com/j/9039B52B57/apply)** | Germering, Bavaria, Germany | On Site | Sep 16 |
+| **[Donaldson](https://www.donaldson.com/)** | **[Product Manager](https://donaldson.wd5.myworkdayjobs.com/en-US/DonaldsonCareers/job/Bloomington-MN-USA/Product-Manager_JR-24594)** | Bloomington, United States | On Site | Sep 16 |
+| **[Allstate](https://www.allstate.com/)** | **[Digital Product Manager](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Digital-Product-Manager_R20961)** | Ind – Blr Sez 1 (3Rd, 6Th & 7Th Floor), India | On Site | Sep 16 |
+| **[Fullsteam](https://www.fullsteam.com/)** | **[Senior Product Manager](https://fullsteam.wd1.myworkdayjobs.com/en-US/external/job/Remote---US/Senior-Product-Manager_JR101810)** | US-GA-Remote, United States | Remote | Sep 16 |
+| **[Medtronic](https://www.medtronic.com/)** | **[PCS Product Manager](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/PCS-Product-Manager_R43678-2)** | USA-MN Mounds View Central, United States | On Site | Sep 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 201k  
+**Current Stats:** 50 jobs | 10% remote | 40 companies | Avg salary: 186k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
