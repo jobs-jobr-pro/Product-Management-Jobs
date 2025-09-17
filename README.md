@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 17, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 17, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Zendesk](https://www.zendesk.com)** | **[Product Manager](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Pune-India/Product-Manager_R32625)** | India - Pune - Office | On Site | Sep 18 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Senior Product Manager](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Singapore/Senior-Product-Manager_JR-10000043015)** | Headquarters (Eclipse), Level 8, Singapore | On Site | Sep 18 |
 | **[qlub](https://qlub.io/)** | **[Technical Product Manager (Finance & Fraud) - Fintech](https://qlub.factorialhr.com/job_posting/technical-product-manager-finance-fraud-fintech-264468)** | Colombo, Sri Lanka, Sri Lanka | On Site | Sep 17 |
 | **[Amentum](https://www.amentum.com/)** | **[Diode Product Manager](https://jacobs.taleo.net/careersection/ex/jobdetail.ftl?job=CIS0003TY)** | United States-Virginia-Springfield-20394-SFV | On Site | Sep 17 |
 | **[easyJet](https://www.easyjet.com/)** | **[Digital Product Manager - Revenue](https://easyjet.taleo.net/careersection/2/jobdetail.ftl?job=16090)** | United Kingdom-London-London Luton Airport | On Site | Sep 17 |
@@ -45,28 +47,26 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Canva](https://www.canva.com)** | **[Product Manager, Japan](https://jobs.smartrecruiters.com/Canva/6000000000587768-product-manager-japan)** | Tokyo, Japan | On Site | Sep 17 |
 | **[HackerRank](https://www.hackerrank.com/)** | **[Technical Product Manager](https://boards.greenhouse.io/hackerrank/jobs/6399806?gh_jid=6399806)** | Hybrid in Bangalore, India | On Site | Sep 17 |
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Product Manager-CREDIT CARD-Marketing HO](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211679)** | Mumbai, Maharashtra, India | On Site | Sep 17 |
+| **[Hidrive Group](https://hidrive.com.au/)** | **[Technical Product Manager - Electrical](https://employmenthero.com/jobs/jobs/hidrive-group-technical-product-manager-electrical-1r2nz/)** | Sydney, New South Wales 2000, Australia | On Site | Sep 17 |
 | **[Siena AI](https://www.siena.cx)** | **[Product Manager](https://jobs.ashbyhq.com/siena/886bddc1-1fc7-4869-aa4a-563229ffa12c)** | New York | Remote | Sep 17 |
 | **[Talon.One](https://talon.one/)** | **[Lead Product Manager - Integrations](https://www.talon.one/job-listing?gh_jid=4675395101)** | Berlin | On Site | Sep 17 |
 | **[Hive](https://www.hive.co/)** | **[Senior AI Product Manager](https://jobs.ashbyhq.com/hive.co/fe239cd6-2467-42a6-bb0a-f5fcec17de2d)** | Canada (Remote) | Remote | Sep 17 |
 | **[Canva](https://www.canva.com)** | **[Product Manager, India](https://jobs.smartrecruiters.com/Canva/6000000000587025-product-manager-india)** | Bengaluru, KA, India | On Site | Sep 17 |
 | **[Omada Health](https://www.omadahealth.com/)** | **[Product Manager, Enterprise](https://job-boards.greenhouse.io/omadahealth/jobs/7246354)** | Remote, USA | Remote | Sep 17 |
 | **[Omada Health](https://www.omadahealth.com/)** | **[Product Manager](https://job-boards.greenhouse.io/omadahealth/jobs/7235652)** | Remote, USA | Remote | Sep 17 |
-| **[U.S. Bank](https://www.usbank.com/)** | **[Senior Digital Product Manager](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/Senior-Digital-Product-Manager_2025-0021580)** | Charlotte, NC, United States | On Site | Sep 17 |
-| **[Relativity](https://www.relativity.com/)** | **[Associate Product Manager](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Krakw/Associate-Product-Manager_25-0483)** | Lesser Poland | On Site | Sep 17 |
-| **[Circle K](https://www.circlek.com/)** | **[Product Manager EV Roaming](https://circlek.wd3.myworkdayjobs.com/en-US/CircleKStoreJobs/job/Support-Office-Oslo/Product-Manager-EV-Roaming_R530209)** | Support Office Oslo, Norway | On Site | Sep 17 |
-| **[BlackBerry QNX](https://blackberry.qnx.com/)** | **[QNX Principal Product Manager- Cybersecurity](https://bb.wd3.myworkdayjobs.com/en-US/QNX/job/Ottawa-Ontario/QNX-Principal-Product-Manager--Cybersecurity_20250289)** | Ottawa, Ontario, Canada | On Site | Sep 17 |
-| **[Reed](https://www.reed.co.uk/)** | **[Marketing and Product Manager](https://reed.wd3.myworkdayjobs.com/en-US/reed_specialist_recruitment_careers/job/Raynes-Park/Marketing-and-Product-Manager_JR10004188)** | Raynes Park, United Kingdom | On Site | Sep 17 |
-| **[Mindera](https://mindera.com/)** | **[Technical Product Manager](https://apply.workable.com/j/FD81CEAC2C/apply)** | London, England, United Kingdom | On Site | Sep 17 |
-| **[Johnson & Johnson](https://www.jnj.com/)** | **[Associate Product Manager](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mongkok-Kowloon-Hong-Kong/Associate-Product-Manager_R-033310)** | HK001 Mongkok, Hong Kong | On Site | Sep 17 |
-| **[Acronis](https://www.acronis.com/)** | **[Lead Product Manager](https://acronis.wd3.myworkdayjobs.com/en-US/acronis_careers/job/Bulgaria/Lead-Product-Manager_R-100484)** | Bulgaria | On Site | Sep 17 |
+| **[Aristocrat](https://www.aristocrat.com/)** | **[Junior Product Manager](https://aristocrat.wd3.myworkdayjobs.com/en-US/AristocratExternalCareersSite/job/Las-Vegas-NV-US/Junior-Product-Manager_R0019672-1)** | Summerlin, United States | On Site | Sep 17 |
+| **[Globus Medical](https://globusmedical.com/)** | **[Product Manager](https://globusmedical.wd5.myworkdayjobs.com/en-US/GMED_Careers/job/Audubon-PA/Product-Manager_JR104588-1)** | Pennsylvania - Audubon - Headquarters, United States | On Site | Sep 17 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Product Manager](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Manager_REQ246198-1)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Sep 17 |
 | **[Midnite](https://www.midnite.com)** | **[Product Manager - Sportsbook Platform](https://apply.workable.com/j/5D74250D6B/apply)** | United Kingdom - Remote | Remote | Sep 17 |
-| **[TE Connectivity](https://www.te.com)** | **[PRODUCT MANAGER IV](https://careers.te.com/job/DONGGUAN-PRODUCT-MANAGER-IV-GD-523071/1326820900/)** | DONGGUAN, GD, CN, 523071 | On Site | Sep 17 |
-| **[ING Nederland](https://www.ing.com/)** | **[Senior Product Manager - System Engineering](https://ing.wd3.myworkdayjobs.com/en-US/ICSNLDGEN/job/HBP-Amsterdam---Haarlerbergpark/Senior-Product-Manager---System-Engineering_REQ-10101734)** | HBP (Amsterdam - Haarlerbergpark), Netherlands | On Site | Sep 17 |
-| **[Gartner](https://www.gartner.com/)** | **[Sr. Product Manager](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Stamford-CT/Sr-Product-Manager_103554-1)** | Stamford - 56 Top Gallant, United States | On Site | Sep 17 |
+| **[Uniphore](https://www.uniphore.com/)** | **[Sr. Product Manager](https://uniphore.wd1.myworkdayjobs.com/en-US/Uniphore/job/USA---NY---New-York/Sr-Product-Manager_JR100720)** | USA - NY - New York, United States | On Site | Sep 17 |
+| **[Johnson & Johnson](https://www.jnj.com/)** | **[Associate Product Manager](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mongkok-Kowloon-Hong-Kong/Associate-Product-Manager_R-033310)** | HK001 Mongkok, Hong Kong | On Site | Sep 17 |
+| **[PayPal](https://www.paypal.com/)** | **[Cybersecurity Product Manager](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Cybersecurity-Product-Manager_R0130061-1)** | USA - Arizona - Scottsdale - Corp - N 90th St, United States | On Site | Sep 17 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Lead Product Manager](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Singapore/Lead-Product-Manager_JR-10000040429)** | RH, Singapore | On Site | Sep 17 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com/)** | **[Senior Product Manager/Marketing Manager](https://ferring.wd3.myworkdayjobs.com/en-US/Ferring/job/Shanghai-China/Senior-Product-Manager-Marketing-Manager_R0035217)** | Ferring China M&S | On Site | Sep 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 42 companies | Avg salary: 184k  
+**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 185k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
