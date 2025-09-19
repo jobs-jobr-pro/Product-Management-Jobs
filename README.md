@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 18, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 19, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,13 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ING](https://www.ing.com/)** | **[Product Manager for Area Netting with Bank Mendes Gans (BMG)](https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/BMG-Amsterdam---Mendes-Gans-1/Product-Manager-for-Area-Netting-with-Bank-Mendes-Gans--BMG-_REQ-10101913-3)** | BMG (Amsterdam - Mendes Gans 1), Netherlands | On Site | Sep 19 |
 | **[ADP](https://www.adp.com/)** | **[Service Technology - Gen Cloud Administrator - Product Manager](https://myjobs.adp.com/apply/cx/job-details?reqId=5001145879006)** | Norfolk, VA, United States | On Site | Sep 18 |
 | **[Copado](https://www.copado.com/)** | **[Senior Product Manager - DevOps (Salesforce Ecosystem)](https://copado.factorial.es/job_posting/senior-product-manager-devops-salesforce-ecosystem-264323)** | Hybrid (33100, Tampere, Finland) | On Site | Sep 18 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Product Engineering \| Product Manager \| PxE A&A](https://apply.deloitte.com/en_US/careers/JobDetail/Product-Engineering-Product-Manager-PxE-A-A/311158)** | Atlanta, Georgia, United States; Dallas, Texas, United States; Hermitage, Tennessee, United States; Tampa, Florida, United States | On Site | Sep 18 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Product Manager - Funds Data - Enterprise Data Products](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Funds-Data-Enterprise-Data-Products/14601)** | New York | On Site | Sep 18 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Product Manager - Content Acquisition](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Content-Acquisition/14479)** | New York | On Site | Sep 18 |
-| **[TikTok](https://www.tiktok.com/)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://lifeattiktok.com/search/7479130414049855752)** | San Jose, California, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com/)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem)- 2025 Summer (MBA)](https://lifeattiktok.com/search/7479131428598270216)** | San Jose, California, United States | On Site | Sep 18 |
+| **[TikTok](https://www.tiktok.com/)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://lifeattiktok.com/search/7479130414049855752)** | San Jose, California, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com/)** | **[Product Manager, Risk Solutions - USDS](https://lifeattiktok.com/search/7198035643616233783)** | San Jose, California, United States | On Site | Sep 18 |
 | **[Google](https://www.google.com/)** | **[Senior Product Manager, Private AI Platform](https://www.google.com/about/careers/applications/jobs/results/72852511773336262-senior-product-manager-private-ai-platform)** | San Francisco, CA, USA; Mountain View, CA, USA | On Site | Sep 18 |
 | **[Google](https://www.google.com/)** | **[Senior Product Manager, Search Discovery](https://www.google.com/about/careers/applications/jobs/results/90152090285810374-senior-product-manager-search-discovery)** | Mountain View, CA, USA; New York, NY, USA | On Site | Sep 18 |
@@ -59,14 +60,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DISQO](https://www.disqo.com/)** | **[Principal Product Manager, Experience Platform](https://jobs.lever.co/disqo/e8c44a65-4daf-42c2-b185-625afc9c8393)** | Los Angeles, CA | On Site | Sep 18 |
 | **[Tendo](https://tendo.com/)** | **[Principal Product Manager, Clinical Data Analytics](https://jobs.lever.co/tendo/096364ab-b3e9-48ea-b7e5-9cfc4e25aead)** | San Francisco, CA | On Site | Sep 18 |
 | **[Capital Rx](https://capitalrx.com/)** | **[Product Manager](https://job-boards.greenhouse.io/capitalrx/jobs/4918376008)** | New York, New York, United States | On Site | Sep 18 |
-| **[eHealth, Inc.](https://www.ehealthinsurance.com/)** | **[Senior Product Manager (Core Services)](https://ehealthinsurance.wd5.myworkdayjobs.com/en-US/EHI/job/USA-Remote/Senior-Product-Manager--Core-Services-_R4145)** | USA Remote, United States | Remote | Sep 18 |
-| **[Sonalake](https://sonalake.com)** | **[Product Manager - Telecom BSS/OSS](https://apply.workable.com/j/C5596077E7/apply)** | Dublin, County Dublin, Ireland - Remote | Remote | Sep 18 |
-| **[Elektrobit](https://www.elektrobit.com/)** | **[HPC Sr. Product Manager](https://jobs.elektrobit.com/HPC-Sr-Product-Manager-eng-j9525.html)** | India - Bangalore, IN | On Site | Sep 18 |
-| **[Abbott](https://www.abbott.com/)** | **[Product Manager - Pharma](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Thailand---Bangkok/Product-Manager---Pharma_31129630)** | Thailand - Bangkok : Q-House Lumpini Building | On Site | Sep 18 |
+| **[eHealth, Inc.](https://www.ehealthinsurance.com/)** | **[Staff Product Manager (Shared Services)](https://ehealthinsurance.wd5.myworkdayjobs.com/en-US/EHI/job/USA-Remote/Staff-Product-Manager--Shared-Services-_R4150)** | USA Remote, United States | Remote | Sep 18 |
+| **[Zendesk](https://www.zendesk.com)** | **[Product Manager](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Pune-India/Product-Manager_R32625)** | India - Pune - Office | On Site | Sep 18 |
+| **[LEGO Group](https://www.lego.com/)** | **[Senior SAP Product Manager - Order to Cash](https://lego.wd103.myworkdayjobs.com/en-US/LEGO_External/job/Billund/Senior-SAP-Product-Manager---Order-to-Cash_0000026730)** | Billund LEGO Campus, Denmark | On Site | Sep 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 40 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 14% remote | 40 companies | Avg salary: 216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
