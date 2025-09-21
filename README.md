@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 20, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -21,9 +21,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bayer](https://www.bayer.com/)** | **[Enterprise Product Manager - LATAM Farmer Experience](https://jobs.bayer.com/job/Munro-Enterprise-Product-Manager-LATAM-Farmer-Experience-Buen/1249575601/)** | Munro, Buenos Aires, AR | On Site | Sep 20 |
 | **[American Airlines](https://www.aa.com)** | **[Associate Product Manager, Technology Products](https://jobs.aa.com/job/Dallas-Associate-Product-Manager%2C-Technology-Products-TX-75201/1327754200/)** | Dallas, TX, US | On Site | Sep 20 |
 | **[Solidus Labs](https://www.soliduslabs.com/)** | **[Data Product Manager](https://www.soliduslabs.com/open-position/data-product-manager)** | New York, NY, US | On Site | Sep 20 |
-| **[Faith Technologies Incorporated](https://www.faithtechinc.com/)** | **[Product Manager](https://faithtechnologies.wd1.myworkdayjobs.com/en-US/FTI/job/WI---Menasha/Product-Manager_R7586-3)** | Menasha-OMC, United States | On Site | Sep 20 |
-| **[Acclaro](https://acclaro.com/)** | **[Product Manager](https://acclaro.bamboohr.com/careers/462)** | Remote - Remote, Greater London, United Kingdom | Remote | Sep 20 |
+| **[Faith Technologies Incorporated](https://faithtechnologies.com/)** | **[Product Manager](https://faithtechnologies.wd1.myworkdayjobs.com/en-US/FTI_Office/job/WI---Menasha/Product-Manager_R7586-1)** | Menasha-OMC, United States | On Site | Sep 20 |
 | **[Target](https://www.target.com/)** | **[Sr Product Manager - Available to Promise T+](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager---Available-to-Promise-T-_R0000406100)** | Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065, India | On Site | Sep 20 |
+| **[Acclaro](https://acclaro.com/)** | **[Product Manager](https://acclaro.bamboohr.com/careers/462)** | Remote - Remote, Greater London, United Kingdom | Remote | Sep 20 |
 | **[Donaldson](https://www.donaldson.com/)** | **[Product Manager II](https://donaldson.wd5.myworkdayjobs.com/en-US/DonaldsonCareers/job/Bloomington-MN-USA/Product-Manager-II_JR-24679)** | Bloomington, United States | On Site | Sep 20 |
 | **[Amperity](https://amperity.com/)** | **[Senior Product Manager - Measurement & Optimization](https://amperity.com/careers/7264953?gh_jid=7264953&gh_src=053ff1fc1us&gh_jid=7264953)** | Seattle, WA | On Site | Sep 19 |
 | **[AlphaSense](https://www.alpha-sense.com/)** | **[Product Manager, Financial Data](https://job-boards.greenhouse.io/alphasense/jobs/8178438002)** | Remote - Canada | Remote | Sep 19 |
