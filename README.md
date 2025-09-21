@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 21, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 21, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -21,7 +21,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bayer](https://www.bayer.com/)** | **[Enterprise Product Manager - LATAM Farmer Experience](https://jobs.bayer.com/job/Munro-Enterprise-Product-Manager-LATAM-Farmer-Experience-Buen/1249575601/)** | Munro, Buenos Aires, AR | On Site | Sep 20 |
 | **[American Airlines](https://www.aa.com)** | **[Associate Product Manager, Technology Products](https://jobs.aa.com/job/Dallas-Associate-Product-Manager%2C-Technology-Products-TX-75201/1327754200/)** | Dallas, TX, US | On Site | Sep 20 |
 | **[Solidus Labs](https://www.soliduslabs.com/)** | **[Data Product Manager](https://www.soliduslabs.com/open-position/data-product-manager)** | New York, NY, US | On Site | Sep 20 |
-| **[Faith Technologies Incorporated](https://faithtechnologies.com/)** | **[Product Manager](https://faithtechnologies.wd1.myworkdayjobs.com/en-US/FTI_Office/job/WI---Menasha/Product-Manager_R7586-1)** | Menasha-OMC, United States | On Site | Sep 20 |
+| **[Faith Technologies Incorporated](https://www.faithtechinc.com/)** | **[Product Manager](https://faithtechnologies.wd1.myworkdayjobs.com/en-US/FTI/job/WI---Menasha/Product-Manager_R7586-3)** | Menasha-OMC, United States | On Site | Sep 20 |
+| **[Adobe](https://www.adobe.com/)** | **[Senior Business Intelligence Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Senior-Business-Intelligence-Product-Manager_R158396)** | New York, United States | On Site | Sep 20 |
 | **[Target](https://www.target.com/)** | **[Sr Product Manager - Available to Promise T+](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager---Available-to-Promise-T-_R0000406100)** | Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065, India | On Site | Sep 20 |
 | **[Acclaro](https://acclaro.com/)** | **[Product Manager](https://acclaro.bamboohr.com/careers/462)** | Remote - Remote, Greater London, United Kingdom | Remote | Sep 20 |
 | **[Donaldson](https://www.donaldson.com/)** | **[Product Manager II](https://donaldson.wd5.myworkdayjobs.com/en-US/DonaldsonCareers/job/Bloomington-MN-USA/Product-Manager-II_JR-24679)** | Bloomington, United States | On Site | Sep 20 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Skylight](https://skylight.digital/)** | **[Staff/Principal Product Manager, Technical (HHS)](https://job-boards.greenhouse.io/skylighthq/jobs/4610683005)** | Washington, District of Columbia, United States | On Site | Sep 19 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Product Manager, Vice President - Talent Acquisition](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210668382)** | Plano, TX, United States | On Site | Sep 19 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Growth Product Manager - Azure AI Foundry](https://jobs.careers.microsoft.com/global/en/job/1864918/)** | Redmond, Washington, United States | On Site | Sep 19 |
-| **[Sky Mavis](https://skymavis.com/)** | **[Senior Product Manager](https://jobs.ashbyhq.com/skymavis/2138397d-c55d-4828-b63b-53692d903c29)** | San Francisco, CA | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 45 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 20% remote | 45 companies | Avg salary: 215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
