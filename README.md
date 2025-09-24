@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 23, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 24, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Product Manager, Complex Products](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Manager--Complex-Products_REQ245974)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Sep 24 |
 | **[Tempur Sealy International](https://www.tempursealy.com/)** | **[Marketing Product Manager](https://myjobs.adp.com/tempursealy/cx/job-details?reqId=5001152071906)** | Lexington, KY, United States | On Site | Sep 23 |
 | **[DuluxGroup](https://www.duluxgroup.com.au/)** | **[Brand & Product Manager](https://www.livehire.com/careers/duluxgroup/job/RE3GR/5SXMQ4EJPV/brand-product-manager)** | Padstow, NSW, AU | On Site | Sep 23 |
 | **[Papaya Global](https://www.papayaglobal.com/)** | **[Product Manager](https://www.papayaglobal.com/positions/product-manager-3/)** | England, GB | On Site | Sep 23 |
@@ -35,8 +36,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Grundfos](https://www.grundfos.com/)** | **[Global Product Manager, BM & BMS](https://jobs.grundfos.com/job/Bjerringbro-Global-Product-Manager%2C-BM-&-BMS-82-8850/1250043001/)** | Bjerringbro, 82, DK, 8850 | On Site | Sep 23 |
 | **[Akamai Technologies](https://www.akamai.com/)** | **[Product Manager](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/1338)** | Poland | On Site | Sep 23 |
 | **[Westpac](https://www.westpac.com.au/)** | **[Partnership & Product Manager](https://ebuu.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/63662)** | Sydney, NSW, Australia | On Site | Sep 23 |
-| **[evoke](https://www.evokeplc.com/)** | **[Customer Safety Product Manager](https://888sparkware.ro/career/?uid=C8.D57)** | București, București, RO | On Site | Sep 23 |
 | **[888 Group](https://www.888.com/)** | **[Customer Safety Product Manager](https://888sparkware.ro/career/?uid=C8.D57)** | București, București, RO | On Site | Sep 23 |
+| **[evoke](https://www.evokeplc.com/)** | **[Customer Safety Product Manager](https://888sparkware.ro/career/?uid=C8.D57)** | București, București, RO | On Site | Sep 23 |
 | **[American Airlines](https://www.aa.com)** | **[Associate Product Manager, Technology Products](https://jobs.aa.com/job/Dallas-Associate-Product-Manager%2C-Technology-Products-TX-75201/1328137300/)** | Dallas, TX, US | On Site | Sep 23 |
 | **[The Workshop](https://www.theworkshop.com)** | **[Senior Product Manager (Fixed Term Job)](https://careers.theworkshop.com/jobs/6491714-senior-product-manager-fixed-term-job)** | London, United Kingdom | On Site | Sep 23 |
 | **[Anton Paar](https://www.anton-paar.com)** | **[Product Manager Brabender FarinoGraph (w/m/d)](https://jobs.smartrecruiters.com/AntonPaar1/744000083395970-product-manager-brabender-farinograph-w-m-d-)** | Duisburg, Germany | On Site | Sep 23 |
@@ -58,15 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sofar Ocean](https://www.sofarocean.com/)** | **[Senior Product Manager, Wayfinder](https://job-boards.greenhouse.io/sofarocean/jobs/7451929003)** | San Francisco, CA | On Site | Sep 23 |
 | **[OfferUp](https://offerup.com/)** | **[Sr. Product Manager, Growth (Hybrid, Bellevue)](https://job-boards.greenhouse.io/offerup/jobs/7269500)** | Bellevue, WA | On Site | Sep 23 |
 | **[Kantar](https://www.kantar.com/)** | **[Lead Product Manager – Infrastructure](https://kantar.wd3.myworkdayjobs.com/en-US/KANTART/job/Porto-R-Dom-Joo-I/Lead-Product-Manager---Infrastructure-_R097120-2)** | Porto, R. Dom João I, Portugal | On Site | Sep 23 |
+| **[TCGplayer](https://www.tcgplayer.com/)** | **[Product Manager, Fulfillment](https://ebay.wd5.myworkdayjobs.com/en-US/TCGPlayer_External_Career/job/Remote-Ohio/Product-Manager--Fulfillment_R0069941-1)** | Remote Ohio, United States | Remote | Sep 23 |
+| **[Workday](https://www.workday.com/)** | **[Product Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/INDChennai/Product-Manager_JR-0099193)** | IND.Chennai, India | On Site | Sep 23 |
+| **[Johnson Controls](https://www.johnsoncontrols.com/)** | **[Product Manager - Shrink Analytics](https://jci.wd5.myworkdayjobs.com/en-US/TUPU/job/Bangalore-Karnataka-India/Product-Manager---Shrink-Analytics_WD30249648)** | IND Bangalore C 701, India | On Site | Sep 23 |
 | **[Productive](https://productive.io/)** | **[Product Manager](https://apply.workable.com/j/DD08BE31EB/apply)** | Zagreb, Grad Zagreb, Croatia | On Site | Sep 23 |
-| **[Organon](https://www.organon.com/)** | **[Sr. Product Manager](https://organon.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CHN---Shanghai---Shanghai/Sr-Product-Manager_R535119)** | CHN - Shanghai - Shanghai, China | On Site | Sep 23 |
-| **[Wells Fargo](https://www.wellsfargo.com/)** | **[Lead Digital Product Manager](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager--Salesforce-Marketing-Cloud-Product-Owner-_R-480429)** | 111442-IND-BENGALURU-INTL BLR BLK B3 PETUNIA, India | On Site | Sep 23 |
-| **[Johnson Controls](https://www.johnsoncontrols.com/)** | **[Product Manager - Shrink Analytics](https://jci.wd5.myworkdayjobs.com/en-US/JCI_Confidential/job/Bangalore-Karnataka-India/Product-Manager---Shrink-Analytics_WD30249648-1)** | IND Bangalore C 701, India | On Site | Sep 23 |
-| **[Blackstone](https://www.blackstone.com/)** | **[Oracle ERP/EPM Product Manager, VP - Blackstone Technology & Innovations](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Technology/job/New-York/Finance-Technology-Product-Manager--VP---Blackstone-Technology---Innovations_36427)** | New York 601 Lex, United States | On Site | Sep 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 38 companies | Avg salary: 226k  
+**Current Stats:** 50 jobs | 6% remote | 38 companies | Avg salary: 220k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
