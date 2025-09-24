@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Product Manager, Complex Products](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Manager--Complex-Products_REQ245974)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Sep 24 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Principal Outbound Product Manager - CSM](https://jobs.smartrecruiters.com/ServiceNow/744000083555449-principal-outbound-product-manager-csm)** | Santa Clara, CALIFORNIA, United States | On Site | Sep 23 |
 | **[Tempur Sealy International](https://www.tempursealy.com/)** | **[Marketing Product Manager](https://myjobs.adp.com/tempursealy/cx/job-details?reqId=5001152071906)** | Lexington, KY, United States | On Site | Sep 23 |
 | **[DuluxGroup](https://www.duluxgroup.com.au/)** | **[Brand & Product Manager](https://www.livehire.com/careers/duluxgroup/job/RE3GR/5SXMQ4EJPV/brand-product-manager)** | Padstow, NSW, AU | On Site | Sep 23 |
 | **[Papaya Global](https://www.papayaglobal.com/)** | **[Product Manager](https://www.papayaglobal.com/positions/product-manager-3/)** | England, GB | On Site | Sep 23 |
@@ -58,15 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[FareHarbor](https://fareharbor.com/)** | **[Group Product Manager - Core](https://fareharbor.com/careers/jobs/?gh_jid=8181518002)** | Denver | On Site | Sep 23 |
 | **[Sofar Ocean](https://www.sofarocean.com/)** | **[Senior Product Manager, Wayfinder](https://job-boards.greenhouse.io/sofarocean/jobs/7451929003)** | San Francisco, CA | On Site | Sep 23 |
 | **[OfferUp](https://offerup.com/)** | **[Sr. Product Manager, Growth (Hybrid, Bellevue)](https://job-boards.greenhouse.io/offerup/jobs/7269500)** | Bellevue, WA | On Site | Sep 23 |
-| **[Kantar](https://www.kantar.com/)** | **[Lead Product Manager – Infrastructure](https://kantar.wd3.myworkdayjobs.com/en-US/KANTART/job/Porto-R-Dom-Joo-I/Lead-Product-Manager---Infrastructure-_R097120-2)** | Porto, R. Dom João I, Portugal | On Site | Sep 23 |
-| **[TCGplayer](https://www.tcgplayer.com/)** | **[Product Manager, Fulfillment](https://ebay.wd5.myworkdayjobs.com/en-US/TCGPlayer_External_Career/job/Remote-Ohio/Product-Manager--Fulfillment_R0069941-1)** | Remote Ohio, United States | Remote | Sep 23 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Senior Product Manager](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Senior-Product-Manager_10131539)** | USA - FL - Kirkman Point 2, United States | On Site | Sep 23 |
+| **[Kantar](https://www.kantar.com/)** | **[Lead Product Manager – Infrastructure](https://kantar.wd3.myworkdayjobs.com/en-US/KantarEvenbreak/job/Porto-R-Dom-Joo-I/Lead-Product-Manager---Infrastructure-_R097120-1)** | Porto, R. Dom João I, Portugal | On Site | Sep 23 |
+| **[Netflix](https://www.netflix.com/)** | **[Product Manager - GenAI](https://netflix.wd1.myworkdayjobs.com/en-US/Netflix/job/USA---Remote/Product-Manager_JR34661)** | USA - Remote, United States | Remote | Sep 23 |
 | **[Workday](https://www.workday.com/)** | **[Product Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/INDChennai/Product-Manager_JR-0099193)** | IND.Chennai, India | On Site | Sep 23 |
-| **[Johnson Controls](https://www.johnsoncontrols.com/)** | **[Product Manager - Shrink Analytics](https://jci.wd5.myworkdayjobs.com/en-US/TUPU/job/Bangalore-Karnataka-India/Product-Manager---Shrink-Analytics_WD30249648)** | IND Bangalore C 701, India | On Site | Sep 23 |
-| **[Productive](https://productive.io/)** | **[Product Manager](https://apply.workable.com/j/DD08BE31EB/apply)** | Zagreb, Grad Zagreb, Croatia | On Site | Sep 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 38 companies | Avg salary: 220k  
+**Current Stats:** 50 jobs | 6% remote | 38 companies | Avg salary: 270k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
