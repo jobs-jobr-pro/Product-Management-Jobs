@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -45,28 +45,28 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Allegro](https://allegro.pl/)** | **[Senior Business Product Manager (Network)](https://careers.allegro.eu/job/Warszawa-Senior-Business-Product-Manager-%28Network%29-00-841/1162535055/)** | Warszawa, PL, 00-841 | On Site | Sep 24 |
 | **[Stax Payments](https://staxpayments.com/)** | **[Product Manager, Payment Processing](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3317500)** | Orlando, FL, US | On Site | Sep 24 |
 | **[Experian](https://www.experian.com/)** | **[Product Manager II](https://jobs.smartrecruiters.com/Experian/744000083584526-product-manager-ii)** | United States, UNITED STATES, United States | Remote | Sep 24 |
-| **[GE Vernova](https://www.gevernova.com/)** | **[Sr Technical Product Manager](https://gevernova.wd5.myworkdayjobs.com/en-US/Only_Confidential_Executive_Recruiting/job/Remote/Sr-Technical-Product-Manager_R5020535)** | Remote, India | Remote | Sep 24 |
-| **[Johnson & Johnson](https://www.jnj.com/)** | **[Product Manager](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Dubai-United-Arab-Emirates/Product-Manager_R-035163)** | AE001 Dubai Healthcare city, United Arab Emirates | On Site | Sep 24 |
-| **[GE HealthCare](https://www.gehealthcare.com/)** | **[Product Manager Interventional - East & Bangladesh](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Kolkata/Product-Manager-Interventional----East---Bangladesh_R4029590-1)** | Kolkata, India | On Site | Sep 24 |
-| **[NCR Voyix](https://www.ncrvoyix.com/)** | **[Platform Product Manager](https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Platform-Product-Manager---Restaurants---Atlanta--GA-On-site_R0151776)** | Atlanta HQ North Tower Office, United States | On Site | Sep 24 |
-| **[GE Vernova](https://www.gevernova.com/)** | **[Product Manager](https://gevernova.wd5.myworkdayjobs.com/en-US/Only_Confidential_Executive_Recruiting/job/Lisburn/Product-Manager_R5012697-3)** | Lisburn, United Kingdom | On Site | Sep 24 |
-| **[Weekday](https://www.weekday.works)** | **[Product Manager](https://apply.workable.com/j/461FF519EF/apply)** | Pune, Maharashtra, India | On Site | Sep 24 |
-| **[PayPal](https://www.paypal.com/)** | **[Lead Product Manager - Venmo Ads](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Lead-Product-Manager_R0131125-1)** | USA - Illinois - Chicago - Corp - W Merchandise Mart Plaza, United States | On Site | Sep 24 |
-| **[Ingram Micro](https://www.ingrammicro.com/)** | **[Product Manager, Unified Communications](https://ingrammicro.wd5.myworkdayjobs.com/en-US/IngramMicro/job/Kallang-Bahru-Singapore/Product-Manager--Unified-Communications_R-111561)** | Kallang Bahru Office, Singapore | On Site | Sep 24 |
-| **[Workhuman](https://www.workhuman.com/)** | **[Senior Product Manager](https://workhuman.wd1.myworkdayjobs.com/en-US/WorkhumanCareers/job/Dublin-Ireland-HQ/Senior-Product-Manager_R2961)** | Dublin, Ireland (HQ) | On Site | Sep 24 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com/)** | **[Portfolio Product Manager](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-Bishopsgate/Portfolio-Product-Manager_R101501)** | UK - London (Bishopsgate), United Kingdom | On Site | Sep 24 |
-| **[Zendesk](https://www.zendesk.com)** | **[Senior Product Manager - Employee Service](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Pune-India/Senior-Product-Manager_R32462)** | India - Pune - Office | On Site | Sep 24 |
+| **[Guidehouse](https://www.guidehouse.com/)** | **[Federal Appian Product Manager](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Federal-Appian-Product-Manager_32467)** | GH Office: Tysons Corner, VA (Headquarters), United States | On Site | Sep 24 |
 | **[Cotality](https://www.cotality.com/)** | **[Senior Geospatial Product Manager](https://corelogic.wd5.myworkdayjobs.com/en-US/ACQ/job/Remote---United-States/Senior-Product-Manager_REQ17052-2)** | Remote - United States, United States | Remote | Sep 24 |
-| **[RELX](https://www.relx.com/)** | **[Portfolio Product Manager](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---London-Bishopsgate/Portfolio-Product-Manager_R101501-1)** | UK - London (Bishopsgate), United Kingdom | On Site | Sep 24 |
-| **[Fiserv](https://www.fiserv.com/)** | **[Commerce Hub Product Manager](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Marina-Bay-Financial-Center-Singapore/Commerce-Hub-Product-Manager_R-10364194-1)** | Marina Bay Financial Center, Singapore | On Site | Sep 24 |
+| **[GE Vernova](https://www.gevernova.com/)** | **[Sr Technical Product Manager](https://gevernova.wd5.myworkdayjobs.com/en-US/Only_Confidential_Executive_Recruiting/job/Remote/Sr-Technical-Product-Manager_R5020535)** | Remote, India | Remote | Sep 24 |
+| **[Mastercard](https://www.mastercard.com/)** | **[Senior Product Manager-Technical](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Product-Manager-Technical_R-260624-1)** | Pune, India | On Site | Sep 24 |
+| **[Ingram Micro](https://www.ingrammicro.com/)** | **[Product Manager, Unified Communications](https://ingrammicro.wd5.myworkdayjobs.com/en-US/IngramMicro/job/Kallang-Bahru-Singapore/Product-Manager--Unified-Communications_R-111561)** | Kallang Bahru Office, Singapore | On Site | Sep 24 |
 | **[Light & Wonder](https://www.lnw.com/)** | **[Product Manager](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Marousi-Greece/Product-Manager_R320592)** | GREECE-Marousi-27 AgiouThoma, Greece | On Site | Sep 24 |
-| **[Kenvue](https://www.kenvue.com/)** | **[Group Product Manager- Marketing, Skin Health](https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Asia-Pacific-India-Maharashtra-Greater-Mumbai/Group-Product-Manager--Marketing--Skin-Health_2507037971W)** | IN020 Mumbai Arena Space, India | On Site | Sep 24 |
-| **[Traveloka](https://www.traveloka.com/)** | **[Senior Technical Product Manager - PayLater](https://traveloka.wd3.myworkdayjobs.com/en-US/Traveloka/job/Singapore---Local-Office/Senior-Technical-Product-Manager---PayLater_R0007705)** | Singapore - Local Office | On Site | Sep 24 |
+| **[PayPal](https://www.paypal.com/)** | **[Lead Product Manager - Venmo Ads](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Lead-Product-Manager_R0131125-1)** | USA - Illinois - Chicago - Corp - W Merchandise Mart Plaza, United States | On Site | Sep 24 |
+| **[TP-Link USA Corporation](https://www.tp-link.com/us/)** | **[Sr. Product Manager - Network Applications](https://apply.workable.com/j/7017E2FF1F/apply)** | Irvine, California, United States | On Site | Sep 24 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com/)** | **[Portfolio Product Manager](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-Bishopsgate/Portfolio-Product-Manager_R101501)** | UK - London (Bishopsgate), United Kingdom | On Site | Sep 24 |
+| **[Weekday](https://www.weekday.works)** | **[Product Manager](https://apply.workable.com/j/461FF519EF/apply)** | Pune, Maharashtra, India | On Site | Sep 24 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Commerce Hub Product Manager](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Marina-Bay-Financial-Center-Singapore/Commerce-Hub-Product-Manager_R-10364194-1)** | Marina Bay Financial Center, Singapore | On Site | Sep 24 |
+| **[NCR Voyix](https://www.ncrvoyix.com/)** | **[Platform Product Manager](https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Platform-Product-Manager---Restaurants---Atlanta--GA-On-site_R0151776)** | Atlanta HQ North Tower Office, United States | On Site | Sep 24 |
 | **[Synchrony](https://www.synchrony.com/)** | **[VP, Product Manager - Loans Capabilities](https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/University/job/Cincinnati-West-Chester-Site/VP--Product-Manager---Loans-Capabilities_2503348-2)** | Cincinnati West Chester Site, United States | On Site | Sep 24 |
+| **[Workhuman](https://www.workhuman.com/)** | **[Senior Product Manager](https://workhuman.wd1.myworkdayjobs.com/en-US/WorkhumanCareers/job/Dublin-Ireland-HQ/Senior-Product-Manager_R2961)** | Dublin, Ireland (HQ) | On Site | Sep 24 |
+| **[EY](https://www.ey.com)** | **[Product Manager](https://careers.ey.com/ey/job/Katowice-Product-Manager-%C5%9Al%C4%85s-40-028/1250832501/)** | Katowice, Śląskie, PL, 40-028 | On Site | Sep 24 |
+| **[Zendesk](https://www.zendesk.com)** | **[Senior Product Manager - Employee Service](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Pune-India/Senior-Product-Manager_R32462)** | India - Pune - Office | On Site | Sep 24 |
+| **[EY](https://www.ey.com)** | **[Product Manager - Offshore Delivery Center](https://careers.ey.com/ey/job/Kochi-Product-Manager-Offshore-Delivery-Center-KL-682303/1250830201/)** | Kochi, KL, IN, 682303 | On Site | Sep 24 |
+| **[Samsung Electronics](https://www.samsung.com/)** | **[D2C CE Senior Product Manager](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Samsung-House-2000-Hillswood-Drive-Chertsey-United-Kingdom/D2C-CE-Senior-Product-Manager_R109041)** | Samsung House 2000 Hillswood Drive, Chertsey, United Kingdom | On Site | Sep 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 40 companies | Avg salary: 213k  
+**Current Stats:** 50 jobs | 16% remote | 40 companies | Avg salary: 210k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
