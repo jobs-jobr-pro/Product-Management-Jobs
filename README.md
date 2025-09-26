@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 26, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 26, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[S&P Global](https://www.spglobal.com/)** | **[Data & Distribution Platforms - (Senior) Product Manager](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Amsterdam-NLD/Data---Distribution-Platforms----Senior--Product-Manager_319664-2)** | NL - AMSTERDAM PARNASSUSWEG 823 40 HRS, Netherlands | On Site | Sep 26 |
+| **[Globe Group](https://www.globe.com.ph/)** | **[Product Manager](https://globe.wd3.myworkdayjobs.com/en-US/GLB_Careers/job/15F-The-Globe-Tower/Product-Manager_R0000018630)** | 15F The Globe Tower, Philippines | On Site | Sep 26 |
+| **[NVIDIA](https://www.nvidia.com/)** | **[Product Manager - Open Models](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Product-Manager---Open-Models_JR2003771-1)** | China, Beijing | On Site | Sep 26 |
 | **[ADP](https://www.adp.com/)** | **[Lead Product Manager](https://myjobs.adp.com/apply/cx/job-details?reqId=5001137216906)** | Alpharetta, GA, United States | On Site | Sep 25 |
 | **[ADP](https://www.adp.com/)** | **[Senior Product Manager](https://myjobs.adp.com/apply/cx/job-details?reqId=5001150541206)** | Alpharetta, GA, United States | On Site | Sep 25 |
 | **[Freightos](https://www.freightos.com/)** | **[Senior Product Manager](https://www.freightos.com/position/CA.D53/?_gl=1*1mh98wx*_up*MQ..*_ga*NjUzNDI2OTA3LjE3NTg4MDk2MDk.*_ga_3F0YS9M4RP*czE3NTg4MDk2MDgkbzEkZzEkdDE3NTg4MDk2MzQkajM0JGwwJGg0OTgxNjk1MjA.)** | Mertert, Kanton Grevenmacher, LU | On Site | Sep 25 |
@@ -42,7 +45,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coinbase](https://www.coinbase.com/)** | **[Product Manager II](https://www.coinbase.com/careers/positions/7273896?gh_jid=7273896)** | Remote - Singapore | Remote | Sep 25 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Group Product Manager - CX & Automation](https://www.coinbase.com/careers/positions/6730364?gh_jid=6730364)** | Remote - USA | Remote | Sep 25 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Product Manager - Identity & Access](https://www.coinbase.com/careers/positions/6951278?gh_jid=6951278)** | Remote - USA | Remote | Sep 25 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Product Manager II - Coinbase Business](https://www.coinbase.com/careers/positions/7274223?gh_jid=7274223)** | Remote - Canada | Remote | Sep 25 |
+| **[Coinbase](https://www.coinbase.com/)** | **[Product Manager II - Coinbase Business](https://www.coinbase.com/careers/positions/7274215?gh_jid=7274215)** | Remote - USA | Remote | Sep 25 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Cross Currency Solutions Product Manager - Payments - Vice President](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210671097)** | Kwun Tong, Kowloon, Hong Kong | On Site | Sep 25 |
 | **[Goodleap](https://goodleap.com/)** | **[Staff Product Manager, Servicing](https://jobs.lever.co/goodleap/84e4e8ed-8b16-4a0f-b0e0-b135561566f7)** | San Mateo, CA | On Site | Sep 25 |
 | **[DataCamp, Inc.](https://www.datacamp.com/)** | **[Senior Product Manager (Learn Product)](https://job-boards.greenhouse.io/datacamp/jobs/7275550)** | Portugal; Remote | Remote | Sep 25 |
@@ -52,21 +55,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Code](https://code.org/)** | **[Senior Product Manager](https://job-boards.greenhouse.io/codeorg/jobs/4600867005)** | Remote or Seattle, WA | Remote | Sep 25 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Product Manager – Microsoft 365 Copilot- Creation Experiences](https://jobs.careers.microsoft.com/global/en/job/1835135/)** | Mountain View, California, United States | On Site | Sep 25 |
 | **[Hatch](https://www.usehatchapp.com/)** | **[Integrations Product Manager](https://jobs.ashbyhq.com/hatch/b0793c14-c47e-467e-87ab-b1b2fdd52ce1)** | New York City | Remote | Sep 25 |
-| **[Ryt Bank](https://www.rytbank.my/)** | **[Product Manager, Customer Onboarding](https://rytbank.wd3.myworkdayjobs.com/en-US/External_Career/job/Kuala-Lumpur/Product-Manager--Customer-Onboarding_JR00000438)** | KL - Headquarter, Malaysia | On Site | Sep 25 |
+| **[Philips](https://www.philips.com/)** | **[Product Manager I](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Product-Manger-I_557217)** | Bangalore–Embassy Business Hub, India | On Site | Sep 25 |
+| **[Unilabs](https://www.unilabs.com)** | **[Product Manager - Radiology](https://apply.workable.com/j/F6ADB54B46/apply)** | Porto, Porto District, Portugal | On Site | Sep 25 |
 | **[CTBC Financial Holding Co., Ltd](https://www.ctbcholding.com/)** | **[CAL-Product Manager](https://ctbcholding.wd3.myworkdayjobs.com/en-US/External/job/HK/Product-Manager_JR5423)** | HK, Hong Kong | On Site | Sep 25 |
-| **[Genuit Group](https://www.genuitgroup.com/)** | **[Product Manager](https://polypipe.wd103.myworkdayjobs.com/en-US/Careers/job/ADEY-Stonehouse/Product-Manager_JR101780-2)** | ADEY Stonehouse, United Kingdom | On Site | Sep 25 |
-| **[Dow Jones](https://www.dowjones.com/)** | **[Product Manager](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Spain---Barcelona/Product-Manager_Job_Req_49071-1)** | Spain - Barcelona | On Site | Sep 25 |
-| **[CHANEL](https://www.chanel.com/)** | **[Product Manager/Assistant Product Manager - Fragrance](https://cc.wd3.myworkdayjobs.com/en-US/ChanelCareers/job/Taipei-City/Product-Manager-Assistant-Product-Manager---Fragrance_JOBREQ00106146-2)** | TAIPEI NANSHAN OFFICE, Taiwan Region | On Site | Sep 25 |
-| **[Amentum](https://www.amentum.com/)** | **[Product Manager](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/OC-AUS-Brisbane/Product-Manager_R0146466)** | AUS-Amberley-RAAF (001AU), Australia | On Site | Sep 25 |
-| **[Maersk](https://www.maersk.com/)** | **[Lead Logistics Product Manager](https://maersk.wd3.myworkdayjobs.com/en-US/Maersk_Careers/job/Vietnam-H-Ch-Minh-Ho-Chi-Minh-City-71100/Lead-Logistics-Product-Manager_R162539)** | VNSGN16 - Ho Chi Minh City - Maersk Vietnam,Sofic tower | On Site | Sep 25 |
-| **[Guidewire Software](https://www.guidewire.com/)** | **[Product Manager](https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/Poland---Krakow/Product-Manager_JR_12924)** | Krakow Office, Poland | On Site | Sep 25 |
-| **[Medtronic](https://www.medtronic.com/)** | **[Global Senior Product Manager- Commercial Marketing Cardiac Surgical Therapies-Surgical Valve](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brooklyn-Park-Minnesota-United-States-of-America/Global-Senior-Product-Manager--Commercial-Marketing-Cardiac-Surgical-Therapies-Surgical-Valve_R44542-1)** | USA-MN, United States | On Site | Sep 25 |
-| **[Snap Inc.](https://snap.com/)** | **[Product Manager, Sponsored Snaps](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Product-Manager--Sponsored-Snaps_R0042275-1)** | Santa Monica - 3340 Ocean Park Blvd, United States | On Site | Sep 25 |
+| **[Unilabs](https://www.unilabs.com)** | **[Product Manager NL](https://apply.workable.com/j/DFE2476444/apply)** | Amsterdam, North Holland, Netherlands | On Site | Sep 25 |
+| **[Curtiss-Wright Corporation](https://curtisswright.com/)** | **[Product Manager](https://curtisswright.wd1.myworkdayjobs.com/en-US/CW_External_Career_Site/job/US-PA-Aston-ESCO/Product-Manager_JR9905-1)** | US-PA-Aston (ESCO), United States | On Site | Sep 25 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Product Manager](https://dedalus.wd3.myworkdayjobs.com/en-US/External/job/ITA---Rome/Product-Manager_JR107442)** | ITA - Rome, Italy | On Site | Sep 25 |
+| **[Shiseido](https://www.shiseido.com/)** | **[Product Manager, bS](https://careers.shiseido.com/job/Taipei-Product-Manager%2C-bS-TPE/1251311801/)** | Taipei, TPE, TW | On Site | Sep 25 |
+| **[Dow Jones](https://www.dowjones.com/)** | **[Product Manager](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Spain---Barcelona/Product-Manager_Job_Req_49071-1)** | Spain - Barcelona | On Site | Sep 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 42 companies | Avg salary: 217k  
+**Current Stats:** 50 jobs | 22% remote | 41 companies | Avg salary: 208k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
