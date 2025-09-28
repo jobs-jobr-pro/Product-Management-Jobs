@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 28, 2025 at 00:31 UTC</small></sub>
+<sub><small>Last updated: Sep 28, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
