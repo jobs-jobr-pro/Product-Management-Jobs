@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 28, 2025 at 00:31 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[S&P Global](https://www.spglobal.com/)** | **[Data & Distribution Platforms - Product Manager](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Noida-Uttarpradesh/Data---Distribution-Platforms---Product-Manager_319637-1)** | IN - NOIDA CANDOR TECHSPACE SECTOR 62, India | On Site | Sep 28 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Product Manager, Integration - Enterprise Technology](https://bloomberg.avature.net/careers/JobDetail/Senior-Product-Manager-Integration-Enterprise-Technology/14878)** | London | On Site | Sep 27 |
 | **[Tesco](https://www.tesco.com/)** | **[Product Manager - Customer Lists (App)](https://careers.tesco.com/en_GB/careersmarketplace/JobDetail/Product-Manager-Customer-Lists-App/149826)** | Welwyn Garden City, United Kingdom of Great Britain and Northern Ireland | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Product Manager, Payments Platform](https://www.google.com/about/careers/applications/jobs/results/94494132570858182-product-manager-payments-platform)** | Hyderabad, Telangana, India; Bengaluru, Karnataka, India | On Site | Sep 27 |
@@ -24,8 +25,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Impiricus](https://impiricus.com/)** | **[Technical Product Manager - Integrations](https://job-boards.greenhouse.io/impiricus/jobs/4936175008)** | Remote | Remote | Sep 27 |
 | **[The Princeton Review](https://www.princetonreview.com/)** | **[Product Manager](https://recruiting.ultipro.com/TPR1000TPR/JobBoard/de215d89-592c-4118-ac2a-9afa5e31b784/OpportunityDetail?opportunityId=0393b070-ad7e-40a2-ad29-0b26cef6c540)** | Remote, United States | Remote | Sep 27 |
 | **[Stitch Fix](https://www.stitchfix.com/)** | **[Product Manager - DSN Product Catalog](https://www.stitchfix.com/careers/jobs?gh_jid=7280879&gh_jid=7280879)** | Remote | Remote | Sep 27 |
-| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[\[LTA-ITCD\] SENIOR PRODUCT MANAGER/ PRODUCT MANAGER](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Singapore/XMLNAME--LTA-ITCD--SENIOR-PRODUCT-MANAGER--PRODUCT-MANAGER_JR-10000043193)** | LTA HSO B6 02, Singapore | On Site | Sep 27 |
 | **[UBS](https://www.ubs.com/)** | **[Product Manager Portfolio Advice Intelligence (temporary)](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=333079)** | Zürich, Switzerland - Zürich | On Site | Sep 27 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[\[LTA-ITCD\] SENIOR PRODUCT MANAGER/ PRODUCT MANAGER](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Singapore/XMLNAME--LTA-ITCD--SENIOR-PRODUCT-MANAGER--PRODUCT-MANAGER_JR-10000043193)** | LTA HSO B6 02, Singapore | On Site | Sep 27 |
 | **[Vercel](https://vercel.com/)** | **[Product Manager - Pricing](https://job-boards.greenhouse.io/vercel/jobs/5548086004)** | Hybrid - San Francisco, New York City | On Site | Sep 26 |
 | **[Behavox](https://www.behavox.com/)** | **[Product Manager 2](https://job-boards.greenhouse.io/behavox/jobs/7280179)** | Montreal | On Site | Sep 26 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Product Manager](https://jobs.careers.microsoft.com/global/en/job/1860395/)** | Redmond, Washington, United States | On Site | Sep 26 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Procore Technologies](https://www.procore.com)** | **[Product Manager, Submittals](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000084278985-product-manager-submittals)** | Austin, TX, United States | On Site | Sep 26 |
 | **[Solv Health](https://www.solvhealth.com)** | **[Core Integrations Senior Product Manager](https://ats.rippling.com/solv-health/jobs/99fd06ed-8388-4de6-8823-efc191af55c4)** | Remote (United States) | Remote | Sep 26 |
 | **[Tubi](https://tubitv.com/)** | **[Senior Product Manager, Content Presentation](https://job-boards.greenhouse.io/tubitv/jobs/7279877)** | San Francisco, CA (Hybrid) | On Site | Sep 26 |
-| **[Crunchtime](https://www.crunchtime.com/)** | **[Senior Product Manager - ConnectSmart Kitchen](https://www.crunchtime.com/open-positions?gh_jid=5660246004)** | Boston, Atlanta, Louisville | On Site | Sep 26 |
 
 ---
 
