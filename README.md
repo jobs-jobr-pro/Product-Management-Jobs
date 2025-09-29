@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Sep 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -25,10 +25,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Impiricus](https://impiricus.com/)** | **[Technical Product Manager - Integrations](https://jobr.pro/job/28847062/technical-product-manager-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Sep 27 |
 | **[The Princeton Review](https://www.princetonreview.com/)** | **[Product Manager](https://jobr.pro/job/28854404/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, United States | Remote | Sep 27 |
 | **[Stitch Fix](https://www.stitchfix.com/)** | **[Product Manager - DSN Product Catalog](https://jobr.pro/job/28852472/product-manager-dsn-product-catalog?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Sep 27 |
-| **[UBS](https://www.ubs.com/)** | **[Product Manager Portfolio Advice Intelligence (temporary)](https://jobr.pro/job/28877556/product-manager-portfolio-advice-intelligence-temporary?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Zürich, Switzerland - Zürich | On Site | Sep 27 |
 | **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[\[LTA-ITCD\] SENIOR PRODUCT MANAGER/ PRODUCT MANAGER](https://jobr.pro/job/28894908/lta-itcd-senior-product-manager-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | LTA HSO B6 02, Singapore | On Site | Sep 27 |
+| **[UBS](https://www.ubs.com/)** | **[Product Manager Portfolio Advice Intelligence (temporary)](https://jobr.pro/job/28877556/product-manager-portfolio-advice-intelligence-temporary?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Zürich, Switzerland - Zürich | On Site | Sep 27 |
 | **[Vercel](https://vercel.com/)** | **[Product Manager - Pricing](https://jobr.pro/job/28840074/product-manager-pricing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid - San Francisco, New York City | On Site | Sep 26 |
-| **[Behavox](https://www.behavox.com/)** | **[Product Manager 2](https://jobr.pro/job/28848507/product-manager-2?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Montreal | On Site | Sep 26 |
+| **[Behavox](https://www.behavox.com/)** | **[Product Manager 2](https://jobr.pro/job/28848506/product-manager-2?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto | On Site | Sep 26 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Product Manager](https://jobr.pro/job/28871766/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redmond, Washington, United States | On Site | Sep 26 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Product Manager - Word](https://jobr.pro/job/28871769/principal-product-manager-word?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redmond, Washington, United States | On Site | Sep 26 |
 | **[Smartsheet](https://www.smartsheet.com/)** | **[Principal Product Manager](https://jobr.pro/job/28842632/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bellevue, WA, USA | Remote | Sep 26 |
