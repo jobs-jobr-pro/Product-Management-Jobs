@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 01, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,9 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Trimble](https://www.trimble.com/)** | **[Product Manager - Logistics](https://jobr.pro/job/29082277/product-manager-logistics?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New Zealand - Remote | Remote | Oct 01 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Self-Service Business Product Manager](https://jobr.pro/job/29082304/self-service-business-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Orlando, Florida, United States | On Site | Sep 30 |
+| **[ServiceNow](https://www.servicenow.com)** | **[AI Business Product Manager](https://jobr.pro/job/29082023/ai-business-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Orlando, Florida, United States | On Site | Sep 30 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Principal Product Manager, Now Next AI](https://jobr.pro/job/29082028/senior-principal-product-manager-now-next-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, California, United States | On Site | Sep 30 |
 | **[Tyto Athene](https://gotyto.com/)** | **[Product Manager (Remote) (Broker or Payer Segment)](https://jobr.pro/job/29068703/product-manager-remote-broker-or-payer-segment?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Work From Home, United States | Remote | Sep 30 |
 | **[Claritev](https://www.multiplan.us/)** | **[Product Manager (Remote) (Broker or Payer Segment)](https://jobr.pro/job/29068670/product-manager-remote-broker-or-payer-segment?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Work From Home, United States | Remote | Sep 30 |
 | **[ADP](https://www.adp.com/)** | **[Technical Product Manager](https://jobr.pro/job/29065940/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Parsippany, NJ, United States | On Site | Sep 30 |
+| **[Sana Commerce](https://www.sana-commerce.com)** | **[Product Manager – Data Value Services](https://jobr.pro/job/29082126/product-manager-data-value-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alexandria, Alexandria Governorate, Egypt | On Site | Sep 30 |
 | **[Ministry of Justice](https://www.justice.gov.uk/)** | **[10324 - Judicial Digital Services Product Manager, Judicial Office](https://jobr.pro/job/29048275/10324-judicial-digital-services-product-manager-judicial-office?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, National, London, National | On Site | Sep 30 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Product Manager](https://jobr.pro/job/29047756/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US-TX-Plano | On Site | Sep 30 |
 | **[Synopsys Inc](https://synopsys.avature.net/)** | **[Electro Optical Software Product Manager](https://jobr.pro/job/29047043/electro-optical-software-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | California, US (California) Off-Site | On Site | Sep 30 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Openchip & Software Technologies](https://openchip.com/)** | **[Technical Product Manager - AI Systems](https://jobr.pro/job/28989226/technical-product-manager-ai-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid (Limerick, Ireland) | On Site | Sep 30 |
 | **[Openchip & Software Technologies](https://openchip.com/)** | **[Product Manager AI](https://jobr.pro/job/28989208/product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid (9000, Ghent, Belgium) | On Site | Sep 30 |
 | **[Westpac](https://www.westpac.com.au/)** | **[Senior Product Manager](https://jobr.pro/job/29043476/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Barangaroo, NSW, Australia | On Site | Sep 30 |
-| **[Visa](https://visa.com)** | **[Product Manager, Digital Infrastructure & Non-Card Strategy – CARCAM](https://jobr.pro/job/29001008/product-manager-digital-infrastructure-non-card-strategy-carcam?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Panama, Panama, Panama | On Site | Sep 30 |
-| **[Trean Insurance Group](https://www.trean.com)** | **[Product Manager](https://jobr.pro/job/29025106/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | WAYZATA, MN, US | On Site | Sep 30 |
-| **[Ross Video](https://www.rossvideo.com/)** | **[Product Manager - Production Switchers (Job Req #2025-322)](https://jobr.pro/job/29055193/product-manager-production-switchers-job-req-2025-322?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Virtual | Remote | Sep 30 |
-| **[Wingie Enuygun Group](https://www.enuygun.com/)** | **[Product Manager](https://jobr.pro/job/29044823/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | İstanbul, İstanbul, Turkey | On Site | Sep 30 |
-| **[Stockbit](https://stockbit.com/)** | **[Product Manager - Crypto](https://jobr.pro/job/29008871/product-manager-crypto?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jakarta, Jakarta, Indonesia | On Site | Sep 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 39 companies | Avg salary: 180k  
+**Current Stats:** 50 jobs | 12% remote | 37 companies | Avg salary: 194k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
