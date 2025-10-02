@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Amazon.com](https://www.amazon.com/)** | **[Principal Product Manager Technical, External Services, AgentCore](https://jobr.pro/job/29180466/principal-product-manager-technical-external-services-agentcore?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, California, USA | On Site | Oct 02 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Principal Outbound Product Manager - CSM](https://jobr.pro/job/29175806/principal-outbound-product-manager-csm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Oct 01 |
 | **[Panorays](https://panorays.com/)** | **[Product Manager](https://jobr.pro/job/29152947/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 01 |
+| **[Experian](https://www.experian.com/)** | **[Senior Product Manager – Data Consumption - Analytics Platform](https://jobr.pro/job/29175636/senior-product-manager-data-consumption-analytics-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Nottingham, United Kingdom | On Site | Oct 01 |
 | **[BruntWork](https://www.bruntworkcareers.co/)** | **[Product Manager (Security Technology Products)](https://jobr.pro/job/29142255/product-manager-security-technology-products?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Oct 01 |
 | **[QuickSell](https://quicksell.co/)** | **[Product Manager](https://jobr.pro/job/29146647/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Maharashtra, Andheri, India | On Site | Oct 01 |
 | **[Sambla](https://www.samblagroup.com)** | **[Product Manager](https://jobr.pro/job/29135258/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Stockholm, Sweden | On Site | Oct 01 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Philips](https://www.philips.com/)** | **[Senior Product Manager – Pregnancy+](https://jobr.pro/job/29115540/senior-product-manager-pregnancy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Farnborough – B1, United Kingdom | On Site | Oct 01 |
 | **[Salla](https://salla.com/)** | **[Product Manager - Marketplace](https://jobr.pro/job/29124059/product-manager-marketplace?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jeddah, Makkah Province, Saudi Arabia | On Site | Oct 01 |
 | **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Lead Product Manager - Safety & Compliance](https://jobr.pro/job/29150975/lead-product-manager-safety-compliance?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NLD - Alphen Aan Den Rijn, Netherlands | On Site | Oct 01 |
-| **[GE Vernova](https://www.gevernova.com/)** | **[Sr. Technical Product Manager](https://jobr.pro/job/29135642/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hyderabad, India | On Site | Oct 01 |
-| **[GE Vernova](https://www.gevernova.com/)** | **[Sr Staff Technical Product Manager](https://jobr.pro/job/29135602/sr-staff-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hyderabad, India | On Site | Oct 01 |
-| **[BD](https://www.bd.com/)** | **[DS Molecular / POC Marketing Product Manager](https://jobr.pro/job/29144829/ds-molecular-poc-marketing-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | JPN Tokyo - Minato-ku, Japan | On Site | Oct 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 201k  
+**Current Stats:** 50 jobs | 10% remote | 43 companies | Avg salary: 214k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
