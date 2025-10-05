@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -29,6 +29,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Product Manager-X sell-Digital Banking Kotak 811-Regional Sales](https://jobr.pro/job/29386853/product-manager-x-sell-digital-banking-kotak-811-regional-sales?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mumbai, Maharashtra, India | On Site | Oct 04 |
 | **[Point Digital Finance](https://point.com/)** | **[Staff Product Manager (B2C)](https://jobr.pro/job/29367862/staff-product-manager-b2c?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | Remote | Oct 04 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Product Manager - Network Observability Platform](https://jobr.pro/job/29371010/senior-staff-product-manager-network-observability-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, Georgia, United States | On Site | Oct 04 |
+| **[Activision Blizzard](https://www.activision.com/)** | **[Senior Product Manager, Monetization](https://jobr.pro/job/29413757/senior-product-manager-monetization?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Monica - Activision - The Pen Factory, United States | On Site | Oct 04 |
+| **[Ansira](https://www.ansira.com/)** | **[Senior Product Manager](https://jobr.pro/job/29413845/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote-MO, United States | Remote | Oct 04 |
+| **[IQVIA](https://www.iqvia.com/)** | **[Product Manager Junior área comercial](https://jobr.pro/job/29413796/product-manager-junior-area-comercial?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Buenos Aires, Argentina | On Site | Oct 04 |
 | **[Wellth](https://www.wellthapp.com/)** | **[Principal Product Manager](https://jobr.pro/job/29364296/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Los Angeles, CA | On Site | Oct 03 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Product Manager](https://jobr.pro/job/29388440/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redmond, Washington, United States | On Site | Oct 03 |
 | **[Marriott International](https://www.marriott.com/)** | **[FLEX Senior Product Manager, Digital Loyalty Experiences](https://jobr.pro/job/29386468/flex-senior-product-manager-digital-loyalty-experiences?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bethesda, MD, United States | On Site | Oct 03 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AirGarage](https://www.airgarage.com/)** | **[Senior Product Manager](https://jobr.pro/job/29360241/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco or Remote (United States) | Remote | Oct 03 |
 | **[Kojo](https://www.usekojo.com/)** | **[Product Manager, Accounts Payable](https://jobr.pro/job/29359411/product-manager-accounts-payable?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (United States) | Remote | Oct 03 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[VP, Card Product Manager, Client Services & Benefits](https://jobr.pro/job/29392433/vp-card-product-manager-client-services-benefits?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Oct 03 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Consumer Banking – Product Manager, Vice President](https://jobr.pro/job/29392288/consumer-banking-product-manager-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jersey City, NJ, United States | On Site | Oct 03 |
-| **[CI&T](https://ciandt.com/)** | **[\[Job- 24977\] Product Manager - Data Engineering, Brazil](https://jobr.pro/job/29357161/job-24977-product-manager-data-engineering-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Brazil | On Site | Oct 03 |
-| **[CI&T](https://ciandt.com/)** | **[\[Job- 24977\] Product Manager - Data Engineering, Colombia](https://jobr.pro/job/29357160/job-24977-product-manager-data-engineering-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Colombia | On Site | Oct 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 32 companies | Avg salary: 219k  
+**Current Stats:** 50 jobs | 22% remote | 34 companies | Avg salary: 220k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
