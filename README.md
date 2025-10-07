@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 07, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[The Guitar Center Company](https://www.guitarcenter.com/)** | **[Senior Product Manager, Customer Experience](https://jobr.pro/job/29550981/senior-product-manager-customer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Westlake Village, CA | On Site | Oct 07 |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Product Manager-Product Management](https://jobr.pro/job/29546962/product-manager-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oak Brook, IL, United States | On Site | Oct 07 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Project/Product Manager](https://jobr.pro/job/29528846/projectproduct-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Oct 07 |
 | **[American Express](https://www.americanexpress.com/)** | **[Technical Product Manager](https://jobr.pro/job/29528357/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US-Arizona-Phoenix | On Site | Oct 07 |
 | **[Telenet](https://www2.telenet.be/)** | **[Product Manager - Wyre (Joint venture Telenet x Fluvius)](https://jobr.pro/job/29530153/product-manager-wyre-joint-venture-telenet-x-fluvius?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mechelen, Belgium | On Site | Oct 07 |
@@ -26,6 +28,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Product Manager I, Ads](https://jobr.pro/job/29513478/product-manager-i-ads?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA, USA | On Site | Oct 07 |
 | **[Google](https://www.google.com/)** | **[Group Product Manager, Google Global Infrastructure](https://jobr.pro/job/29513409/group-product-manager-google-global-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Thornton, CO, USA; Atlanta, GA, USA | On Site | Oct 07 |
 | **[Google](https://www.google.com/)** | **[Senior Product Manager, Google Global Infrastructure](https://jobr.pro/job/29513404/senior-product-manager-google-global-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Thornton, CO, USA; Atlanta, GA, USA | On Site | Oct 07 |
+| **[Lockton](https://www.lockton.com/)** | **[Senior Digital Product Manager](https://jobr.pro/job/29553490/senior-digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Kingdom, London, London | On Site | Oct 07 |
 | **[monday.com](https://monday.com/)** | **[Senior Technical Product Manager - Observability](https://jobr.pro/job/29535371/senior-technical-product-manager-observability?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 07 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Securities Services - Product Manager, Investment Middle Office Services - Vice President](https://jobr.pro/job/29521961/securities-services-product-manager-investment-middle-office-services-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | LONDON, United Kingdom | On Site | Oct 07 |
 | **[BCV](https://www.bcv.ch)** | **[Product Manager - Trafic des paiements](https://jobr.pro/job/29503076/product-manager-trafic-des-paiements?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lausanne, CH | On Site | Oct 07 |
@@ -59,14 +62,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Medtronic](https://www.medtronic.com/)** | **[Product Manager - US Downstream Marketing for Hardware and Ultrasonic Dissection](https://jobr.pro/job/29531771/product-manager-us-downstream-marketing-for-hardware-and-ultrasonic-dissection?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA-CT, United States | Remote | Oct 07 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Product Manager, US Downstream Marketing - Core Surgical Instruments](https://jobr.pro/job/29531768/product-manager-us-downstream-marketing-core-surgical-instruments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA-CT, United States | Remote | Oct 07 |
 | **[Exact Sciences](https://www.exactsciences.com/)** | **[Web Product Manager Intern - Summer 2026](https://jobr.pro/job/29528205/web-product-manager-intern-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 5505 Endeavor Lane, United States | On Site | Oct 07 |
-| **[Circle K](https://www.circlek.com/)** | **[Private Brand Product Manager – Consumer Packaged Goods](https://jobr.pro/job/29541700/private-brand-product-manager-consumer-packaged-goods?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Nonstore B152 Charlotte NC, United States | On Site | Oct 07 |
 | **[KraussMaffei](https://www.kraussmaffei.com)** | **[Product Manager Additive Manufacturing (m/w/d)](https://jobr.pro/job/29502365/product-manager-additive-manufacturing-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Parsdorf bei München, DE | On Site | Oct 07 |
-| **[EY](https://www.ey.com)** | **[FS-RC-FS FINANCE -Regulatory Reporting - Product Manager](https://jobr.pro/job/29505315/fs-rc-fs-finance-regulatory-reporting-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, KA, IN, 560016 | On Site | Oct 07 |
-| **[Logitech](https://www.logitech.com/)** | **[Associate SW Product Manager](https://jobr.pro/job/29517394/associate-sw-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chennai, India | Remote | Oct 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 42 companies | Avg salary: 244k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 244k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
