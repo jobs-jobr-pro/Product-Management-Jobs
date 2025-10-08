@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Daxko](https://Daxko.com)** | **[Senior Product Manager, AI](https://jobr.pro/job/29565516/senior-product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Birmingham, Alabama, United States | Remote | Oct 07 |
 | **[The Guitar Center Company](https://www.guitarcenter.com/)** | **[Senior Product Manager, Customer Experience](https://jobr.pro/job/29550981/senior-product-manager-customer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Westlake Village, CA | On Site | Oct 07 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Product Manager-Product Management](https://jobr.pro/job/29546962/product-manager-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oak Brook, IL, United States | On Site | Oct 07 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Project/Product Manager](https://jobr.pro/job/29528846/projectproduct-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Oct 07 |
@@ -56,17 +57,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Applied Intuition](https://www.appliedintuition.com/)** | **[Product Manager - Vehicle OS](https://jobr.pro/job/29471571/product-manager-vehicle-os?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, California, United States | Remote | Oct 07 |
 | **[Sierra](https://sierra.ai/)** | **[Product Manager, Agent Development](https://jobr.pro/job/29479508/product-manager-agent-development?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, GA | On Site | Oct 07 |
 | **[GoDaddy](https://godaddy.com)** | **[Principal Product Manager - Reporting, Insights and Data](https://jobr.pro/job/29482535/principal-product-manager-reporting-insights-and-data?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | Remote | Oct 07 |
-| **[Lyreco Group](https://www.lyreco.com/)** | **[Product Manager GOP](https://jobr.pro/job/29536681/product-manager-gop?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berchem, Belgium | On Site | Oct 07 |
-| **[USAA](https://www.usaa.com/)** | **[Digital/Technical Product Manager Lead](https://jobr.pro/job/29535628/digitaltechnical-product-manager-lead?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Antonio Home Office I, United States | On Site | Oct 07 |
-| **[Koki Holdings](https://metabo.com/)** | **[Product Manager](https://jobr.pro/job/29538094/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Braselton, United States | On Site | Oct 07 |
-| **[Medtronic](https://www.medtronic.com/)** | **[Product Manager - US Downstream Marketing for Hardware and Ultrasonic Dissection](https://jobr.pro/job/29531771/product-manager-us-downstream-marketing-for-hardware-and-ultrasonic-dissection?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA-CT, United States | Remote | Oct 07 |
-| **[Medtronic](https://www.medtronic.com/)** | **[Product Manager, US Downstream Marketing - Core Surgical Instruments](https://jobr.pro/job/29531768/product-manager-us-downstream-marketing-core-surgical-instruments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA-CT, United States | Remote | Oct 07 |
-| **[Exact Sciences](https://www.exactsciences.com/)** | **[Web Product Manager Intern - Summer 2026](https://jobr.pro/job/29528205/web-product-manager-intern-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 5505 Endeavor Lane, United States | On Site | Oct 07 |
 | **[KraussMaffei](https://www.kraussmaffei.com)** | **[Product Manager Additive Manufacturing (m/w/d)](https://jobr.pro/job/29502365/product-manager-additive-manufacturing-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Parsdorf bei München, DE | On Site | Oct 07 |
+| **[ThoughtSpot](https://www.thoughtspot.com/)** | **[Principal Product Manager](https://jobr.pro/job/29549480/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US - Mountain View, United States | On Site | Oct 07 |
+| **[LSEG](https://www.lseg.com/)** | **[Product Manager, Cloud SRE](https://jobr.pro/job/29551325/product-manager-cloud-sre?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND-Hyderabad-CapitaLand, India | On Site | Oct 07 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr Product Manager](https://jobr.pro/job/29556854/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Oct 07 |
+| **[Dexcom](https://www.dexcom.com/)** | **[Sr Product Manager - Customer Service & Support Solutions](https://jobr.pro/job/29556844/sr-product-manager-customer-service-support-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Diego, United States | On Site | Oct 07 |
+| **[Dexcom](https://www.dexcom.com/)** | **[Product Manager – Onboarding & Setup](https://jobr.pro/job/29556841/product-manager-onboarding-setup?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Diego, United States | On Site | Oct 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 244k  
+**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 250k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
