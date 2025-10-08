@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Central Bank](https://www.centralbank.net/)** | **[Deposits Product Manager](https://jobr.pro/job/29772657/deposits-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Overland Park, KS, United States | On Site | Oct 08 |
 | **[BigStep Technologies](https://bigsteptech.com/)** | **[Product Manager (Remote)](https://jobr.pro/job/29756553/product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Gurgaon, India | Remote | Oct 08 |
 | **[AgileEngine](https://agileengine.com/)** | **[Product Manager (Senior/Lead) ID42374](https://jobr.pro/job/29745859/product-manager-seniorlead-id42374?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ZONA 1, Guatemala | On Site | Oct 08 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior Product Manager - Data Security Posture Management (Cortex Cloud)](https://jobr.pro/job/29743812/senior-product-manager-data-security-posture-management-cortex-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Israel | On Site | Oct 08 |
@@ -61,12 +62,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Aerones](https://aerones.com)** | **[Senior Product Manager - Enterprise Customer Experience](https://jobr.pro/job/29614100/senior-product-manager-enterprise-customer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Riga, Riga, Latvia | On Site | Oct 08 |
 | **[Vanguard](https://www.vanguard.com/)** | **[ESG Investment Product Manager, Specialist](https://jobr.pro/job/29627628/esg-investment-product-manager-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, GBR, United Kingdom | On Site | Oct 08 |
 | **[Pepperstone](https://pepperstone.com/)** | **[Product Manager - Trading Platforms](https://jobr.pro/job/29698480/product-manager-trading-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Limassol, Limassol, Cyprus | On Site | Oct 08 |
-| **[Axon](https://www.axon.com/)** | **[Senior Product Manager - Body Worn Cameras](https://jobr.pro/job/29570946/senior-product-manager-body-worn-cameras?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Scottsdale, Arizona, United States | On Site | Oct 07 |
-| **[Zinnia](https://zinnia.com/)** | **[Senior Product Manager-HR Transformation](https://jobr.pro/job/29588656/senior-product-manager-hr-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bridgewater, NJ- Hybrid | On Site | Oct 07 |
+| **[Trinity Life Sciences](https://trinitylifesciences.com/)** | **[Associate Product Manager](https://jobr.pro/job/29772267/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Gurgaon, India - Gurgaon, Haryana, 122002 | On Site | Oct 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 39 companies | Avg salary: 213k  
+**Current Stats:** 50 jobs | 12% remote | 39 companies | Avg salary: 218k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
