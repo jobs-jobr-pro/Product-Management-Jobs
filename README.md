@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 09, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[IDEXX](https://www.idexx.com/)** | **[Product Manager III, Vello](https://jobr.pro/job/29805297/product-manager-iii-vello?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NZ-AKL-Auckland, New Zealand | On Site | Oct 09 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Deposits Product Manager](https://jobr.pro/job/29772657/deposits-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Overland Park, KS, United States | On Site | Oct 08 |
 | **[BigStep Technologies](https://bigsteptech.com/)** | **[Product Manager (Remote)](https://jobr.pro/job/29756553/product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Gurgaon, India | Remote | Oct 08 |
 | **[AgileEngine](https://agileengine.com/)** | **[Product Manager (Senior/Lead) ID42374](https://jobr.pro/job/29745859/product-manager-seniorlead-id42374?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ZONA 1, Guatemala | On Site | Oct 08 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Aerones](https://aerones.com)** | **[Senior Product Manager - Enterprise Customer Experience](https://jobr.pro/job/29614100/senior-product-manager-enterprise-customer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Riga, Riga, Latvia | On Site | Oct 08 |
 | **[Vanguard](https://www.vanguard.com/)** | **[ESG Investment Product Manager, Specialist](https://jobr.pro/job/29627628/esg-investment-product-manager-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, GBR, United Kingdom | On Site | Oct 08 |
 | **[Pepperstone](https://pepperstone.com/)** | **[Product Manager - Trading Platforms](https://jobr.pro/job/29698480/product-manager-trading-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Limassol, Limassol, Cyprus | On Site | Oct 08 |
-| **[Trinity Life Sciences](https://trinitylifesciences.com/)** | **[Associate Product Manager](https://jobr.pro/job/29772267/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Gurgaon, India - Gurgaon, Haryana, 122002 | On Site | Oct 08 |
 
 ---
 
