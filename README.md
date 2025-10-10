@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 09, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -58,15 +58,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reframe](https://www.joinreframeapp.com/)** | **[Product Manager](https://jobr.pro/job/29873061/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alpharetta, GA, US; Atlanta, GA, US | On Site | Oct 09 |
 | **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Senior Technology Product Manager](https://jobr.pro/job/29876412/senior-technology-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND-Pune-IndiQube Orchid, India | On Site | Oct 09 |
 | **[BBVA](https://www.bbva.com/)** | **[Product Manager Open Banking (Cuauhtémoc, Ciudad de México)](https://jobr.pro/job/29880058/product-manager-open-banking-cuauhtemoc-ciudad-de-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | TORRE BBVA BANCOMER, Mexico | On Site | Oct 09 |
-| **[GEICO](https://www.geico.com/)** | **[Principal Product Manager, Service/Retention Experiences](https://jobr.pro/job/29895289/principal-product-manager-serviceretention-experiences?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CA Palo Alto - JPS, United States | On Site | Oct 09 |
 | **[Guidewire Software](https://www.guidewire.com/)** | **[Marketplace Platform Product Manager](https://jobr.pro/job/29894436/marketplace-platform-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (USA), United States | Remote | Oct 09 |
 | **[Insulet Corporation](https://www.insulet.com/)** | **[Product Manager, EU Distributor Markets](https://jobr.pro/job/29884193/product-manager-eu-distributor-markets?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | GB - United Kingdom (London - Office) | On Site | Oct 09 |
-| **[4flow](https://www.4flow.com/)** | **[Senior Product Manager](https://jobr.pro/job/29895271/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, United States | On Site | Oct 09 |
-| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Product Manager (Smart City Technology Division)](https://jobr.pro/job/29895436/product-manager-smart-city-technology-division?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Punggol Digital District Level 10 #10-31, Singapore | On Site | Oct 09 |
+| **[GEICO](https://www.geico.com/)** | **[Principal Product Manager, Service/Retention Experiences](https://jobr.pro/job/29895289/principal-product-manager-serviceretention-experiences?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CA Palo Alto - JPS, United States | On Site | Oct 09 |
+| **[Comcast](https://corporate.comcast.com/)** | **[Sr. Product Manager](https://jobr.pro/job/29895783/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CO - Denver, 8000 E Iliff Ave, United States | On Site | Oct 09 |
+| **[Copeland](https://www.copeland.com/)** | **[Senior Product Manager](https://jobr.pro/job/29890155/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sidney, United States | On Site | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 43 companies | Avg salary: 215k  
+**Current Stats:** 50 jobs | 14% remote | 43 companies | Avg salary: 214k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
