@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -47,6 +47,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Upgrade](https://www.upgrade.com/)** | **[Senior Product Manager, Flex Pay](https://jobr.pro/job/30001550/senior-product-manager-flex-pay?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | On Site | Oct 10 |
 | **[Double Good](https://www.doublegood.com/)** | **[Product Manager](https://jobr.pro/job/30002193/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chicago | On Site | Oct 10 |
 | **[Lambda](https://lambdalabs.com/)** | **[Group Product Manager - AI Infrastructure](https://jobr.pro/job/30009838/group-product-manager-ai-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco Office | Remote | Oct 10 |
+| **[NirYu](https://www.nir-yu.com/)** | **[Product Manager – OEM & Integrations](https://jobr.pro/job/30040991/product-manager-oem-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, Mexico | Remote | Oct 10 |
 | **[ShyftLabs](https://shyftlabs.io)** | **[Technical Product Manager](https://jobr.pro/job/30007128/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto, Ontario | On Site | Oct 10 |
 | **[EBANX](https://ebanx.com/)** | **[Senior Product Manager \| Financial Products](https://jobr.pro/job/30002270/senior-product-manager-financial-products?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore \| On-site | Remote | Oct 10 |
 | **[Maximus](https://maximustribe.com)** | **[Senior Growth Product Manager (Remote)](https://jobr.pro/job/30010944/senior-growth-product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto (Remote) | Remote | Oct 10 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PitchBook Data](https://pitchbook.com/)** | **[Sr. Product Manager](https://jobr.pro/job/30002572/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York, United States | On Site | Oct 10 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Product Manager](https://jobr.pro/job/30038532/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redmond, Washington, United States | On Site | Oct 10 |
 | **[Fortune Brands Innovations](https://www.fbin.com/)** | **[Associate Product Manager](https://jobr.pro/job/30010543/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Deerfield, ILLINOIS, United States | On Site | Oct 10 |
-| **[OpenGov](https://opengov.com/)** | **[Sr. Product Manager](https://jobr.pro/job/30010190/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US \| Georgia \| Atlanta | On Site | Oct 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 37 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 18% remote | 37 companies | Avg salary: 215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
