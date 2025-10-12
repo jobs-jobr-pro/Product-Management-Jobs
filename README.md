@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 12, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -26,6 +26,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Clarksons](https://www.clarksons.com/)** | **[Product Manager](https://jobr.pro/job/30019938/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, GB | On Site | Oct 11 |
 | **[Benchling](https://www.benchling.com/)** | **[Product Manager, Chemistry](https://jobr.pro/job/30005446/product-manager-chemistry?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boston, MA | On Site | Oct 11 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Product Manager - PowerPoint Agent](https://jobr.pro/job/30038355/senior-product-manager-powerpoint-agent?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, California, United States | On Site | Oct 11 |
+| **[Roche](https://www.roche.com/)** | **[Product Manager](https://jobr.pro/job/30072630/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | SHANGHAI, China | On Site | Oct 11 |
 | **[60 Decibels](https://60decibels.com/)** | **[Product Manager, AI & Internal Platforms (Contract)](https://jobr.pro/job/30018341/product-manager-ai-internal-platforms-contract?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lisbon, Portugal | On Site | Oct 10 |
 | **[Karbon](https://karbonhq.com/)** | **[Senior Product Manager](https://jobr.pro/job/30004710/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Phoenix, AZ, United States | On Site | Oct 10 |
 | **[Kalepa](https://kalepa.com/)** | **[Principal Product Manager (USA)](https://jobr.pro/job/30017857/principal-product-manager-usa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY. Remote | Remote | Oct 10 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Product Manager Deposits 2.0 Vice President](https://jobr.pro/job/30039678/product-manager-deposits-20-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Columbus, OH, United States | On Site | Oct 10 |
 | **[PitchBook Data](https://pitchbook.com/)** | **[Sr. Product Manager](https://jobr.pro/job/30002572/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York, United States | On Site | Oct 10 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Product Manager](https://jobr.pro/job/30038532/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redmond, Washington, United States | On Site | Oct 10 |
-| **[Fortune Brands Innovations](https://www.fbin.com/)** | **[Associate Product Manager](https://jobr.pro/job/30010543/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Deerfield, ILLINOIS, United States | On Site | Oct 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 37 companies | Avg salary: 215k  
+**Current Stats:** 50 jobs | 18% remote | 38 companies | Avg salary: 218k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
