@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 14, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 14, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Technical Product Manager - Enterprise Data](https://jobr.pro/job/30133523/senior-staff-technical-product-manager-enterprise-data?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | West Palm Beach, Florida, United States | On Site | Oct 13 |
 | **[ADP](https://www.adp.com/)** | **[Lead Product Manager](https://jobr.pro/job/30117654/lead-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Oct 13 |
 | **[ADP](https://www.adp.com/)** | **[Principal Product Manager](https://jobr.pro/job/30117648/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Staines, england, United Kingdom | On Site | Oct 13 |
 | **[Pipl](https://pipl.com/)** | **[Product Manager](https://jobr.pro/job/30106995/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, US | On Site | Oct 13 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BlackBerry](https://www.blackberry.com/)** | **[QNX Senior Technical Product Manager, Virtualization](https://jobr.pro/job/30132126/qnx-senior-technical-product-manager-virtualization?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ottawa, Ontario, Canada | On Site | Oct 13 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com/)** | **[Junior Product Manager (m/w/d)](https://jobr.pro/job/30131172/junior-product-manager-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Nürtingen, Germany (Schlosserstraße) | On Site | Oct 13 |
 | **[Maersk](https://www.maersk.com/)** | **[Product Manager - Integrated Routing](https://jobr.pro/job/30131305/product-manager-integrated-routing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | DKCPH55 - Copenhagen - Esplanaden 50, Denmark | On Site | Oct 13 |
-| **[GE HealthCare](https://www.gehealthcare.com/)** | **[Global Product Manager - Partners](https://jobr.pro/job/30116355/global-product-manager-partners?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Waukesha, United States | On Site | Oct 13 |
 
 ---
 
