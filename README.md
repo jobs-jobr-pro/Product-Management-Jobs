@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 14, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 14, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Sr. Product Manager (LMS)](https://jobr.pro/job/30205859/sr-product-manager-lms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alpharetta, GA, United States | On Site | Oct 14 |
 | **[Rombit](https://rombit.com/)** | **[Product Manager](https://jobr.pro/job/30191538/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Argentina, Buenos Aires, Argentina | On Site | Oct 14 |
 | **[Compare the Market](https://www.comparethemarket.com/)** | **[Product Manager](https://jobr.pro/job/30183601/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Kingdom | On Site | Oct 14 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Salesforce Product Manager](https://jobr.pro/job/30187456/salesforce-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dearborn, MI, United States | On Site | Oct 14 |
@@ -60,13 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SupportYourApp](https://supportyourapp.com/)** | **[(fluent Ukrainian and English) Product Manager (Ukraine)](https://jobr.pro/job/30158729/fluent-ukrainian-and-english-product-manager-ukraine?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ukraine - Remote | Remote | Oct 14 |
 | **[Ryt Bank](https://www.rytbank.my/)** | **[Lead, Product Manager (Business Banking)](https://jobr.pro/job/30161888/lead-product-manager-business-banking?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | KL - Headquarter, Malaysia | On Site | Oct 14 |
 | **[PrestaShop](https://prestashop.com/)** | **[Product Manager (Core Extension)](https://jobr.pro/job/30169956/product-manager-core-extension?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris, Île-de-France, France | On Site | Oct 14 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Product Manager II - SharePoint](https://jobr.pro/job/30176681/product-manager-ii-sharepoint?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redmond, Washington, United States | On Site | Oct 13 |
-| **[BDO USA](https://www.bdo.com/)** | **[Technical Product Manager - Tax Product Development](https://jobr.pro/job/30190550/technical-product-manager-tax-product-development?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pittsburgh, PA, United States | On Site | Oct 13 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Product Manager II-Xbox](https://jobr.pro/job/30176697/product-manager-ii-xbox?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, San José, Costa Rica | On Site | Oct 13 |
+| **[Takeda](https://www.takeda.com/)** | **[Senior Product Manager](https://jobr.pro/job/30204388/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - MA - Cambridge, United States | On Site | Oct 14 |
+| **[Takeda](https://www.takeda.com/)** | **[Product Manager](https://jobr.pro/job/30204374/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - MA - Cambridge, United States | On Site | Oct 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 40 companies | Avg salary: 203k  
+**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 201k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
