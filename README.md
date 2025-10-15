@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 15, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[ADP](https://www.adp.com/)** | **[Sr. Product Manager (LMS)](https://jobr.pro/job/30205859/sr-product-manager-lms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alpharetta, GA, United States | On Site | Oct 14 |
+| **[Fortune Brands Innovations](https://www.fbin.com/)** | **[Product Manager, Data Products](https://jobr.pro/job/30211911/product-manager-data-products?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Deerfield, ILLINOIS, United States | On Site | Oct 14 |
 | **[Rombit](https://rombit.com/)** | **[Product Manager](https://jobr.pro/job/30191538/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Argentina, Buenos Aires, Argentina | On Site | Oct 14 |
 | **[Compare the Market](https://www.comparethemarket.com/)** | **[Product Manager](https://jobr.pro/job/30183601/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Kingdom | On Site | Oct 14 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Salesforce Product Manager](https://jobr.pro/job/30187456/salesforce-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dearborn, MI, United States | On Site | Oct 14 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ryt Bank](https://www.rytbank.my/)** | **[Lead, Product Manager (Business Banking)](https://jobr.pro/job/30161888/lead-product-manager-business-banking?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | KL - Headquarter, Malaysia | On Site | Oct 14 |
 | **[PrestaShop](https://prestashop.com/)** | **[Product Manager (Core Extension)](https://jobr.pro/job/30169956/product-manager-core-extension?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris, Île-de-France, France | On Site | Oct 14 |
 | **[Takeda](https://www.takeda.com/)** | **[Senior Product Manager](https://jobr.pro/job/30204388/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - MA - Cambridge, United States | On Site | Oct 14 |
-| **[Takeda](https://www.takeda.com/)** | **[Product Manager](https://jobr.pro/job/30204374/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - MA - Cambridge, United States | On Site | Oct 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 201k  
+**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 197k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
