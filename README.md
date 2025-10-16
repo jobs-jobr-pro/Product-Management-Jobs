@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 16, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ING](https://www.ing.com/)** | **[Product Manager Mobile Onboarding](https://jobr.pro/job/30314774/product-manager-mobile-onboarding?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ACT (Amsterdam - Acanthus), Netherlands | On Site | Oct 16 |
+| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Group Product Manager](https://jobr.pro/job/30317502/group-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, Australia | On Site | Oct 16 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Product Manager (SMB)](https://jobr.pro/job/30311304/principal-product-manager-smb?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Oct 15 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Inbound Product Manager - Platform Security](https://jobr.pro/job/30310985/staff-inbound-product-manager-platform-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hyderabad, India | On Site | Oct 15 |
 | **[ADP](https://www.adp.com/)** | **[Sr. Product Manager - Talent Management](https://jobr.pro/job/30285582/sr-product-manager-talent-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alpharetta, GA, United States | On Site | Oct 15 |
 | **[M SAN Grupa](https://www.msan.hr/)** | **[Product Manager - Mali kućanski aparati (m/ž)](https://jobr.pro/job/30285521/product-manager-mali-kucanski-aparati-mz?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Zagreb - Buzin, Hrvatska | On Site | Oct 15 |
 | **[TripleTen](https://tripleten.com/)** | **[Educational Product Manager](https://jobr.pro/job/30274722/educational-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | São Paulo, São Paulo, BR | Remote | Oct 15 |
@@ -59,10 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Riot Games, Inc.](https://www.riotgames.com/)** | **[Senior Technical Product Manager, League Studios - Release Engineering & Developer Experience](https://jobr.pro/job/30214041/senior-technical-product-manager-league-studios-release-engineering-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Los Angeles, USA | On Site | Oct 15 |
 | **[Applaudo Studios](https://applaudostudios.com)** | **[Product Manager](https://jobr.pro/job/30228239/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Salvador, San Salvador Department, El Salvador | On Site | Oct 15 |
 | **[Metrobank](https://www.metrobank.com.ph/)** | **[PRODUCT MANAGER](https://jobr.pro/job/30232144/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Makati, Philippines | On Site | Oct 15 |
-| **[IXOM](https://www.ixom.com)** | **[Junior Product Manager](https://jobr.pro/job/30241328/junior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | East Melbourne, VIC, AU, 3002 | On Site | Oct 15 |
-| **[EVA Pharma](https://www.evapharma.com/)** | **[Vaccines Assistant Product Manager](https://jobr.pro/job/30237279/vaccines-assistant-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Maadi, Al Qāhirah, Egypt | On Site | Oct 15 |
-| **[Dentsply Sirona](https://www.dentsplysirona.com)** | **[Senior Commercial Product Manager](https://jobr.pro/job/30237201/senior-commercial-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | L'Hospitalet de Llobregat, ES, 08908 | On Site | Oct 15 |
-| **[Simple Machines](https://simplemachines.com.au/)** | **[Senior Product Manager](https://jobr.pro/job/30245725/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, England, United Kingdom | On Site | Oct 15 |
 
 ---
 
