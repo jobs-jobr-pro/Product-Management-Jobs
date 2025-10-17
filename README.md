@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Fisher & Paykel Appliances](https://www.fisherpaykel.com/)** | **[Associate Product Manager](https://jobr.pro/job/30407507/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Auckland, New Zealand | On Site | Oct 17 |
 | **[Syfe](https://www.syfe.com/)** | **[Product Manager II / Sr. Product Manager](https://jobr.pro/job/30382717/product-manager-ii-sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Haryana, Gurugram, India | On Site | Oct 16 |
 | **[Eliq](https://eliq.com/)** | **[Senior Product Manager - Eliq Intelligence (Sweden)](https://jobr.pro/job/30381438/senior-product-manager-eliq-intelligence-sweden?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Västra Götaland County, Gothenburg, Sweden | On Site | Oct 16 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Vice President, Product Manager - Payments](https://jobr.pro/job/30378957/vice-president-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NY, United States | On Site | Oct 16 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GE Vernova](https://www.gevernova.com/)** | **[Sr. Technical Product Manager SP Services](https://jobr.pro/job/30372199/sr-technical-product-manager-sp-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, India | On Site | Oct 16 |
 | **[CDW](https://www.cdw.com/)** | **[Cisco Product Manager](https://jobr.pro/job/30389776/cisco-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chicago / Adams - IL, United States | On Site | Oct 16 |
 | **[GE Vernova](https://www.gevernova.com/)** | **[Sr Technical Product Manager](https://jobr.pro/job/30372163/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, India | Remote | Oct 16 |
-| **[Husqvarna Group](https://www.husqvarnagroup.com/)** | **[Product Manager BU Handtools (m/w/d)](https://jobr.pro/job/30354086/product-manager-bu-handtools-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ulm Hans-Lorenser-Str., Germany | On Site | Oct 16 |
 
 ---
 
