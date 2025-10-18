@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 18, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff / Senior Staff Product Manager - Observability](https://jobr.pro/job/30495430/staff-senior-staff-product-manager-observability?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, Georgia, United States | On Site | Oct 17 |
 | **[Alamo Group](https://www.alamo-group.com/)** | **[Product Manager](https://jobr.pro/job/30479943/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Selma, AL, United States | On Site | Oct 17 |
+| **[Sana Commerce](https://www.sana-commerce.com)** | **[Product Manager – Data Value Services](https://jobr.pro/job/30495292/product-manager-data-value-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alexandria, Alexandria Governorate, Egypt | On Site | Oct 17 |
 | **[Ambush](https://www.getambush.com/)** | **[Product Manager (Core Consumer)](https://jobr.pro/job/30464599/product-manager-core-consumer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | State of Rio Grande do Sul, Porto Alegre, Brazil | On Site | Oct 17 |
+| **[Delivery Hero](https://www.deliveryhero.com)** | **[Senior Product Manager - AI](https://jobr.pro/job/30495208/senior-product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com/)** | **[TikTok Shop - Strategy Product Manager, Creator & Content Governance - LATAM](https://jobr.pro/job/30454780/tiktok-shop-strategy-product-manager-creator-content-governance-latam?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle, Washington, United States | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com/)** | **[TikTok Shop - Experienced Product Manager, Automatic Customer Service Products](https://jobr.pro/job/30454781/tiktok-shop-experienced-product-manager-automatic-customer-service-products?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle, Washington, United States | On Site | Oct 17 |
 | **[Google](https://www.google.com/)** | **[Group Product Manager, Generative AI, Google Cloud](https://jobr.pro/job/30450811/group-product-manager-generative-ai-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kirkland, WA, USA; Boulder, CO, USA | On Site | Oct 17 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Squarespace](https://www.squarespace.com/)** | **[Staff Product Manager, Acuity](https://jobr.pro/job/30419562/staff-product-manager-acuity?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Aveiro | On Site | Oct 17 |
 | **[Fisher & Paykel Appliances](https://www.fisherpaykel.com/)** | **[Associate Product Manager](https://jobr.pro/job/30407507/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Auckland, New Zealand | On Site | Oct 17 |
 | **[Commonwealth Bank of Australia](https://www.commbank.com.au/)** | **[Senior Product Manager- Payments](https://jobr.pro/job/30431920/senior-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Oct 17 |
-| **[Pluxee](https://www.pluxeegroup.com/)** | **[Marketing & Product Manager](https://jobr.pro/job/30462061/marketing-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | MAR Casablanca (20250), Morocco | On Site | Oct 17 |
-| **[VERKEHRSBUERO](https://verkehrsbuero.com/)** | **[Product Manager Cruises (m/w/d)](https://jobr.pro/job/30465610/product-manager-cruises-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kitzbühel, Tirol, AT | On Site | Oct 17 |
-| **[Trinny London](https://trinnylondon.com/uk/trinny-london-careers)** | **[Digital Product Manager](https://jobr.pro/job/30467625/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, England, United Kingdom | On Site | Oct 17 |
 
 ---
 
