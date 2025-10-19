@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 19, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 19, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior Product Manager - Data Security Posture Management (Cortex Cloud)](https://jobr.pro/job/30556585/senior-product-manager-data-security-posture-management-cortex-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Israel | On Site | Oct 19 |
 | **[Copado](https://www.copado.com/)** | **[Senior Product Manager - AI DevOps Platform](https://jobr.pro/job/30543325/senior-product-manager-ai-devops-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 70130, New Orleans , LA, United States | On Site | Oct 18 |
 | **[Merck Group](https://www.merckgroup.com/)** | **[Senior Product Manager Biosafety (Full-/Part-time) (all genders)](https://jobr.pro/job/30506637/senior-product-manager-biosafety-full-part-time-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Darmstadt, Hessen, DE, 64293 | On Site | Oct 18 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Product Manager, Enterprise Platform](https://jobr.pro/job/30502972/senior-product-manager-enterprise-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San francisco, CA | On Site | Oct 18 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Visa](https://visa.com)** | **[Senior Product Manager, GTM B2B Payments](https://jobr.pro/job/30512827/senior-product-manager-gtm-b2b-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, TX, United States | On Site | Oct 17 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Principal Inbound Product Manager - Performance Telemetry](https://jobr.pro/job/30508142/principal-inbound-product-manager-performance-telemetry?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Diego, California, United States | On Site | Oct 17 |
 | **[KnowBe4, Inc.](https://www.knowbe4.com/)** | **[Product Manager (Hybrid)](https://jobr.pro/job/30499819/product-manager-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Clearwater, Florida | Remote | Oct 17 |
-| **[CompanyCam](https://companycam.com/)** | **[Senior Product Manager, AI](https://jobr.pro/job/30510260/senior-product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (U.S.) | Remote | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 43 companies | Avg salary: 199k  
+**Current Stats:** 50 jobs | 30% remote | 43 companies | Avg salary: 199k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
