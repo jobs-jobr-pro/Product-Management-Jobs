@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ingram Micro](https://www.ingrammicro.com/)** | **[Product Manager](https://jobr.pro/job/30617695/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Indonesia Office | On Site | Oct 21 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Principal Inbound Product Manager - AI Platform Security](https://jobr.pro/job/30613273/senior-principal-inbound-product-manager-ai-platform-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Oct 20 |
 | **[Malin](https://www.malinusa.com/)** | **[Product Manager, Gov't & Military](https://jobr.pro/job/30597870/product-manager-govt-military?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hauppauge, NY, United States | On Site | Oct 20 |
 | **[ATI Restoration, LLC](https://atirestoration.com/)** | **[Product Manager](https://jobr.pro/job/30597725/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sunrise, FL, United States | On Site | Oct 20 |
 | **[ATI Restoration, LLC](https://atirestoration.com/)** | **[Product Manager, Gov't & Military](https://jobr.pro/job/30597628/product-manager-govt-military?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hauppauge, NY, United States | On Site | Oct 20 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Boeing](https://www.boeing.com/)** | **[Air Dominance Systems Engineer (Product Manager) (Senior or Consultant)](https://jobr.pro/job/30612744/air-dominance-systems-engineer-product-manager-senior-or-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - Berkeley, MO, United States | On Site | Oct 20 |
 | **[Zynga](https://www.zynga.com/)** | **[Senior Technical Product Manager - ML & Analytics](https://jobr.pro/job/30559438/senior-technical-product-manager-ml-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, TX; Toronto, Canada | On Site | Oct 19 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Anaplan Product Manager](https://jobr.pro/job/30564073/anaplan-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dublin, Ireland | On Site | Oct 19 |
-| **[Qoria](https://www.qoria.com/)** | **[Product Manager - Data Insights](https://jobr.pro/job/30558652/product-manager-data-insights?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Colombo, Western Province, Sri Lanka | On Site | Oct 19 |
-| **[Qustodio](https://www.qustodio.com/)** | **[Product Manager - Data Insights](https://jobr.pro/job/30558264/product-manager-data-insights?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Colombo, Western Province, Sri Lanka | On Site | Oct 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 187k  
+**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 196k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
