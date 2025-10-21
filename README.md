@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Sr Technical Product Manager](https://jobr.pro/job/30687229/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Oct 21 |
+| **[ADP](https://www.adp.com/)** | **[Senior Lead Product Manager for PayDirect](https://jobr.pro/job/30687225/senior-lead-product-manager-for-paydirect?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Parsippany, NJ, United States | On Site | Oct 21 |
 | **[Innoviz Technologies](https://innoviz.tech/)** | **[Product Manager](https://jobr.pro/job/30674643/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Rosh Ha'Ayin, Israel, IL | On Site | Oct 21 |
 | **[Team8](https://team8.vc/)** | **[Panax- Product Manager](https://jobr.pro/job/30675847/panax-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 21 |
 | **[AgileEngine](https://agileengine.com/)** | **[Product Manager (Senior/Lead) ID42374](https://jobr.pro/job/30663974/product-manager-seniorlead-id42374?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Porto Alegre, Brazil | On Site | Oct 21 |
@@ -61,15 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Trading Experience](https://jobr.pro/job/30663751/product-manager-trading-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Oct 21 |
 | **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Stablecoin/RWA](https://jobr.pro/job/30663750/product-manager-stablecoinrwa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 21 |
 | **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Payment](https://jobr.pro/job/30663748/product-manager-payment?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Oct 21 |
-| **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Custodial Wallet/WaaS](https://jobr.pro/job/30663747/product-manager-custodial-walletwaas?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Oct 21 |
-| **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Account & Fund Processes](https://jobr.pro/job/30663746/product-manager-account-fund-processes?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 35 companies | Avg salary: 218k  
+**Current Stats:** 50 jobs | 8% remote | 36 companies | Avg salary: 218k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** agile, user research, analytics, roadmap, stakeholder  
+**Trending Skills:** agile, scrum, user research, analytics, roadmap  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
