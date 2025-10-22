@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,7 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Product Manager (Strata Cloud Manager Platform)](https://jobr.pro/job/30707134/principal-product-manager-strata-cloud-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Oct 22 |
 | **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Product Manager – Equities & Portfolio Value Management](https://jobr.pro/job/30705505/product-manager-equities-portfolio-value-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Oct 22 |
+| **[Manulife](https://www.manulife.com/)** | **[Assistant Product Manager, MFA](https://jobr.pro/job/30707826/assistant-product-manager-mfa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Manulife Financial Advisers (Singapore) Pte Ltd | On Site | Oct 22 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Product Manager (Cortex Platform)](https://jobr.pro/job/30707719/principal-product-manager-cortex-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Oct 21 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Product Manager (Cortex Cloud)](https://jobr.pro/job/30707135/principal-product-manager-cortex-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Oct 21 |
+| **[Bosch Group](https://www.bosch.com)** | **[Product Manager](https://jobr.pro/job/30707392/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Centro de Ciudad, Ciudad de México, Mexico | On Site | Oct 21 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Product Manager (Security Posture & Automation)](https://jobr.pro/job/30707735/principal-product-manager-security-posture-automation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Oct 21 |
 | **[ADP](https://www.adp.com/)** | **[Sr Technical Product Manager](https://jobr.pro/job/30687229/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Oct 21 |
 | **[ADP](https://www.adp.com/)** | **[Senior Lead Product Manager for PayDirect](https://jobr.pro/job/30687225/senior-lead-product-manager-for-paydirect?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Parsippany, NJ, United States | On Site | Oct 21 |
 | **[Innoviz Technologies](https://innoviz.tech/)** | **[Product Manager](https://jobr.pro/job/30674643/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Rosh Ha'Ayin, Israel, IL | On Site | Oct 21 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Comet](https://www.comet.com/)** | **[Product Manager - Opik](https://jobr.pro/job/30618498/product-manager-opik?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Europe Remote, Israel Hybrid | Remote | Oct 21 |
 | **[Pix4D](https://www.pix4d.com/)** | **[Product Manager, Mobile (PIX4Dcatch)](https://jobr.pro/job/30634901/product-manager-mobile-pix4dcatch?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lausanne, Vaud, Switzerland | On Site | Oct 21 |
 | **[Ingram Micro](https://www.ingrammicro.com/)** | **[Product Manager](https://jobr.pro/job/30617695/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Indonesia Office | On Site | Oct 21 |
-| **[OCBC Bank](https://www.ocbc.com/)** | **[Transaction Banking Product Manager / AVP](https://jobr.pro/job/30624212/transaction-banking-product-manager-avp?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | OWHB HK, Hong Kong | On Site | Oct 21 |
-| **[Jazz Pharmaceuticals](https://www.jazzpharma.com/)** | **[Product Manager](https://jobr.pro/job/30670301/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | France - Home-Based | On Site | Oct 21 |
-| **[LSEG](https://www.lseg.com/)** | **[Senior Product Manager, Workspace](https://jobr.pro/job/30690811/senior-product-manager-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | POL-Gdynia-3T Office Park, Tower C, Poland | On Site | Oct 21 |
-| **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Web3 Moblie Wallet](https://jobr.pro/job/30663752/product-manager-web3-moblie-wallet?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Oct 21 |
-| **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Trading Experience](https://jobr.pro/job/30663751/product-manager-trading-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Oct 21 |
-| **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Stablecoin/RWA](https://jobr.pro/job/30663750/product-manager-stablecoinrwa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 37 companies | Avg salary: 218k  
+**Current Stats:** 50 jobs | 8% remote | 35 companies | Avg salary: 221k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
