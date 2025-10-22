@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Product Manager – Equities & Portfolio Value Management](https://jobr.pro/job/30705505/product-manager-equities-portfolio-value-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Oct 22 |
 | **[ADP](https://www.adp.com/)** | **[Sr Technical Product Manager](https://jobr.pro/job/30687229/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Oct 21 |
 | **[ADP](https://www.adp.com/)** | **[Senior Lead Product Manager for PayDirect](https://jobr.pro/job/30687225/senior-lead-product-manager-for-paydirect?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Parsippany, NJ, United States | On Site | Oct 21 |
 | **[Innoviz Technologies](https://innoviz.tech/)** | **[Product Manager](https://jobr.pro/job/30674643/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Rosh Ha'Ayin, Israel, IL | On Site | Oct 21 |
@@ -58,15 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ingram Micro](https://www.ingrammicro.com/)** | **[Product Manager](https://jobr.pro/job/30617695/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Indonesia Office | On Site | Oct 21 |
 | **[OCBC Bank](https://www.ocbc.com/)** | **[Transaction Banking Product Manager / AVP](https://jobr.pro/job/30624212/transaction-banking-product-manager-avp?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | OWHB HK, Hong Kong | On Site | Oct 21 |
 | **[Jazz Pharmaceuticals](https://www.jazzpharma.com/)** | **[Product Manager](https://jobr.pro/job/30670301/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | France - Home-Based | On Site | Oct 21 |
-| **[EY](https://www.ey.com)** | **[Business Product Manager SaT](https://jobr.pro/job/30647089/business-product-manager-sat?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, GB, SE1 2AF | On Site | Oct 21 |
+| **[LSEG](https://www.lseg.com/)** | **[Senior Product Manager, Workspace](https://jobr.pro/job/30690811/senior-product-manager-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | POL-Gdynia-3T Office Park, Tower C, Poland | On Site | Oct 21 |
 | **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Web3 Moblie Wallet](https://jobr.pro/job/30663752/product-manager-web3-moblie-wallet?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Oct 21 |
 | **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Trading Experience](https://jobr.pro/job/30663751/product-manager-trading-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Oct 21 |
 | **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Stablecoin/RWA](https://jobr.pro/job/30663750/product-manager-stablecoinrwa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 21 |
-| **[moomoo](https://www.moomoo.com/)** | **[Product Manager, Payment](https://jobr.pro/job/30663748/product-manager-payment?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Oct 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 36 companies | Avg salary: 218k  
+**Current Stats:** 50 jobs | 8% remote | 37 companies | Avg salary: 218k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
