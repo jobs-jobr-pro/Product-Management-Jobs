@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -53,6 +53,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Product Manager – Equities & Portfolio Value Management](https://jobr.pro/job/30705505/product-manager-equities-portfolio-value-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Oct 22 |
 | **[Manulife](https://www.manulife.com/)** | **[Assistant Product Manager, MFA](https://jobr.pro/job/30707826/assistant-product-manager-mfa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Manulife Financial Advisers (Singapore) Pte Ltd | On Site | Oct 22 |
 | **[Pixalate](https://www.pixalate.com)** | **[Principal Product Manager - AI Research Lab](https://jobr.pro/job/30748293/principal-product-manager-ai-research-lab?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Oct 22 |
+| **[Maxis](https://www.maxis.com.my/)** | **[Product Manager - NaaS](https://jobr.pro/job/30792680/product-manager-naas?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Menara Maxis, Malaysia | On Site | Oct 22 |
+| **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[Principal Security Product Manager](https://jobr.pro/job/30796039/principal-security-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - PA - Conshohocken - West First, United States | On Site | Oct 22 |
+| **[Walker & Dunlop](https://www.walkerdunlop.com/)** | **[AVP, Senior Product Manager](https://jobr.pro/job/30796775/avp-senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - USA, United States | Remote | Oct 22 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Senior Product Manager, Bitbucket Pipelines](https://jobr.pro/job/30753982/senior-product-manager-bitbucket-pipelines?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney - Australia - Sydney, 2000 Australia; Remote - Remote | Remote | Oct 22 |
 | **[Workday](https://www.workday.com/)** | **[Product Manager - Accounts Receivable](https://jobr.pro/job/30796804/product-manager-accounts-receivable?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Oct 22 |
 | **[GE HealthCare](https://www.gehealthcare.com/)** | **[Product Manager, Bone and Metabolic Health](https://jobr.pro/job/30785485/product-manager-bone-and-metabolic-health?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, United States | Remote | Oct 22 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Convatec](https://www.convatecgroup.com/)** | **[Commercial Product Manager – Infusion Care](https://jobr.pro/job/30774348/commercial-product-manager-infusion-care?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | SBG-Soeborg, Denmark | On Site | Oct 22 |
 | **[PerkinElmer](https://www.perkinelmer.com/)** | **[Regional Product Manager – Chrom](https://jobr.pro/job/30773709/regional-product-manager-chrom?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shanghai, China | On Site | Oct 22 |
 | **[PerkinElmer](https://www.perkinelmer.com/)** | **[Regional Product Manager - Inorganic](https://jobr.pro/job/30773707/regional-product-manager-inorganic?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shanghai, China | On Site | Oct 22 |
-| **[Walker & Dunlop](https://www.walkerdunlop.com/)** | **[AVP, Senior Product Manager](https://jobr.pro/job/30796775/avp-senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - USA, United States | Remote | Oct 22 |
-| **[HP](https://www.hp.com/)** | **[Senior Software Product Manager](https://jobr.pro/job/30795144/senior-software-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PAL01 - Palo Alto, CA B-1/1a (PAL01), United States | On Site | Oct 22 |
-| **[Clarivate](https://www.clarivate.com/)** | **[Product Manager](https://jobr.pro/job/30785334/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | R131-Bangalore, India | On Site | Oct 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 211k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
