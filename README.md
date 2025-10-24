@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -14,6 +14,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[IDEXX](https://www.idexx.com/)** | **[Product Manager - Veterinary Software](https://jobr.pro/job/30889615/product-manager-veterinary-software?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NZ-AKL-Auckland, New Zealand | On Site | Oct 24 |
+| **[Target](https://www.target.com/)** | **[Product Manager - SEO Operations](https://jobr.pro/job/30894161/product-manager-seo-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore,India | On Site | Oct 24 |
+| **[Ingram Micro](https://www.ingrammicro.com/)** | **[Sr Product Manager](https://jobr.pro/job/30894830/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Oct 24 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Product Manager (Cloud and AI Software Firewalls)](https://jobr.pro/job/30890858/sr-product-manager-cloud-and-ai-software-firewalls?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Oct 23 |
+| **[Smith's Group](https://www.smiths.com)** | **[Digital Product Manager - Cyber Security](https://jobr.pro/job/30890917/digital-product-manager-cyber-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, United Kingdom | On Site | Oct 23 |
 | **[PetIQ](https://petiq.com/)** | **[Product Manager (Remote)](https://jobr.pro/job/30871565/product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Work From Home, United States | Remote | Oct 23 |
 | **[PetIQ](https://petiq.com/)** | **[Product Manager - Healthcare Price Transparency Data Solution (Remote/Work From Home)](https://jobr.pro/job/30871554/product-manager-healthcare-price-transparency-data-solution-remotework-from-home?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Work From Home, United States | Remote | Oct 23 |
 | **[PetIQ](https://petiq.com/)** | **[Product Manager](https://jobr.pro/job/30871529/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Work From Home, United States | Remote | Oct 23 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Backbase](https://www.backbase.com/)** | **[Senior Product Manager](https://jobr.pro/job/30812285/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ho Chi Minh | On Site | Oct 23 |
 | **[Canva](https://www.canva.com)** | **[Senior Platform Product Manager - Product Insights Enablement](https://jobr.pro/job/30814132/senior-platform-product-manager-product-insights-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, NSW, Australia | On Site | Oct 23 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Sr. Product Manager, Ads Formats](https://jobr.pro/job/30817642/sr-product-manager-ads-formats?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA, US; Remote, US | Remote | Oct 23 |
-| **[Euclid Power](https://www.euclidpower.com/)** | **[Senior Product Manager](https://jobr.pro/job/30821600/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NYC OR Remote | Remote | Oct 23 |
-| **[Vector Limited](https://www.vector.co.nz/)** | **[Principal Product Manager - Meter Data Management Systems (MDMS)](https://jobr.pro/job/30821372/principal-product-manager-meter-data-management-systems-mdms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Auckland, Auckland, New Zealand | On Site | Oct 23 |
-| **[Vector Limited](https://www.vector.co.nz/)** | **[Principal Product Manager - Distribution Networks](https://jobr.pro/job/30821374/principal-product-manager-distribution-networks?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Auckland, Auckland, New Zealand | On Site | Oct 23 |
-| **[Unit4](https://www.unit4.com)** | **[Local Product Manager Benelux (Dutch speaking)](https://jobr.pro/job/30826094/local-product-manager-benelux-dutch-speaking?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Eindhoven, NB, Netherlands | On Site | Oct 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 36 companies | Avg salary: 184k  
+**Current Stats:** 50 jobs | 10% remote | 37 companies | Avg salary: 189k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
