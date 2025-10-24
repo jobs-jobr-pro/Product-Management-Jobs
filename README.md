@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 23, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[IDEXX](https://www.idexx.com/)** | **[Product Manager - Veterinary Software](https://jobr.pro/job/30889615/product-manager-veterinary-software?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NZ-AKL-Auckland, New Zealand | On Site | Oct 24 |
 | **[PetIQ](https://petiq.com/)** | **[Product Manager (Remote)](https://jobr.pro/job/30871565/product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Work From Home, United States | Remote | Oct 23 |
 | **[PetIQ](https://petiq.com/)** | **[Product Manager - Healthcare Price Transparency Data Solution (Remote/Work From Home)](https://jobr.pro/job/30871554/product-manager-healthcare-price-transparency-data-solution-remotework-from-home?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Work From Home, United States | Remote | Oct 23 |
 | **[PetIQ](https://petiq.com/)** | **[Product Manager](https://jobr.pro/job/30871529/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Work From Home, United States | Remote | Oct 23 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Vector Limited](https://www.vector.co.nz/)** | **[Principal Product Manager - Meter Data Management Systems (MDMS)](https://jobr.pro/job/30821372/principal-product-manager-meter-data-management-systems-mdms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Auckland, Auckland, New Zealand | On Site | Oct 23 |
 | **[Vector Limited](https://www.vector.co.nz/)** | **[Principal Product Manager - Distribution Networks](https://jobr.pro/job/30821374/principal-product-manager-distribution-networks?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Auckland, Auckland, New Zealand | On Site | Oct 23 |
 | **[Unit4](https://www.unit4.com)** | **[Local Product Manager Benelux (Dutch speaking)](https://jobr.pro/job/30826094/local-product-manager-benelux-dutch-speaking?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Eindhoven, NB, Netherlands | On Site | Oct 23 |
-| **[Bosch Group](https://www.bosch.com)** | **[Product Manager _EM](https://jobr.pro/job/30822810/product-manager-em?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shanghai, Shanghai, China | On Site | Oct 23 |
 
 ---
 
