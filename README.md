@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -61,12 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PayPal](https://www.paypal.com/)** | **[Lead Product Manager](https://jobr.pro/job/30971749/lead-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Oct 24 |
 | **[Saab](https://www.saab.com/)** | **[Saab söker Deputy Product Manager AT4](https://jobr.pro/job/30959010/saab-soker-deputy-product-manager-at4?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Karlskoga - Boforsvägen 1, Sweden | On Site | Oct 24 |
 | **[Onepoint](https://www.groupeonepoint.com/)** | **[Consultant - Product Owner/Product Manager F/H](https://jobr.pro/job/30972571/consultant-product-ownerproduct-manager-fh?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris, France | On Site | Oct 24 |
-| **[DraftKings Inc.](https://www.draftkings.com/)** | **[Senior Product Manager, Marketing](https://jobr.pro/job/30971345/senior-product-manager-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boston, MA, United States | On Site | Oct 24 |
-| **[GEICO](https://www.geico.com/)** | **[Product Manager, Data Platform](https://jobr.pro/job/30972452/product-manager-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | MD Chevy Chase (Office) - JPS, United States | On Site | Oct 24 |
+| **[Fiserv](https://www.fiserv.com/)** | **[FX Product Manager](https://jobr.pro/job/30960563/fx-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dublin, Ireland | On Site | Oct 24 |
+| **[Boyd Group](https://boydgroup.com/)** | **[Software Product Manager](https://jobr.pro/job/30960300/software-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | AA Elmhurst Collision Head Office - 000001, United States | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 44 companies | Avg salary: 195k  
+**Current Stats:** 50 jobs | 6% remote | 44 companies | Avg salary: 196k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
