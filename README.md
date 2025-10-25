@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 25, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -53,6 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GumGum](https://gumgum.com/)** | **[Principal Product Manager, AI Monetization](https://jobr.pro/job/30993588/principal-product-manager-ai-monetization?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Monica, California, United States | On Site | Oct 24 |
 | **[Foodsmart](https://www.foodsmart.com/)** | **[Staff Product Manager](https://jobr.pro/job/30989569/staff-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (US) | Remote | Oct 24 |
 | **[GumGum](https://gumgum.com/)** | **[Principal Product Manager, CTV](https://jobr.pro/job/30993590/principal-product-manager-ctv?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Monica, California, United States | On Site | Oct 24 |
+| **[Vectorworks Inc.](https://www.vectorworks.net/)** | **[Product Manager Integration (All Genders)](https://jobr.pro/job/31032861/product-manager-integration-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ALLPLAN, Brno, ALLPLAN, Prague | On Site | Oct 24 |
 | **[Garner Health](https://www.getgarner.com/)** | **[Product Manager II](https://jobr.pro/job/30985288/product-manager-ii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City, New York | On Site | Oct 24 |
 | **[Mission Lane](https://www.missionlane.com/)** | **[Product Manager, Internal Tools & Automation](https://jobr.pro/job/30995575/product-manager-internal-tools-automation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, United States | Remote | Oct 24 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Senior Product Manager (CMS & Content Services)](https://jobr.pro/job/30995666/senior-product-manager-cms-content-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Englewood Cliffs, NEW JERSEY, United States | On Site | Oct 24 |
@@ -61,12 +62,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Product Manager, AI](https://jobr.pro/job/30979590/product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Englewood Cliffs, NEW JERSEY, United States | On Site | Oct 24 |
 | **[Experian](https://www.experian.com/)** | **[Senior Product Manager - Innovation Specialist (Remote)](https://jobr.pro/job/30994376/senior-product-manager-innovation-specialist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Costa Mesa, CA, United States | Remote | Oct 24 |
 | **[Omnidian](https://www.omnidian.com/)** | **[Software Product Manager](https://jobr.pro/job/30989578/software-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Costa Rica | On Site | Oct 24 |
-| **[Omnidian](https://www.omnidian.com/)** | **[Senior Software Product Manager](https://jobr.pro/job/30989577/senior-software-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Costa Rica | On Site | Oct 24 |
-| **[Geotab](https://www.geotab.com/)** | **[Senior Product Manager, Data Platform (Remote)](https://jobr.pro/job/30993719/senior-product-manager-data-platform-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, Georgia - USA | Remote | Oct 24 |
+| **[Veho](https://www.shipveho.com/)** | **[Group Product Manager – Client Experience](https://jobr.pro/job/31032751/group-product-manager-client-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Framingham, MA, Hybrid, New York | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 37 companies | Avg salary: 208k  
+**Current Stats:** 50 jobs | 18% remote | 38 companies | Avg salary: 208k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
