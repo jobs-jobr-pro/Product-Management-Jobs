@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 25, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Product Manager, AI](https://jobr.pro/job/30979590/product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Englewood Cliffs, NEW JERSEY, United States | On Site | Oct 24 |
 | **[ADP](https://www.adp.com/)** | **[Sr. Product Manager (Payments and Fraud)](https://jobr.pro/job/30962826/sr-product-manager-payments-and-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pasadena, CA, United States | On Site | Oct 24 |
 | **[Conservice](https://www.conservice.com/)** | **[Offshore Product Manager (Philippines)](https://jobr.pro/job/30959223/offshore-product-manager-philippines?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Manila, PHL-NCR, Philippines | On Site | Oct 24 |
+| **[Spring Venture Group](https://springventuregroup.com)** | **[Product Manager - Data](https://jobr.pro/job/30979703/product-manager-data?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kansas City, MO, United States | On Site | Oct 24 |
 | **[FieldAssist](https://www.fieldassist.com/)** | **[Product Manager](https://jobr.pro/job/30946737/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Haryana, Gurugram, India | On Site | Oct 24 |
 | **[Fulcrum Digital](https://fulcrumdigital.com/)** | **[Product Manager Technical (PMT) - PUNE](https://jobr.pro/job/30940968/product-manager-technical-pmt-pune?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pune City, India | On Site | Oct 24 |
 | **[Emerson](https://www.emerson.com/)** | **[Product Manager, Marketing – Process Industries](https://jobr.pro/job/30940322/product-manager-marketing-process-industries?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lodz Province, Poland | On Site | Oct 24 |
@@ -57,16 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Lyreco Group](https://www.lyreco.com/)** | **[Product Manager GOP](https://jobr.pro/job/30952615/product-manager-gop?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berchem, Belgium | On Site | Oct 24 |
 | **[Tyro Payments](https://www.tyro.com/)** | **[Senior Product Manager - Online Payments](https://jobr.pro/job/30945615/senior-product-manager-online-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, Australia | On Site | Oct 24 |
 | **[Homa Games](https://www.homagames.com/)** | **[Senior Technical Product Manager](https://jobr.pro/job/30948764/senior-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | France - Remote | Remote | Oct 24 |
-| **[SailPoint](https://www.sailpoint.com/)** | **[Product Manager - Security Products - Pune, India](https://jobr.pro/job/30972413/product-manager-security-products-pune-india?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pune, India | On Site | Oct 24 |
-| **[PayPal](https://www.paypal.com/)** | **[Lead Product Manager](https://jobr.pro/job/30971749/lead-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Oct 24 |
-| **[Saab](https://www.saab.com/)** | **[Saab söker Deputy Product Manager AT4](https://jobr.pro/job/30959010/saab-soker-deputy-product-manager-at4?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Karlskoga - Boforsvägen 1, Sweden | On Site | Oct 24 |
-| **[Onepoint](https://www.groupeonepoint.com/)** | **[Consultant - Product Owner/Product Manager F/H](https://jobr.pro/job/30972571/consultant-product-ownerproduct-manager-fh?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris, France | On Site | Oct 24 |
-| **[Fiserv](https://www.fiserv.com/)** | **[FX Product Manager](https://jobr.pro/job/30960563/fx-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dublin, Ireland | On Site | Oct 24 |
-| **[Boyd Group](https://boydgroup.com/)** | **[Software Product Manager](https://jobr.pro/job/30960300/software-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | AA Elmhurst Collision Head Office - 000001, United States | On Site | Oct 24 |
+| **[Sky](https://jobs.sky.com/)** | **[Product Manager, Production Operations](https://jobr.pro/job/30976908/product-manager-production-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Osterley, United Kingdom | On Site | Oct 24 |
+| **[Absa Group](https://www.absa.africa/)** | **[Pan Africa Product Manager - Working Capital Product](https://jobr.pro/job/30974747/pan-africa-product-manager-working-capital-product?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 15 Alice Lane, South Africa | On Site | Oct 24 |
+| **[GE HealthCare](https://www.gehealthcare.com/)** | **[Service Product Manager-MVS](https://jobr.pro/job/30962318/service-product-manager-mvs?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Guangzhou, China | On Site | Oct 24 |
+| **[GE HealthCare](https://www.gehealthcare.com/)** | **[Sr Technical Product Manager](https://jobr.pro/job/30962228/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | HUN02-01-Budapest-Vaci Greens C, Hungary | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 44 companies | Avg salary: 196k  
+**Current Stats:** 50 jobs | 6% remote | 43 companies | Avg salary: 190k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
