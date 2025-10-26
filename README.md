@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 26, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 26, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Outbound Product Manager](https://jobr.pro/job/31042921/staff-outbound-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta , Georgia , United States | On Site | Oct 25 |
 | **[American Express](https://www.americanexpress.com/)** | **[Senior Product Manager - Amex Offers](https://jobr.pro/job/31023341/senior-product-manager-amex-offers?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US-New York-New York | On Site | Oct 25 |
 | **[easyJet](https://www.easyjet.com/)** | **[Digital Product Manager - Revenue](https://jobr.pro/job/31021457/digital-product-manager-revenue?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Kingdom-London-London Luton Airport | On Site | Oct 25 |
 | **[Compare the Market](https://www.comparethemarket.com/)** | **[Product Manager](https://jobr.pro/job/31021257/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Kingdom | On Site | Oct 25 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Product Manager, AI](https://jobr.pro/job/30979590/product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Englewood Cliffs, NEW JERSEY, United States | On Site | Oct 24 |
 | **[Experian](https://www.experian.com/)** | **[Senior Product Manager - Innovation Specialist (Remote)](https://jobr.pro/job/30994376/senior-product-manager-innovation-specialist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Costa Mesa, CA, United States | Remote | Oct 24 |
 | **[Omnidian](https://www.omnidian.com/)** | **[Software Product Manager](https://jobr.pro/job/30989578/software-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Costa Rica | On Site | Oct 24 |
-| **[Veho](https://www.shipveho.com/)** | **[Group Product Manager – Client Experience](https://jobr.pro/job/31032751/group-product-manager-client-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Framingham, MA, Hybrid, New York | On Site | Oct 24 |
 
 ---
 
