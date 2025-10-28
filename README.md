@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Veho](https://www.shipveho.com/)** | **[Product Manager - Transportation](https://jobr.pro/job/31172796/product-manager-transportation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid, New York, Hybrid, Dallas | On Site | Oct 28 |
+| **[Fabric](https://fabrichealth.com/)** | **[Senior Product Manager](https://jobr.pro/job/31172876/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City, Remote | Remote | Oct 28 |
 | **[FieldAssist](https://www.fieldassist.com/)** | **[Associate Product Manager/Product Manager](https://jobr.pro/job/31157258/associate-product-managerproduct-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Haryana, Gurugram, India | On Site | Oct 28 |
 | **[Fulcrum Digital](https://fulcrumdigital.com/)** | **[Product Manager Technical (PMT) - PUNE](https://jobr.pro/job/31152116/product-manager-technical-pmt-pune?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pune City, India | On Site | Oct 28 |
 | **[FundGuard](https://www.fundguard.com/)** | **[Product Manager-Finance and accounting](https://jobr.pro/job/31164077/product-manager-finance-and-accounting?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 28 |
@@ -27,6 +29,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Product Manager, Ads Safety, Search Scams](https://jobr.pro/job/31140273/senior-product-manager-ads-safety-search-scams?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA, USA | On Site | Oct 28 |
 | **[Google](https://www.google.com/)** | **[Group Product Manager, Storage](https://jobr.pro/job/31140244/group-product-manager-storage?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kirkland, WA, USA; Seattle, WA, USA | On Site | Oct 28 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Cross Currency (FX) Payments – Product Manager - Vice President](https://jobr.pro/job/31138804/cross-currency-fx-payments-product-manager-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | LONDON, LONDON, United Kingdom | On Site | Oct 28 |
+| **[Acne Studios](https://www.acnestudios.com/)** | **[Product Manager](https://jobr.pro/job/31171516/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Stockholm | On Site | Oct 28 |
 | **[Exasol](https://www.exasol.com)** | **[Senior Product Manager, Database Core (f/m/d)](https://jobr.pro/job/31146007/senior-product-manager-database-core-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Nuremberg, Germany, Germany | On Site | Oct 28 |
 | **[TriNet](https://www.trinet.com/)** | **[Senior Product Manager](https://jobr.pro/job/31142895/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hyderabad, Telangana, India | On Site | Oct 28 |
 | **[Ross Video](https://www.rossvideo.com/)** | **[Senior Product Manager - XPression Technical (Job Req #2025-371)](https://jobr.pro/job/31163354/senior-product-manager-xpression-technical-job-req-2025-371?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ottawa, ON, K2E 1B8, CA | On Site | Oct 28 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[The Gym Group](https://www.thegymgroup.com/)** | **[Digital Product Manager](https://jobr.pro/job/31164290/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Clapham Junction, United Kingdom | On Site | Oct 28 |
 | **[The Gym Group](https://www.thegymgroup.com/)** | **[Senior Digital Product Manager](https://jobr.pro/job/31164287/senior-digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Clapham Junction, United Kingdom | On Site | Oct 28 |
 | **[INDICO](https://indicocompany.com)** | **[Product Manager for KUNCIE](https://jobr.pro/job/31145290/product-manager-for-kuncie?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South Jakarta, South Jakarta City, Indonesia | On Site | Oct 28 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com/)** | **[Product Manager I (Integrations)](https://jobr.pro/job/31164494/product-manager-i-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Manila, Philippines | On Site | Oct 28 |
-| **[Unifize](https://www.unifize.com)** | **[Associate Product Manager - Product & SKU Releases](https://jobr.pro/job/31156450/associate-product-manager-product-sku-releases?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 28 |
-| **[Genuit Group](https://www.genuitgroup.com/)** | **[Product Manager](https://jobr.pro/job/31149934/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ADEY Stonehouse, United Kingdom | On Site | Oct 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 36 companies | Avg salary: 203k  
+**Current Stats:** 50 jobs | 8% remote | 36 companies | Avg salary: 201k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
