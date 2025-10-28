@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -54,19 +54,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Syneos Health](https://www.syneoshealth.com/)** | **[Principal Product Manager](https://jobr.pro/job/31051214/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND-Hyderabad-Hybrid, India | On Site | Oct 27 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Principal Product Manager](https://jobr.pro/job/31059764/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - India - Remote; Remote - Remote; Bengaluru - India - Bengaluru, 560071 India | Remote | Oct 27 |
 | **[Supermicro](https://www.supermicro.com)** | **[Product Manager](https://jobr.pro/job/31048276/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chungho, Taiwan, TW | On Site | Oct 27 |
-| **[AT&T](https://www.att.com/)** | **[Lead Technology Product Manager](https://jobr.pro/job/31070633/lead-technology-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA:TX:Dallas / Two AT&T Plaza (211 S Akard St) - Dat:211 S Akard St, United States | On Site | Oct 27 |
-| **[Covestro](https://www.covestro.com/)** | **[Technical Product Manager UVR](https://jobr.pro/job/31092941/technical-product-manager-uvr?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Taoyuan City, Taiwan | On Site | Oct 27 |
-| **[Takeda](https://www.takeda.com/)** | **[Product Manager, Vaccines](https://jobr.pro/job/31080373/product-manager-vaccines?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND - Mumbai, India | On Site | Oct 27 |
-| **[Takeda](https://www.takeda.com/)** | **[Sr. Product Manager - Plasma Derived Therapies](https://jobr.pro/job/31080358/sr-product-manager-plasma-derived-therapies?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND - Mumbai, India | On Site | Oct 27 |
-| **[PwC](https://www.pwc.com/)** | **[Technical Junior Product Manager (w/m/d)](https://jobr.pro/job/31081164/technical-junior-product-manager-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Wien - Donau-City-Straße 7, Austria | On Site | Oct 27 |
+| **[VIAVI Solutions](https://www.viavisolutions.com/)** | **[Fiber Optic Production and Lab Test Business Development/Product Manager](https://jobr.pro/job/31084663/fiber-optic-production-and-lab-test-business-developmentproduct-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Home Office, DEU, Germany | Remote | Oct 27 |
+| **[GE HealthCare](https://www.gehealthcare.com/)** | **[Staff Technical Product Manager - Pricing](https://jobr.pro/job/31081754/staff-technical-product-manager-pricing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND19-01-Bengaluru-EPIP 122 (Phase II), India | On Site | Oct 27 |
+| **[Maxis](https://www.maxis.com.my/)** | **[Product Manager – Device Lifecycle Management](https://jobr.pro/job/31081312/product-manager-device-lifecycle-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Menara Maxis, Malaysia | On Site | Oct 27 |
 | **[The Toro Company](https://www.thetorocompany.com/)** | **[Senior Product Manager, R&D Technology - The Toro Company](https://jobr.pro/job/31092469/senior-product-manager-rd-technology-the-toro-company?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bloomington, MN, United States | On Site | Oct 27 |
 | **[Workday](https://www.workday.com/)** | **[Product Manager - Accounts Receivable](https://jobr.pro/job/31092461/product-manager-accounts-receivable?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Oct 27 |
 | **[Workday](https://www.workday.com/)** | **[Product Manager](https://jobr.pro/job/31092460/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Oct 27 |
 | **[Valeo](https://www.valeo.com/)** | **[VS Regional Product Manager](https://jobr.pro/job/31088337/vs-regional-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | SAINT DENIS - STD1, France | On Site | Oct 27 |
+| **[Western Union](https://www.westernunion.com/)** | **[Associate Product Manager](https://jobr.pro/job/31093196/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Denver - WU HQ, United States | On Site | Oct 27 |
+| **[Abbott](https://www.abbott.com/)** | **[Product Manager - NovaNXT](https://jobr.pro/job/31090798/product-manager-novanxt?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Mumbai : BKC Building | On Site | Oct 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 138k  
+**Current Stats:** 50 jobs | 10% remote | 46 companies | Avg salary: 135k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
