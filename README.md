@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Mastercard](https://www.mastercard.com/)** | **[Lead Product Manager, Technical](https://jobr.pro/job/31101744/lead-product-manager-technical?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore | On Site | Oct 28 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Product Manager - GTM Partner Platforms](https://jobr.pro/job/31098228/senior-product-manager-gtm-partner-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Addison, TEXAS, United States | On Site | Oct 27 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Inbound Product Manager - AI Control Tower](https://jobr.pro/job/31097852/staff-inbound-product-manager-ai-control-tower?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, California , United States | On Site | Oct 27 |
+| **[QRC Group](https://www.qrcgroup.com)** | **[Process & Product Manager](https://jobr.pro/job/31098447/process-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Aibonito, Aibonito, Puerto Rico | On Site | Oct 27 |
 | **[Helena Agri-Enterprises, LLC](https://helenaagri.com/)** | **[Product Manager - Agriculture](https://jobr.pro/job/31083036/product-manager-agriculture?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Casa Grande, AZ, United States | On Site | Oct 27 |
 | **[Tempur Sealy International](https://www.tempursealy.com/)** | **[Sr. Product Manager, eCommerce](https://jobr.pro/job/31082288/sr-product-manager-ecommerce?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lexington, KY, United States | On Site | Oct 27 |
 | **[Jamjoom Pharma](https://www.jamjoompharma.com/)** | **[Product Manager](https://jobr.pro/job/31082071/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cairo, Egypt | On Site | Oct 27 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Maxis](https://www.maxis.com.my/)** | **[Product Manager – Device Lifecycle Management](https://jobr.pro/job/31081312/product-manager-device-lifecycle-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Menara Maxis, Malaysia | On Site | Oct 27 |
 | **[The Toro Company](https://www.thetorocompany.com/)** | **[Senior Product Manager, R&D Technology - The Toro Company](https://jobr.pro/job/31092469/senior-product-manager-rd-technology-the-toro-company?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bloomington, MN, United States | On Site | Oct 27 |
 | **[Workday](https://www.workday.com/)** | **[Product Manager - Accounts Receivable](https://jobr.pro/job/31092461/product-manager-accounts-receivable?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Oct 27 |
-| **[Workday](https://www.workday.com/)** | **[Product Manager](https://jobr.pro/job/31092460/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Oct 27 |
-| **[Valeo](https://www.valeo.com/)** | **[VS Regional Product Manager](https://jobr.pro/job/31088337/vs-regional-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | SAINT DENIS - STD1, France | On Site | Oct 27 |
-| **[Western Union](https://www.westernunion.com/)** | **[Associate Product Manager](https://jobr.pro/job/31093196/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Denver - WU HQ, United States | On Site | Oct 27 |
-| **[Abbott](https://www.abbott.com/)** | **[Product Manager - NovaNXT](https://jobr.pro/job/31090798/product-manager-novanxt?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Mumbai : BKC Building | On Site | Oct 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 46 companies | Avg salary: 135k  
+**Current Stats:** 50 jobs | 10% remote | 46 companies | Avg salary: 170k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
