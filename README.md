@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -51,8 +51,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Moloco](https://www.moloco.com/)** | **[Group Product Manager - Dynamic Product Ads](https://jobr.pro/job/31102740/group-product-manager-dynamic-product-ads?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore | On Site | Oct 28 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Product Manager - Accounts Platform](https://jobr.pro/job/31142139/senior-product-manager-accounts-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, California, United States | On Site | Oct 28 |
 | **[Mastercard](https://www.mastercard.com/)** | **[Lead Product Manager, Technical](https://jobr.pro/job/31101744/lead-product-manager-technical?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore | On Site | Oct 28 |
-| **[Inventi](https://inventi.io/)** | **[Product Manager](https://jobr.pro/job/31129319/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Vilnius, Vilnius City Municipality, Lithuania | On Site | Oct 28 |
-| **[Advanced Energy](https://www.advanced-energy.com)** | **[Data Product Manager](https://jobr.pro/job/31133589/data-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Quezon City, 00, PH, 1110 | On Site | Oct 28 |
 | **[Moderna](https://www.modernatx.com/)** | **[Senior Product Manager, Clinical Safety and Pharmacovigilance Systems](https://jobr.pro/job/31169134/senior-product-manager-clinical-safety-and-pharmacovigilance-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 325 Binney St - Cambridge - USA - MA, United States | On Site | Oct 28 |
 | **[Resolver](https://www.resolver.com/)** | **[Product Manager](https://jobr.pro/job/31128436/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto, Ontario, Canada | On Site | Oct 28 |
 | **[Allstate](https://www.allstate.com/)** | **[Digital Product Manager(Identity and Access Management)](https://jobr.pro/job/31167061/digital-product-manageridentity-and-access-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ind – Blr Sez 2 (All Other Floors), India | On Site | Oct 28 |
@@ -63,10 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[The Gym Group](https://www.thegymgroup.com/)** | **[Digital Product Manager](https://jobr.pro/job/31164290/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Clapham Junction, United Kingdom | On Site | Oct 28 |
 | **[The Gym Group](https://www.thegymgroup.com/)** | **[Senior Digital Product Manager](https://jobr.pro/job/31164287/senior-digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Clapham Junction, United Kingdom | On Site | Oct 28 |
 | **[INDICO](https://indicocompany.com)** | **[Product Manager for KUNCIE](https://jobr.pro/job/31145290/product-manager-for-kuncie?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South Jakarta, South Jakarta City, Indonesia | On Site | Oct 28 |
+| **[Apex Fintech Solutions](https://apexfintechsolutions.com/)** | **[Product Manager I (Integrations)](https://jobr.pro/job/31164494/product-manager-i-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Manila, Philippines | On Site | Oct 28 |
+| **[Unifize](https://www.unifize.com)** | **[Associate Product Manager - Product & SKU Releases](https://jobr.pro/job/31156450/associate-product-manager-product-sku-releases?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 36 companies | Avg salary: 201k  
+**Current Stats:** 50 jobs | 8% remote | 36 companies | Avg salary: 213k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
