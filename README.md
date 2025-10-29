@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Thought Industries](https://www.thoughtindustries.com/)** | **[Senior Product Manager](https://jobr.pro/job/31192872/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boston, MA, United States | On Site | Oct 28 |
 | **[Veho](https://www.shipveho.com/)** | **[Product Manager - Transportation](https://jobr.pro/job/31172796/product-manager-transportation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid, New York, Hybrid, Dallas | On Site | Oct 28 |
 | **[Fabric](https://fabrichealth.com/)** | **[Senior Product Manager](https://jobr.pro/job/31172876/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City, Remote | Remote | Oct 28 |
 | **[FieldAssist](https://www.fieldassist.com/)** | **[Associate Product Manager/Product Manager](https://jobr.pro/job/31157258/associate-product-managerproduct-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Haryana, Gurugram, India | On Site | Oct 28 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[The Gym Group](https://www.thegymgroup.com/)** | **[Senior Digital Product Manager](https://jobr.pro/job/31164287/senior-digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Clapham Junction, United Kingdom | On Site | Oct 28 |
 | **[INDICO](https://indicocompany.com)** | **[Product Manager for KUNCIE](https://jobr.pro/job/31145290/product-manager-for-kuncie?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South Jakarta, South Jakarta City, Indonesia | On Site | Oct 28 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com/)** | **[Product Manager I (Integrations)](https://jobr.pro/job/31164494/product-manager-i-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Manila, Philippines | On Site | Oct 28 |
-| **[Unifize](https://www.unifize.com)** | **[Associate Product Manager - Product & SKU Releases](https://jobr.pro/job/31156450/associate-product-manager-product-sku-releases?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 36 companies | Avg salary: 213k  
+**Current Stats:** 50 jobs | 8% remote | 36 companies | Avg salary: 209k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
