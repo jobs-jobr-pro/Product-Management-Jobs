@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 30, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 30, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Global Payments](https://www.globalpayments.com/)** | **[Product Manager - Value Added Services (VAS)](https://jobr.pro/job/31284123/product-manager-value-added-services-vas?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Fortitude Valley, Queensland, Austrialia, Australia | On Site | Oct 30 |
 | **[PetIQ](https://petiq.com/)** | **[Product Manager (Remote)](https://jobr.pro/job/31260179/product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oak Brook, IL, United States | Remote | Oct 29 |
+| **[Visa](https://visa.com)** | **[AI GTM Product Manager](https://jobr.pro/job/31280449/ai-gtm-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA, United States | On Site | Oct 29 |
 | **[Trullion](https://trullion.com/)** | **[Product Manager- Platform](https://jobr.pro/job/31253868/product-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 29 |
 | **[Guesty](https://www.guesty.com/)** | **[Senior Product Manager](https://jobr.pro/job/31253930/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Barcelona, Barcelona, ES | On Site | Oct 29 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Product Manager (Video Safety Strategy) - TikTok Safety Product (San Jose)](https://jobr.pro/job/31238378/senior-product-manager-video-safety-strategy-tiktok-safety-product-san-jose?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, United States | On Site | Oct 29 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Genuine Parts Company](https://www.genpt.com/)** | **[Product Manager](https://jobr.pro/job/31268372/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | POL GPC Krakow, Poland | On Site | Oct 29 |
 | **[PayPal](https://www.paypal.com/)** | **[Principal AI Product Manager](https://jobr.pro/job/31275499/principal-ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Oct 29 |
 | **[VIAVI Solutions](https://www.viavisolutions.com/)** | **[Product Manager (Lab & Production)](https://jobr.pro/job/31275467/product-manager-lab-production?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ottawa, CAN, Canada | On Site | Oct 29 |
-| **[Johnson & Johnson](https://www.jnj.com/)** | **[Associate Product Manager](https://jobr.pro/job/31251576/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | MY016 Pinnacle, Malaysia | Remote | Oct 29 |
-| **[Zendesk](https://www.zendesk.com)** | **[Senior Technical Product Manager](https://jobr.pro/job/31274576/senior-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Pune - Office | On Site | Oct 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 35 companies | Avg salary: 219k  
+**Current Stats:** 50 jobs | 6% remote | 37 companies | Avg salary: 218k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
