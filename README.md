@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -62,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Atlassian](https://www.atlassian.com/)** | **[Senior Principal Product Manager](https://jobr.pro/job/31413809/senior-principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco - United States - San Francisco, California 94104 United States; Remote - Remote; Seattle - United States - Seattle, Washington United States | Remote | Oct 31 |
 | **[Printful](https://www.printful.com/)** | **[Principal Product Manager for Printful Enterprise Suite (Remote in the US - Eastern Time Zone)](https://jobr.pro/job/31410124/principal-product-manager-for-printful-enterprise-suite-remote-in-the-us-eastern-time-zone?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NC, Remote, United States | Remote | Oct 31 |
 | **[Mercari, Inc.](https://www.mercari.com/)** | **[Product Manager / プロダクトマネージャー(Service Product) - Merpay](https://jobr.pro/job/31406854/product-manager-service-product-merpay?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Minato City, Tokyo, Japan | On Site | Oct 31 |
-| **[Fiserv](https://www.fiserv.com/)** | **[Product Manager - Digital Security and Identity](https://jobr.pro/job/31438145/product-manager-digital-security-and-identity?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lincoln, Nebraska, United States | On Site | Oct 31 |
+| **[Workday](https://www.workday.com/)** | **[Product Manager](https://jobr.pro/job/31448196/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Oct 31 |
 
 ---
 
