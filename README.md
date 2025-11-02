@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 02, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -21,8 +21,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Moveworks](https://www.moveworks.com/)** | **[Principal Product Manager, Search Platform](https://jobr.pro/job/31460278/principal-product-manager-search-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA | On Site | Nov 01 |
 | **[Yuno](https://www.y.uno/)** | **[Product Manager - Reconciliations Team](https://jobr.pro/job/31463284/product-manager-reconciliations-team?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Europe | Remote | Nov 01 |
 | **[Univar Solutions](https://www.univarsolutions.com/)** | **[District Product Manager](https://jobr.pro/job/31462111/district-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Twinsburg, OH, US, 44087-2219 | On Site | Nov 01 |
-| **[Workday](https://www.workday.com/)** | **[Product Manager - Accounts Receivable / Accounts Payable](https://jobr.pro/job/31518123/product-manager-accounts-receivable-accounts-payable?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Nov 01 |
 | **[Zendesk](https://www.zendesk.com)** | **[Senior Product Manager](https://jobr.pro/job/31515767/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Portugal - Lisbon - Office | On Site | Nov 01 |
+| **[Workday](https://www.workday.com/)** | **[Product Manager - Accounts Receivable / Accounts Payable](https://jobr.pro/job/31518123/product-manager-accounts-receivable-accounts-payable?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Nov 01 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Group Product Manager](https://jobr.pro/job/31490609/principal-group-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redmond, Washington, United States | On Site | Oct 31 |
 | **[Propel](https://www.propelplm.com)** | **[Senior Product Manager](https://jobr.pro/job/31461889/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Oct 31 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Product Manager](https://jobr.pro/job/31490641/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redmond, Washington, United States | On Site | Oct 31 |
