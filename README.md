@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior Product Manager (Data Security)](https://jobr.pro/job/31693365/senior-product-manager-data-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Nov 04 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior Product Manager (Cloud Management - Device Management and Operations)](https://jobr.pro/job/31693342/senior-product-manager-cloud-management-device-management-and-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Nov 04 |
+| **[IFS](https://www.ifs.com/)** | **[Senior Outbound Product Manager, Agentic AI- IFS Loops](https://jobr.pro/job/31693253/senior-outbound-product-manager-agentic-ai-ifs-loops?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA, United States | On Site | Nov 04 |
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Product Manager-X sell-Digital Banking Kotak 811-Regional Sales](https://jobr.pro/job/31658033/product-manager-x-sell-digital-banking-kotak-811-regional-sales?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mumbai, Maharashtra, India | On Site | Nov 04 |
 | **[Getinz](https://www.getinz.com/)** | **[Product Manager (Payments) - GTP](https://jobr.pro/job/31656625/product-manager-payments-gtp?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Karnataka, Bengaluru, India | On Site | Nov 04 |
 | **[BAE Systems](https://www.baesystems.com/)** | **[Product Manager (GCAP)](https://jobr.pro/job/31648230/product-manager-gcap?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | GB-ENG-LAN-Warton | On Site | Nov 04 |
@@ -49,24 +52,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Acuity](https://www.acuityinc.com/)** | **[Senior Product Manager - Data Center PLC Solutions](https://jobr.pro/job/31603206/senior-product-manager-data-center-plc-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Thornhill, ON, CA, L3T7N5 | On Site | Nov 04 |
 | **[OPENLANE Europe](https://www.openlane.eu/)** | **[Product Manager Automotive](https://jobr.pro/job/31636533/product-manager-automotive?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tienen, Flanders, Belgium | On Site | Nov 04 |
 | **[Supermicro](https://www.supermicro.com)** | **[Product Manager](https://jobr.pro/job/31614222/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, United States | On Site | Nov 04 |
+| **[Waystar](https://www.waystar.com/)** | **[Sr Product Manager](https://jobr.pro/job/31688026/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, GA, United States | On Site | Nov 04 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com/)** | **[Product Manager, Card Payments - Association Banking](https://jobr.pro/job/31687952/product-manager-card-payments-association-banking?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | AZ - Chandler 3075, United States | On Site | Nov 04 |
+| **[Light & Wonder](https://www.lnw.com/)** | **[Product Manager - Charitable Gaming](https://jobr.pro/job/31687118/product-manager-charitable-gaming?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA-NC-Raleigh-1 Glenwood Ave Ste 600, United States | On Site | Nov 04 |
 | **[BD](https://www.bd.com/)** | **[Product Manager (Marketing, PI)](https://jobr.pro/job/31650721/product-manager-marketing-pi?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | KOR South Korea - Seoul HQ, Korea, Republic of | On Site | Nov 04 |
+| **[Hiscox](https://www.hiscoxgroup.com/)** | **[Data Product Manager, Analytics](https://jobr.pro/job/31689418/data-product-manager-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, United States | On Site | Nov 04 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Junior Product Manager - Investment Funds (f/m/x)](https://jobr.pro/job/31691664/junior-product-manager-investment-funds-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Milano Bicocca Calendario 3, Italy | On Site | Nov 04 |
+| **[Unilever](https://www.unilever.com/)** | **[GDT Logistics Product Manager](https://jobr.pro/job/31691538/gdt-logistics-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Katowickie Centrum Biznesu, Poland | On Site | Nov 04 |
+| **[AirAsia](https://www.airasia.com/)** | **[Associate Product Manager](https://jobr.pro/job/31691841/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, India | On Site | Nov 04 |
+| **[Dow Jones](https://www.dowjones.com/)** | **[Principal Product Manager](https://jobr.pro/job/31691762/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Spain - Barcelona | On Site | Nov 04 |
+| **[Mastercard](https://www.mastercard.com/)** | **[Lead Product Manager - Technical](https://jobr.pro/job/31698346/lead-product-manager-technical?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | O'Fallon, Missouri (Main Campus), United States | On Site | Nov 04 |
 | **[Crowe](https://www.crowe.com/)** | **[Product Manager - Tax AI Solutions](https://jobr.pro/job/31686213/product-manager-tax-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chicago, United States | Remote | Nov 04 |
-| **[Flutter](https://www.flutter.com/)** | **[Senior Product Manager](https://jobr.pro/job/31685932/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, UK, United Kingdom | On Site | Nov 04 |
-| **[9D Technologies](https://www.9dtechnologies.com/)** | **[Growth Product Manager](https://jobr.pro/job/31633549/growth-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lahore, Punjab, Pakistan | On Site | Nov 04 |
-| **[Atlassian](https://www.atlassian.com/)** | **[Principal Product Manager, Confluence Growth & Engagement](https://jobr.pro/job/31643835/principal-product-manager-confluence-growth-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco - United States - San Francisco, California 94104 United States | On Site | Nov 04 |
-| **[Cityblock Health](https://www.cityblock.com/)** | **[Product Manager](https://jobr.pro/job/31666428/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA, United States | On Site | Nov 04 |
-| **[Johnson & Johnson](https://www.jnj.com/)** | **[Product Manager EndoEnergy](https://jobr.pro/job/31659695/product-manager-endoenergy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PL002 Iłżecka, Poland | On Site | Nov 04 |
-| **[Eli Lilly and Company](https://www.lilly.com/)** | **[Product Manager](https://jobr.pro/job/31665616/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IN: Lilly Hyderabad, India | On Site | Nov 04 |
-| **[USAA](https://www.usaa.com/)** | **[Digital Product Manager Senior](https://jobr.pro/job/31665604/digital-product-manager-senior?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Antonio Home Office I, United States | On Site | Nov 04 |
-| **[Barclays](https://home.barclays/)** | **[Data Caching Product Manager](https://jobr.pro/job/31665136/data-caching-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Knutsford, Radbroke Hall, United Kingdom | On Site | Nov 04 |
-| **[Allstate](https://www.allstate.com/)** | **[Senior Consumer Product Manager](https://jobr.pro/job/31664555/senior-consumer-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - IL (Remote), United States | Remote | Nov 04 |
-| **[MANGO](https://www.mango.com/)** | **[SENIOR PRODUCT MANAGER - MAN](https://jobr.pro/job/31668340/senior-product-manager-man?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Palau-solità i Plegamans, Catalonia, Spain | On Site | Nov 04 |
-| **[Medtronic](https://www.medtronic.com/)** | **[RGI-Product Manager-Shanghai](https://jobr.pro/job/31684259/rgi-product-manager-shanghai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CHN-31 Shanghai Dong Yu Road, China | On Site | Nov 04 |
-| **[Johnson & Johnson](https://www.jnj.com/)** | **[Product Manager - Hip, Auckland NZ](https://jobr.pro/job/31660110/product-manager-hip-auckland-nz?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NZ006 Mt Wellington, Auckland, New Zealand | On Site | Nov 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 221k  
+**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 220k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
