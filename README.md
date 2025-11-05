@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Sr Product Manager (Generative AI)](https://jobr.pro/job/31769362/sr-product-manager-generative-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Roseland, NJ, United States | On Site | Nov 05 |
 | **[Schibsted](https://schibsted.com/)** | **[Product Manager](https://jobr.pro/job/31763010/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oslo; Stockholm | On Site | Nov 05 |
 | **[Driivz](https://driivz.com/)** | **[Product Manager](https://jobr.pro/job/31760308/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hod Ha'Sharon, IL | On Site | Nov 05 |
+| **[Fireflies.ai](https://fireflies.ai/)** | **[Product Manager - Platforms](https://jobr.pro/job/31768614/product-manager-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chennai, Buenos Aires, Cape town, Lahore, Gurugram, Madrid, Budapest, Bengaluru | On Site | Nov 05 |
 | **[American Express](https://www.americanexpress.com/)** | **[Senior Product Manager – Enterprise Data Management](https://jobr.pro/job/31750895/senior-product-manager-enterprise-data-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US-Arizona-Phoenix | On Site | Nov 05 |
 | **[Fullpath](https://www.fullpath.com/)** | **[Senior Product Manager](https://jobr.pro/job/31759758/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 05 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Student Growth Segment - Product Manager, Executive Director](https://jobr.pro/job/31757173/student-growth-segment-product-manager-executive-director?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Nov 05 |
@@ -54,19 +56,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Arjo](https://www.arjo.com/)** | **[Product Manager (Long Term Care) - Tokyo, Japan](https://jobr.pro/job/31736716/product-manager-long-term-care-tokyo-japan?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tokyo (JPN), All, JP - Japan | On Site | Nov 05 |
 | **[Kantar](https://www.kantar.com/)** | **[ServiceNow Lead Product Manager](https://jobr.pro/job/31755651/servicenow-lead-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Porto, R. Dom João I, Portugal | On Site | Nov 05 |
 | **[Kantar](https://www.kantar.com/)** | **[Lead Product Manager, Conferencing](https://jobr.pro/job/31755647/lead-product-manager-conferencing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Porto, R. Dom João I, Portugal | On Site | Nov 05 |
-| **[Allstate](https://www.allstate.com/)** | **[Digital Product Manager Expert](https://jobr.pro/job/31762184/digital-product-manager-expert?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - GA (Remote), United States | Remote | Nov 05 |
 | **[Jungheinrich AG](https://www.jungheinrich.com)** | **[(Senior) Product Manager Digital Products - befr. 18 Monate (m/w/d)](https://jobr.pro/job/31753284/senior-product-manager-digital-products-befr-18-monate-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hamburg, Germany | On Site | Nov 05 |
 | **[Ubiquiti Inc.](https://www.ui.com/)** | **[Product manager / Technical lead](https://jobr.pro/job/31751621/product-manager-technical-lead?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Prague | On Site | Nov 05 |
 | **[LotusFlare](https://lotusflare.com)** | **[Technical Product Manager](https://jobr.pro/job/31751177/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Xi'an | On Site | Nov 05 |
 | **[GEA Group](https://www.gea.com/)** | **[Product Manager Slicing & Scanning (m/w/d)](https://jobr.pro/job/31759147/product-manager-slicing-scanning-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kempten : Ignaz-Kiechle-Str. 40, Germany | On Site | Nov 05 |
 | **[Medtronic](https://www.medtronic.com/)** | **[RGI-Associate Product Manager-Shanghai](https://jobr.pro/job/31757676/rgi-associate-product-manager-shanghai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CHN-31 Shanghai Dong Yu Road, China | On Site | Nov 05 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Sr Product Manager - Surgical Innovations - 12 to 18 month contract](https://jobr.pro/job/31757636/sr-product-manager-surgical-innovations-12-to-18-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CAN-ON Brampton, Canada | On Site | Nov 05 |
-| **[Peach Finance](https://www.peachfinance.com/)** | **[Senior Product Manager, AI Platforms](https://jobr.pro/job/31706401/senior-product-manager-ai-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oakland, CA/ Remote (US) | Remote | Nov 04 |
-| **[Monks](https://www.monks.com/)** | **[ESCI Product Manager](https://jobr.pro/job/31702580/esci-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Houston | On Site | Nov 04 |
+| **[Genuine Parts Company](https://www.genpt.com/)** | **[Product Manager](https://jobr.pro/job/31775451/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | POL GPC Krakow, Poland | On Site | Nov 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 43 companies | Avg salary: 209k  
+**Current Stats:** 50 jobs | 6% remote | 43 companies | Avg salary: 224k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
