@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 06, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Newfold Digital](https://newfold.com/)** | **[Product Manager](https://jobr.pro/job/31872119/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, Australia | On Site | Nov 07 |
 | **[Fullpath](https://www.fullpath.com/)** | **[Senior Product Manager](https://jobr.pro/job/31854723/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jerusalem, Jerusalem District, IL | On Site | Nov 06 |
 | **[monday.com](https://monday.com/)** | **[Senior Product Manager - Widgets](https://jobr.pro/job/31855622/senior-product-manager-widgets?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Warsaw, PL | On Site | Nov 06 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Product Manager - Cardholder Solutions](https://jobr.pro/job/31854481/product-manager-cardholder-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Riga, Riga, LV | On Site | Nov 06 |
@@ -37,6 +38,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Merck Group](https://www.merckgroup.com/)** | **[Senior Strategic Product Manager Life Science (all genders)](https://jobr.pro/job/31803450/senior-strategic-product-manager-life-science-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Darmstadt, Hessen, DE, 64293 | On Site | Nov 06 |
 | **[Bolt](https://bolt.eu/)** | **[Senior Product Manager, Communications](https://jobr.pro/job/31811780/senior-product-manager-communications?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Warsaw, Poland | On Site | Nov 06 |
 | **[TAL](https://www.tal.com.au)** | **[Product Manager - Individual Life](https://jobr.pro/job/31813722/product-manager-individual-life?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, NSW, Australia | On Site | Nov 06 |
+| **[EatClub Pty Ltd](https://eatclub.com/)** | **[Product Manager - Remote](https://jobr.pro/job/31864179/product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Melbourne, Victoria 3000, Australia | Remote | Nov 06 |
 | **[Motive](https://gomotive.com/)** | **[Product Manager](https://jobr.pro/job/31802306/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Remote | Remote | Nov 06 |
 | **[Visa](https://visa.com)** | **[Sr Product Manager – B2B Agentic Commerce (Visa Commercial Solutions)](https://jobr.pro/job/31816516/sr-product-manager-b2b-agentic-commerce-visa-commercial-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Foster City, CA, United States | On Site | Nov 06 |
 | **[Newfront](https://www.newfront.com/)** | **[Senior Product Manager - Business Insurance](https://jobr.pro/job/31803876/senior-product-manager-business-insurance?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States (Hybrid) | Remote | Nov 06 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DANA](https://www.dana.id/)** | **[\[LI\] Senior Product Manager (Financial Services)](https://jobr.pro/job/31820281/li-senior-product-manager-financial-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jakarta Selatan, DKI Jakarta, Indonesia | On Site | Nov 06 |
 | **[Wells Fargo](https://www.wellsfargo.com/)** | **[Digital Product Manager](https://jobr.pro/job/31826080/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 110380-IND-BENGALURU-INTL BLR Twr-1&2 CARNATION, India | On Site | Nov 06 |
 | **[TD SYNNEX](https://www.tdsynnex.com/)** | **[Product Manager](https://jobr.pro/job/31827957/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Nov 06 |
-| **[BetterHelp](https://www.betterhelp.com/)** | **[Product Manager - Therapist Growth](https://jobr.pro/job/31812932/product-manager-therapist-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US - Remote | Remote | Nov 05 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Staff Product Manager, Wellbeing](https://jobr.pro/job/31796640/staff-product-manager-wellbeing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chicago, IL, US; Remote, US | Remote | Nov 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 206k  
+**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 187k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
