@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Data Product Manager](https://jobr.pro/job/31787943/data-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Nov 06 |
 | **[ADP](https://www.adp.com/)** | **[Sr Product Manager (Generative AI)](https://jobr.pro/job/31769362/sr-product-manager-generative-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Roseland, NJ, United States | On Site | Nov 05 |
 | **[Schibsted](https://schibsted.com/)** | **[Product Manager](https://jobr.pro/job/31763010/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oslo; Stockholm | On Site | Nov 05 |
 | **[Driivz](https://driivz.com/)** | **[Product Manager](https://jobr.pro/job/31760308/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hod Ha'Sharon, IL | On Site | Nov 05 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GEA Group](https://www.gea.com/)** | **[Product Manager Slicing & Scanning (m/w/d)](https://jobr.pro/job/31759147/product-manager-slicing-scanning-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kempten : Ignaz-Kiechle-Str. 40, Germany | On Site | Nov 05 |
 | **[Medtronic](https://www.medtronic.com/)** | **[RGI-Associate Product Manager-Shanghai](https://jobr.pro/job/31757676/rgi-associate-product-manager-shanghai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CHN-31 Shanghai Dong Yu Road, China | On Site | Nov 05 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Sr Product Manager - Surgical Innovations - 12 to 18 month contract](https://jobr.pro/job/31757636/sr-product-manager-surgical-innovations-12-to-18-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CAN-ON Brampton, Canada | On Site | Nov 05 |
-| **[Genuine Parts Company](https://www.genpt.com/)** | **[Product Manager](https://jobr.pro/job/31775451/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | POL GPC Krakow, Poland | On Site | Nov 05 |
 
 ---
 
