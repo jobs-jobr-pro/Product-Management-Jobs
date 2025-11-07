@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 07, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 07, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -56,17 +56,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CSL](https://www.csl.com/)** | **[Senior Product Manager Rare Nephrology](https://jobr.pro/job/31939860/senior-product-manager-rare-nephrology?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | EMEA, CH, Kanton Zurich, Opfikon, CSL Vifor, Switzerland | On Site | Nov 07 |
 | **[Kuda Technologies Ltd](https://www.kuda.com)** | **[Product Manager](https://jobr.pro/job/31925103/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lagos, Lagos, Nigeria | On Site | Nov 07 |
 | **[Springer Nature Group](https://group.springernature.com/)** | **[Product Manager, Data and AI Solutions, China, Mongolia, and South Korea](https://jobr.pro/job/31939014/product-manager-data-and-ai-solutions-china-mongolia-and-south-korea?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Beijing (北京市) \[Ideal Plaza\], China | On Site | Nov 07 |
-| **[JumpstartMD](https://jumpstartmd.com/)** | **[Product Manager](https://jobr.pro/job/31909997/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (California, US) | Remote | Nov 06 |
-| **[Zscaler](https://www.zscaler.com/careers)** | **[Principal Field Product Manager, Privileged Remote Access](https://jobr.pro/job/31883677/principal-field-product-manager-privileged-remote-access?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - USA | Remote | Nov 06 |
-| **[Natera](https://www.natera.com/)** | **[Sr Product Manager, Conversational AI & Voice Automation](https://jobr.pro/job/31886152/sr-product-manager-conversational-ai-voice-automation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US Remote | Remote | Nov 06 |
-| **[ITS Logistics, LLC](https://www.its4logistics.com/)** | **[Product Manager - Asset Management (Drop Fleet)](https://jobr.pro/job/31890847/product-manager-asset-management-drop-fleet?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Reno, Nevada, United States; Walnut Creek, California, United States | On Site | Nov 06 |
-| **[The Job Sauce](https://thejobsauce.com/)** | **[Sr. Product Manager, Vendor Partnerships - IAA](https://jobr.pro/job/31889393/sr-product-manager-vendor-partnerships-iaa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Nov 06 |
-| **[Panoptyc](https://panoptyc.com/)** | **[Product Manager - Retail Operations](https://jobr.pro/job/31890599/product-manager-retail-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Nov 06 |
-| **[Material Security](https://material.security/)** | **[Staff Product Manager](https://jobr.pro/job/31889953/staff-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Nov 06 |
+| **[LSEG](https://www.lseg.com/)** | **[FX Product Manager](https://jobr.pro/job/31952694/fx-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | POL-Gdynia-3T Office Park, Tower C, Poland | On Site | Nov 07 |
+| **[State Street](https://www.statestreet.com/)** | **[Client Implementation Product Manager, Vice President](https://jobr.pro/job/31961510/client-implementation-product-manager-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, England, United Kingdom | On Site | Nov 07 |
+| **[If Insurance](https://www.if.se/)** | **[Product Manager - Product & Underwriting Commercial](https://jobr.pro/job/31959291/product-manager-product-underwriting-commercial?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ballerup, Denmark | On Site | Nov 07 |
+| **[LSEG](https://www.lseg.com/)** | **[Product Manager Infrastructure & Cloud](https://jobr.pro/job/31952617/product-manager-infrastructure-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris, France | On Site | Nov 07 |
+| **[PayPal](https://www.paypal.com/)** | **[Lead Product Manager, GTM](https://jobr.pro/job/31962199/lead-product-manager-gtm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - New York - New York City - Corp - Barrow St, United States | On Site | Nov 07 |
+| **[Workday](https://www.workday.com/)** | **[Senior Technical Product Manager](https://jobr.pro/job/31962264/senior-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ireland, Dublin | On Site | Nov 07 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr. Product Manager 1 - Technical](https://jobr.pro/job/31962190/sr-product-manager-1-technical?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Nov 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 33 companies | Avg salary: 223k  
+**Current Stats:** 50 jobs | 6% remote | 31 companies | Avg salary: 235k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
