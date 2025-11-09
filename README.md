@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 09, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 09, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -30,10 +30,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Octopus Deploy](https://octopus.com/)** | **[Product Manager - Platform Teams](https://jobr.pro/job/31980949/product-manager-platform-teams?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (within AU/NZ) | Remote | Nov 08 |
 | **[Akamai Technologies](https://www.akamai.com/)** | **[Senior Product Manager - Cloud](https://jobr.pro/job/32011621/senior-product-manager-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Nov 08 |
 | **[Pacific Gas and Electric Company](https://www.pge.com)** | **[Principal Product Manager](https://jobr.pro/job/31994572/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oakland, CA, US, 94612 | On Site | Nov 08 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Principal AI-ML Product Manager](https://jobr.pro/job/32040352/principal-ai-ml-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - FL - Team Disney - Florida, United States | On Site | Nov 08 |
-| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Product Manager, GASP](https://jobr.pro/job/32039152/product-manager-gasp?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Government Technology Agency, Singapore | On Site | Nov 08 |
 | **[Target](https://www.target.com/)** | **[Product Manager - TTOPS](https://jobr.pro/job/32045169/product-manager-ttops?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065, India | On Site | Nov 08 |
 | **[Adobe](https://www.adobe.com/)** | **[Principal Product Manager - Adobe Unified Platform](https://jobr.pro/job/32046528/principal-product-manager-adobe-unified-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bucharest, Romania | On Site | Nov 08 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Principal AI-ML Product Manager](https://jobr.pro/job/32040352/principal-ai-ml-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - FL - Team Disney - Florida, United States | On Site | Nov 08 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Product Manager, GASP](https://jobr.pro/job/32039152/product-manager-gasp?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Government Technology Agency, Singapore | On Site | Nov 08 |
 | **[Impact](https://impact.com/)** | **[Product Manager for Data Science](https://jobr.pro/job/31978594/product-manager-for-data-science?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle | On Site | Nov 07 |
 | **[Degreed](https://degreed.com/)** | **[Senior Product Manager \| NL](https://jobr.pro/job/31976292/senior-product-manager-nl?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Netherlands Based \| Remote | Remote | Nov 07 |
 | **[Degreed](https://degreed.com/)** | **[Senior Product Manager \| UK](https://jobr.pro/job/31976293/senior-product-manager-uk?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | UK Based \| Remote | Remote | Nov 07 |
