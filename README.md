@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Product Manager (PAB)](https://jobr.pro/job/32049353/sr-product-manager-pab?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Nov 09 |
 | **[ADP](https://www.adp.com/)** | **[Sr. Product Manager](https://jobr.pro/job/32037641/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pasadena, CA, United States | On Site | Nov 08 |
 | **[Gold's Gym](https://www.goldsgym.com/)** | **[Product Manager](https://jobr.pro/job/32026808/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Selma, AL, United States | On Site | Nov 08 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Programme Management Product Manager](https://jobr.pro/job/32021403/programme-management-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Johannesburg, Pretoria, ZA | On Site | Nov 08 |
@@ -29,11 +30,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coinbase](https://www.coinbase.com/)** | **[Group Product Manager](https://jobr.pro/job/31982587/group-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - USA | Remote | Nov 08 |
 | **[Octopus Deploy](https://octopus.com/)** | **[Product Manager - Platform Teams](https://jobr.pro/job/31980949/product-manager-platform-teams?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (within AU/NZ) | Remote | Nov 08 |
 | **[Akamai Technologies](https://www.akamai.com/)** | **[Senior Product Manager - Cloud](https://jobr.pro/job/32011621/senior-product-manager-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Nov 08 |
-| **[Pacific Gas and Electric Company](https://www.pge.com)** | **[Principal Product Manager](https://jobr.pro/job/31994572/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oakland, CA, US, 94612 | On Site | Nov 08 |
 | **[Target](https://www.target.com/)** | **[Product Manager - TTOPS](https://jobr.pro/job/32045169/product-manager-ttops?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065, India | On Site | Nov 08 |
 | **[Adobe](https://www.adobe.com/)** | **[Principal Product Manager - Adobe Unified Platform](https://jobr.pro/job/32046528/principal-product-manager-adobe-unified-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bucharest, Romania | On Site | Nov 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Principal AI-ML Product Manager](https://jobr.pro/job/32040352/principal-ai-ml-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - FL - Team Disney - Florida, United States | On Site | Nov 08 |
 | **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Product Manager, GASP](https://jobr.pro/job/32039152/product-manager-gasp?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Government Technology Agency, Singapore | On Site | Nov 08 |
+| **[Pacific Gas and Electric Company](https://www.pge.com)** | **[Principal Product Manager](https://jobr.pro/job/31994572/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oakland, CA, US, 94612 | On Site | Nov 08 |
 | **[Impact](https://impact.com/)** | **[Product Manager for Data Science](https://jobr.pro/job/31978594/product-manager-for-data-science?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle | On Site | Nov 07 |
 | **[Degreed](https://degreed.com/)** | **[Senior Product Manager \| NL](https://jobr.pro/job/31976292/senior-product-manager-nl?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Netherlands Based \| Remote | Remote | Nov 07 |
 | **[Degreed](https://degreed.com/)** | **[Senior Product Manager \| UK](https://jobr.pro/job/31976293/senior-product-manager-uk?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | UK Based \| Remote | Remote | Nov 07 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hippocratic AI](https://www.hippocraticai.com/)** | **[Product Manager – AI and Apps Platform](https://jobr.pro/job/31984050/product-manager-ai-and-apps-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Palo Alto | On Site | Nov 07 |
 | **[Visa](https://visa.com)** | **[Product Manager, DPS - IVR/Contact Center](https://jobr.pro/job/31984922/product-manager-dps-ivrcontact-center?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Highlands Ranch, CO, United States | On Site | Nov 07 |
 | **[Bosch](https://www.bosch.com)** | **[Associate Product Manager](https://jobr.pro/job/31971242/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Norman, OK, United States | On Site | Nov 07 |
-| **[Crunchyroll Inc.](https://www.crunchyroll.com/)** | **[Senior CX Agent Platforms Product Manager](https://jobr.pro/job/31989362/senior-cx-agent-platforms-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA, United States | On Site | Nov 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 45 companies | Avg salary: 197k  
+**Current Stats:** 50 jobs | 26% remote | 45 companies | Avg salary: 196k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
