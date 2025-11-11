@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Amazon.com](https://www.amazon.com/)** | **[Senior Product Manager](https://jobr.pro/job/32138701/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, Texas, USA | On Site | Nov 11 |
 | **[Helena Agri-Enterprises, LLC](https://helenaagri.com/)** | **[Product Manager - Agriculture](https://jobr.pro/job/32097366/product-manager-agriculture?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Casa Grande, AZ, United States | On Site | Nov 10 |
 | **[PetIQ](https://petiq.com/)** | **[Product Manager](https://jobr.pro/job/32095344/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Selma, AL, United States | On Site | Nov 10 |
 | **[Sydney Water](https://www.sydneywater.com.au/)** | **[Water Product Manager](https://jobr.pro/job/32081457/water-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Parramatta, NSW, AU | On Site | Nov 10 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GCash](https://www.gcash.com/)** | **[Product Manager - Acquisition & Strategic Partnerships](https://jobr.pro/job/32065518/product-manager-acquisition-strategic-partnerships?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NCR - WGC, Philippines | On Site | Nov 10 |
 | **[Menlo Research](https://menlo.ai/)** | **[AI Product Manager](https://jobr.pro/job/32058508/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ho Chi Min City, HCMC, Viet Nam | On Site | Nov 10 |
 | **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Lead Technology Product Manager](https://jobr.pro/job/32078278/lead-technology-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | GBR - Kingston, United Kingdom | On Site | Nov 10 |
-| **[Northern Trust](https://www.northerntrust.com/)** | **[Tax Product Manager](https://jobr.pro/job/32106483/tax-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Canary Wharf, United Kingdom | On Site | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 44 companies | Avg salary: 153k  
+**Current Stats:** 50 jobs | 14% remote | 44 companies | Avg salary: 158k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
