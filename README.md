@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -57,12 +57,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TD SYNNEX](https://www.tdsynnex.com/)** | **[Product Manager](https://jobr.pro/job/32176690/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Nov 11 |
 | **[Igloo](https://iglooinsure.com/)** | **[Product Manager - Thailand](https://jobr.pro/job/32172028/product-manager-thailand?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangkok, Bangkok, Thailand | On Site | Nov 11 |
 | **[CHANEL](https://www.chanel.com/)** | **[Make-up Product Manager](https://jobr.pro/job/32205341/make-up-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | SEOUL OFFICE, Korea, Republic of | On Site | Nov 11 |
+| **[Insulet Corporation](https://www.insulet.com/)** | **[Product Manager-Digital CX (Acton, MA Hybrid/Flexible)](https://jobr.pro/job/32210536/product-manager-digital-cx-acton-ma-hybridflexible?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US - Massachusetts (Acton - Office), United States | On Site | Nov 11 |
+| **[Workday](https://www.workday.com/)** | **[Product Manager - Accounts Receivable](https://jobr.pro/job/32228844/product-manager-accounts-receivable?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Nov 11 |
+| **[Equinix](https://www.equinix.com/)** | **[Senior Platform Product Manager, Core HCM](https://jobr.pro/job/32230124/senior-platform-product-manager-core-hcm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redwood City, United States | On Site | Nov 11 |
 | **[Johnson & Johnson](https://www.jnj.com/)** | **[EMEA Data Science Business Product Manager](https://jobr.pro/job/32199174/emea-data-science-business-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ES022 Janssen Madrid, Spain | On Site | Nov 11 |
 | **[The Mobility House](https://www.mobilityhouse.com/)** | **[Product Manager, Smart Fleet Charging (Quebec, remote)](https://jobr.pro/job/32197953/product-manager-smart-fleet-charging-quebec-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Montreal, Quebec, Canada | Remote | Nov 11 |
 | **[UBS](https://www.ubs.com/)** | **[Product Manager, Testing (BUSA)](https://jobr.pro/job/32191764/product-manager-testing-busa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pune, India | On Site | Nov 11 |
-| **[Insulet Corporation](https://www.insulet.com/)** | **[Product Manager-Digital CX (Acton, MA Hybrid/Flexible)](https://jobr.pro/job/32210536/product-manager-digital-cx-acton-ma-hybridflexible?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US - Massachusetts (Acton - Office), United States | On Site | Nov 11 |
-| **[Workday](https://www.workday.com/)** | **[Product Manager - Accounts Receivable](https://jobr.pro/job/32228844/product-manager-accounts-receivable?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Nov 11 |
-| **[Abbott](https://www.abbott.com/)** | **[Product Manager - Cordis](https://jobr.pro/job/32226622/product-manager-cordis?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Mumbai : BKC Building | On Site | Nov 11 |
 
 ---
 
