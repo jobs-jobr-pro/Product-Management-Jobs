@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Endava](https://www.endava.com)** | **[Technical Product Manager](https://jobr.pro/job/32418763/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto, ON, Canada | On Site | Nov 13 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Principal Inbound Product Manager - Digital Learning](https://jobr.pro/job/32418777/senior-principal-inbound-product-manager-digital-learning?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Addison, TEXAS, United States | On Site | Nov 13 |
 | **[Copado](https://www.copado.com/)** | **[Principal Product Manager - AI DevOps Platform](https://jobr.pro/job/32395230/principal-product-manager-ai-devops-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Nov 13 |
 | **[Tesco](https://www.tesco.com/)** | **[Lead Product Manager](https://jobr.pro/job/32375522/lead-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka, India, India | Remote | Nov 13 |
 | **[Tesco](https://www.tesco.com/)** | **[Product Manager - Identity](https://jobr.pro/job/32375466/product-manager-identity?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kraków, Poland | On Site | Nov 13 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Logitech](https://www.logitech.com/)** | **[Senior Product Manager, MX Series](https://jobr.pro/job/32371648/senior-product-manager-mx-series?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lausanne, Switzerland | Remote | Nov 13 |
 | **[Ryt Bank](https://www.rytbank.my/)** | **[Product Manager - Transaction Banking & Strategy](https://jobr.pro/job/32356126/product-manager-transaction-banking-strategy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | KL - Headquarter, Malaysia | On Site | Nov 13 |
 | **[TD SYNNEX](https://www.tdsynnex.com/)** | **[Product Manager](https://jobr.pro/job/32363729/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Millennium City, Hong Kong | On Site | Nov 13 |
-| **[IDOVEN](https://idoven.ai/)** | **[Product Manager](https://jobr.pro/job/32388186/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Madrid, Community of Madrid, Spain | On Site | Nov 13 |
-| **[payabl.](https://payabl.com)** | **[Senior Product Manager (FinDB & Client Portal)](https://jobr.pro/job/32378200/senior-product-manager-findb-client-portal?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, England, United Kingdom | Remote | Nov 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 37 companies | Avg salary: 259k  
+**Current Stats:** 50 jobs | 6% remote | 37 companies | Avg salary: 263k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
