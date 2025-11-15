@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -61,12 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Angkas](https://angkas.com/)** | **[Senior Product Manager - Apps](https://jobr.pro/job/32471300/senior-product-manager-apps?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Makati City, Metro Manila, Philippines | On Site | Nov 14 |
 | **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Product Manager](https://jobr.pro/job/32501923/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 1 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Nov 14 |
 | **[Johnson & Johnson](https://www.jnj.com/)** | **[\[MedTech\] Product Manager - Electrophysiology](https://jobr.pro/job/32473730/medtech-product-manager-electrophysiology?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | KR010 Seoul Yongsan gu, Korea, Republic of | On Site | Nov 14 |
-| **[Medtronic](https://www.medtronic.com/)** | **[Surgical-GST-Product Manager-Shanghai](https://jobr.pro/job/32499157/surgical-gst-product-manager-shanghai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CHN-31 Shanghai Dong Yu Road, China | On Site | Nov 14 |
-| **[Saab](https://www.saab.com/)** | **[Product Manager Fighter Radar](https://jobr.pro/job/32484938/product-manager-fighter-radar?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Göteborg - Solhusgatan 10, Sweden | On Site | Nov 14 |
+| **[ING](https://www.ing.com/)** | **[Product Manager (Analytics)](https://jobr.pro/job/32506299/product-manager-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Istanbul (VADI ISTANBUL PARK), Türkiye | On Site | Nov 14 |
+| **[ResMed](https://www.resmed.com/)** | **[Senior Product Manager, Incubation & Growth](https://jobr.pro/job/32505735/senior-product-manager-incubation-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US Brightree (Remote Workforce), United States | Remote | Nov 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 359k  
+**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 349k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
