@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 16, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -30,6 +30,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Behavox](https://www.behavox.com/)** | **[Product Manager 3](https://jobr.pro/job/32520199/product-manager-3?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto | On Site | Nov 15 |
 | **[SendBird](https://sendbird.com/)** | **[Forward Deployed Product Manager](https://jobr.pro/job/32513754/forward-deployed-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Mateo, California, United States | On Site | Nov 15 |
 | **[Abbott](https://www.abbott.com/)** | **[Product Manager - Cordis](https://jobr.pro/job/32587721/product-manager-cordis?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Mumbai : BKC Building | On Site | Nov 15 |
+| **[Philips](https://www.philips.com/)** | **[Sr Product Manager](https://jobr.pro/job/32590874/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore–Embassy Business Hub, India | On Site | Nov 15 |
 | **[Databricks](https://www.databricks.com/)** | **[Sr. IT Product Manager - Employee Experience](https://jobr.pro/job/32519625/sr-it-product-manager-employee-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Nov 14 |
 | **[EKN Engineering](https://www.eknengineering.com/)** | **[Product Manager II](https://jobr.pro/job/32525039/product-manager-ii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Irvine, CA | On Site | Nov 14 |
 | **[Stacklok](https://stacklok.com/)** | **[Product Manager - Growth](https://jobr.pro/job/32523836/product-manager-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote: San Francisco Bay Area | Remote | Nov 14 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weave](https://www.getweave.com/)** | **[Product Manager - Integrations](https://jobr.pro/job/32522478/product-manager-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India | Remote | Nov 14 |
 | **[Swoop](https://www.swoop.com/)** | **[Senior Product Manager, MyHealthTeam](https://jobr.pro/job/32542263/senior-product-manager-myhealthteam?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid (San Francisco, California, US) | On Site | Nov 14 |
 | **[Angel City FC](https://angelcity.com/)** | **[Digital Product Manager (Temporary)](https://jobr.pro/job/32514026/digital-product-manager-temporary?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Monica, CA | On Site | Nov 14 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Asset Management - Spectrum Core Platform – Product Manager - Vice President](https://jobr.pro/job/32564558/asset-management-spectrum-core-platform-product-manager-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Nov 14 |
 
 ---
 
