@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 18, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Product Manager](https://jobr.pro/job/32718652/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oak Brook, IL, United States | On Site | Nov 18 |
+| **[Oscar Wylee](https://www.oscarwylee.com.au/)** | **[Product Manager](https://jobr.pro/job/32718112/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, NSW, AU | On Site | Nov 18 |
 | **[Copado](https://www.copado.com/)** | **[Sr Product Manager, DevOps Platform](https://jobr.pro/job/32714338/sr-product-manager-devops-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Nov 18 |
 | **[Basware](https://www.basware.com/)** | **[Enterprise Data Product Manager](https://jobr.pro/job/32714513/enterprise-data-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Amsterdam; London | On Site | Nov 18 |
 | **[Stampli](https://www.stampli.com/)** | **[AI Product Manager](https://jobr.pro/job/32710219/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA, US | On Site | Nov 18 |
@@ -49,10 +51,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Snorkel AI](https://snorkel.ai/)** | **[Staff Product Manager – AI/ML](https://jobr.pro/job/32656394/staff-product-manager-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA (Hybrid) | On Site | Nov 18 |
 | **[Supermicro](https://www.supermicro.com)** | **[Sr. Product Manager](https://jobr.pro/job/32667083/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chungho, Taiwan, TW | On Site | Nov 18 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Principal Product Manager - Tech, Core Selling Partner Experience](https://jobr.pro/job/32653565/principal-product-manager-tech-core-selling-partner-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Detroit, Michigan, USA | On Site | Nov 18 |
-| **[Runna](https://www.runna.com/)** | **[Group Product Manager](https://jobr.pro/job/32689050/group-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, England, United Kingdom | On Site | Nov 18 |
-| **[Western Union](https://www.westernunion.com/)** | **[Personalization & Engagement Product Manager](https://jobr.pro/job/32690541/personalization-engagement-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA NY - New York - 80 Pine Street, United States | On Site | Nov 18 |
-| **[Assurity Trusted Solutions](https://www.assurity.sg/)** | **[Product Manager (Corporate Services)](https://jobr.pro/job/32680566/product-manager-corporate-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 18 |
-| **[Dover Corporation](https://www.dovercorporation.com)** | **[Product Manager](https://jobr.pro/job/32682542/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Grand Terrace, CA, US, 92313 | On Site | Nov 18 |
 | **[Kosmocar S.A.](https://www.kosmocar.gr/)** | **[Product Manager, Volkswagen](https://jobr.pro/job/32691922/product-manager-volkswagen?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Argyroupoli, Attica, Greece | On Site | Nov 18 |
 | **[Sun Life](https://www.sunlife.com/)** | **[Salesforce Platform Product Manager](https://jobr.pro/job/32684175/salesforce-platform-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Asia Service Centre Philippines | On Site | Nov 18 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data & Distribution Platforms - Product Manager](https://jobr.pro/job/32692771/data-distribution-platforms-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IN - NOIDA CANDOR TECHSPACE SECTOR 62, India | On Site | Nov 18 |
@@ -61,12 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Crown Bioscience](https://www.crownbio.com/)** | **[Product Manager, In Vivo](https://jobr.pro/job/32712995/product-manager-in-vivo?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - MA - Remote, United States | Remote | Nov 18 |
 | **[Weekday](https://www.weekday.works)** | **[Senior Technical Product Manager](https://jobr.pro/job/32703653/senior-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Fairfield, California, United States | On Site | Nov 18 |
 | **[Weekday](https://www.weekday.works)** | **[Product Manager](https://jobr.pro/job/32703646/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pune, Maharashtra, India | On Site | Nov 18 |
-| **[Goldman Sachs](https://www.goldmansachs.com/)** | **[Transaction Banking, Payments Product Manager-USD Domestic Payments, Vice President](https://jobr.pro/job/32693173/transaction-banking-payments-product-manager-usd-domestic-payments-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dallas, Texas, United States | On Site | Nov 17 |
-| **[Goldman Sachs](https://www.goldmansachs.com/)** | **[Transaction Banking, Payments Product Manager – USD Domestic Payments, Associate](https://jobr.pro/job/32693174/transaction-banking-payments-product-manager-usd-domestic-payments-associate?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dallas, Texas, United States | On Site | Nov 17 |
+| **[Runna](https://www.runna.com/)** | **[Group Product Manager](https://jobr.pro/job/32689050/group-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, England, United Kingdom | On Site | Nov 18 |
+| **[Western Union](https://www.westernunion.com/)** | **[Personalization & Engagement Product Manager](https://jobr.pro/job/32690541/personalization-engagement-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA NY - New York - 80 Pine Street, United States | On Site | Nov 18 |
+| **[Assurity Trusted Solutions](https://www.assurity.sg/)** | **[Product Manager (Corporate Services)](https://jobr.pro/job/32680566/product-manager-corporate-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 18 |
+| **[Dover Corporation](https://www.dovercorporation.com)** | **[Product Manager](https://jobr.pro/job/32682542/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Grand Terrace, CA, US, 92313 | On Site | Nov 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 44 companies | Avg salary: 226k  
+**Current Stats:** 50 jobs | 6% remote | 45 companies | Avg salary: 220k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, user research, analytics, roadmap, stakeholder  
