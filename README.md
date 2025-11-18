@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -43,10 +43,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weekday](https://www.weekday.works)** | **[Product Manager](https://jobr.pro/job/32621511/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Gurugram, Haryana, India | On Site | Nov 17 |
 | **[Comcast](https://corporate.comcast.com/)** | **[Product Manager](https://jobr.pro/job/32643954/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States | On Site | Nov 17 |
 | **[GE HealthCare](https://www.gehealthcare.com/)** | **[Staff Technical Product Manager](https://jobr.pro/job/32632837/staff-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND19-01-Bengaluru-EPIP 122 (Phase II), India | On Site | Nov 17 |
+| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Senior Product Manager](https://jobr.pro/job/32646041/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | GBR-London-5 Canada Square, United Kingdom | On Site | Nov 17 |
+| **[Alfa Laval](https://www.alfalaval.com/)** | **[Product Manager – Group Affairs](https://jobr.pro/job/32645623/product-manager-group-affairs?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Krakow, Poland | On Site | Nov 17 |
+| **[Sabre Corporation](https://www.sabre.com/)** | **[Principal Technical Product Manager](https://jobr.pro/job/32646710/principal-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Bangalore-Navigator Bldg | On Site | Nov 17 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Sr. Global Product Manager - Downstream, Surgical Ablation](https://jobr.pro/job/32637643/sr-global-product-manager-downstream-surgical-ablation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA-MN Brooklyn Park, United States | On Site | Nov 17 |
 | **[Guidewire Software](https://www.guidewire.com/)** | **[Associate Product Manager - New Graduate](https://jobr.pro/job/32638706/associate-product-manager-new-graduate?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (SK, Canada) | Remote | Nov 17 |
 | **[Northern Trust](https://www.northerntrust.com/)** | **[Sr Product Manager](https://jobr.pro/job/32644316/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bagmane - Argon South, India | On Site | Nov 17 |
 | **[Thales](https://www.thalesgroup.com/)** | **[Product Manager](https://jobr.pro/job/32636339/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seoul, Korea, Republic of | On Site | Nov 17 |
+| **[Hitachi](https://www.hitachi.com/)** | **[Product Manager](https://jobr.pro/job/32647768/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | (HE)Office Taipei T01, Taiwan | On Site | Nov 17 |
+| **[Trimble](https://www.trimble.com/)** | **[Product Manager](https://jobr.pro/job/32647489/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Portugal - Remote | Remote | Nov 17 |
+| **[Hitachi](https://www.hitachi.com/)** | **[Global Service Product Manager Network Control (f/m/d)](https://jobr.pro/job/32647664/global-service-product-manager-network-control-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | (HE)Office Mannheim New, Germany | On Site | Nov 17 |
+| **[Boeing](https://www.boeing.com/)** | **[Senior Product Manager](https://jobr.pro/job/32648279/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - Seattle, WA, United States | On Site | Nov 17 |
+| **[Boeing](https://www.boeing.com/)** | **[Flight Performance Product Manager](https://jobr.pro/job/32648238/flight-performance-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - Seattle, WA, United States | On Site | Nov 17 |
 | **[XM Cyber](https://xmcyber.com/)** | **[Senior Product Manager](https://jobr.pro/job/32623791/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 16 |
 | **[Avetta](https://www.avetta.com/)** | **[Product Manager](https://jobr.pro/job/32601203/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US - Remote | Remote | Nov 16 |
 | **[Tomorrow.io](https://www.tomorrow.io/)** | **[AI First - Senior Product Manager](https://jobr.pro/job/32598026/ai-first-senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 21 Ha'Arba'a St., 20th floor, Tel Aviv | On Site | Nov 16 |
@@ -55,18 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CORSAIR](https://www.corsair.com/)** | **[Product Manager – HID](https://jobr.pro/job/32621233/product-manager-hid?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Taipei, Taiwan | On Site | Nov 16 |
 | **[Assurity Trusted Solutions](https://www.assurity.sg/)** | **[Product Manager](https://jobr.pro/job/32620920/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 16 |
 | **[Black Box](https://www.blackbox.com/)** | **[Product Manager - Workspace](https://jobr.pro/job/32618031/product-manager-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India | On Site | Nov 16 |
-| **[Homzmart](https://homzmart.com)** | **[Product Manager](https://jobr.pro/job/32599769/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cairo, Egypt | On Site | Nov 16 |
-| **[Payset](https://www.payset.io/)** | **[Senior Product Manager](https://jobr.pro/job/32610541/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Timișoara, Romania | On Site | Nov 16 |
-| **[Ask-AI](https://www.ask-ai.com/)** | **[Product Manager](https://jobr.pro/job/32624147/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, US | On Site | Nov 16 |
-| **[Womack Group](https://twgohio.com/)** | **[Factory Automation Product Manager, Variable Frequency Drive (VFD)](https://jobr.pro/job/32607337/factory-automation-product-manager-variable-frequency-drive-vfd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Farmers Branch, TX, US | On Site | Nov 16 |
-| **[Vetoquinol](https://www.vetoquinol.com)** | **[Product Manager Parasitology](https://jobr.pro/job/32600437/product-manager-parasitology?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Niel, Vlaams Gewest, Belgium | On Site | Nov 16 |
-| **[At-Bay](https://www.at-bay.com/)** | **[Product Manager, Cyber security](https://jobr.pro/job/32595241/product-manager-cyber-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Gush Dan, Israel | On Site | Nov 16 |
-| **[Kiln](https://www.kiln.fi/)** | **[Technical Product Manager](https://jobr.pro/job/32597591/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris | On Site | Nov 16 |
-| **[BallerTV](https://www.ballertv.com/)** | **[Senior Product Manager, Consumer Experience](https://jobr.pro/job/32597486/senior-product-manager-consumer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pasadena, CA | On Site | Nov 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 47 companies | Avg salary: 186k  
+**Current Stats:** 50 jobs | 10% remote | 45 companies | Avg salary: 205k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
