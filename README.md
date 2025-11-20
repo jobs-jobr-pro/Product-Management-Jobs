@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[World Wide Technology](https://www.wwt.com/)** | **[Sr. AI Product Manager (Digital)](https://jobr.pro/job/32906900/sr-ai-product-manager-digital?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - Nationwide, United States | Remote | Nov 20 |
+| **[Roko Labs](https://www.rokolabs.com/)** | **[Product Manager](https://jobr.pro/job/32903974/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, Croatia (Remote) | Remote | Nov 20 |
 | **[StarkWare Industries Ltd.](https://starkware.co/)** | **[Bitcoin & DeFi Product Manager](https://jobr.pro/job/32895348/bitcoin-defi-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Netanya, Israel, IL | On Site | Nov 20 |
 | **[monday.com](https://monday.com/)** | **[HRIS Product Manager](https://jobr.pro/job/32894127/hris-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 20 |
 | **[Zolve](https://zolve.com)** | **[Product Manager - Growth](https://jobr.pro/job/32890217/product-manager-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, India | On Site | Nov 20 |
@@ -58,15 +60,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Azelis](https://www.azelis.com/)** | **[Product Manager](https://jobr.pro/job/32896226/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Courbevoie - Avenue de l'Arche, France | On Site | Nov 20 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Product Manager](https://jobr.pro/job/32875414/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PK - ISLAMABAD 101 W AL KHAIR PLAZA, Pakistan | On Site | Nov 20 |
 | **[Finastra](https://www.finastra.com/)** | **[Product Manager](https://jobr.pro/job/32863908/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Manila, Philippines | On Site | Nov 20 |
-| **[Lunar Energy](https://www.lunarenergy.com/)** | **[Product Manager - Hardware](https://jobr.pro/job/32838075/product-manager-hardware?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA | On Site | Nov 19 |
-| **[Chewy](https://www.chewy.com/)** | **[Senior Product Manager](https://jobr.pro/job/32837997/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boston, MA | On Site | Nov 19 |
-| **[Skydio](https://www.skydio.com/)** | **[Senior Staff Product Manager, Drone Hardware Platforms & Sensors](https://jobr.pro/job/32850213/senior-staff-product-manager-drone-hardware-platforms-sensors?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Mateo, California, United States | On Site | Nov 19 |
-| **[Culture Biosciences](https://www.culturebiosciences.com/)** | **[Software Product Manager](https://jobr.pro/job/32837356/software-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South San Francisco, CA | On Site | Nov 19 |
-| **[DeepMind](https://www.deepmind.com/)** | **[Senior Product Manager, Model Hardening & Resilience](https://jobr.pro/job/32837364/senior-product-manager-model-hardening-resilience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, California, US; New York City, New York, US; San Francisco, California, US | On Site | Nov 19 |
+| **[Comcast](https://corporate.comcast.com/)** | **[Product Manager](https://jobr.pro/job/32914444/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CO - Denver, 8000 E Iliff Ave, United States | On Site | Nov 20 |
+| **[athenahealth](https://www.athenahealth.com/)** | **[Senior Product Manager](https://jobr.pro/job/32913793/senior-product-manager-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chennai India | On Site | Nov 20 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Product Manager](https://jobr.pro/job/32913651/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Wesbank Building, 1 Enterprise Road, Fairland, Johannesburg, 2170, South Africa | On Site | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 44 companies | Avg salary: 223k  
+**Current Stats:** 50 jobs | 12% remote | 44 companies | Avg salary: 223k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
