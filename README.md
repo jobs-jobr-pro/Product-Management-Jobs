@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unilever](https://www.unilever.com/)** | **[Assistant Product Manager](https://jobr.pro/job/32831728/assistant-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ShangHai-U66 Office, China | On Site | Nov 20 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Principal IT Product Manager, AI Solutions G&A](https://jobr.pro/job/32832054/sr-principal-it-product-manager-ai-solutions-ga?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Nov 19 |
 | **[ECS](https://ecstech.com/)** | **[Sr Product Manager](https://jobr.pro/job/32818993/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Fairfax, VA, United States | On Site | Nov 19 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr. Product Manager ( Cortex XSIAM )](https://jobr.pro/job/32832617/sr-product-manager-cortex-xsiam-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Israel | On Site | Nov 19 |
 | **[Upwind Security](https://www.upwind.io)** | **[Product Manager](https://jobr.pro/job/32803599/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Nov 19 |
 | **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Product Manager Voice over IP (VoIP) Systems](https://jobr.pro/job/32787249/product-manager-voice-over-ip-voip-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bucharest | On Site | Nov 19 |
 | **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Product Manager (m/f/d) EMC Standardization and Application Support](https://jobr.pro/job/32787242/product-manager-mfd-emc-standardization-and-application-support?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Munich | On Site | Nov 19 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WOO X](https://woox.io/)** | **[Derivatives Product Manager](https://jobr.pro/job/32755429/derivatives-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | APAC | On Site | Nov 19 |
 | **[LG Electronics](https://www.lg.com/)** | **[Sr. Technical Product Manager, Network & Security](https://jobr.pro/job/32744753/sr-technical-product-manager-network-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lincolnshire, IL | On Site | Nov 19 |
 | **[Hippocratic AI](https://www.hippocraticai.com/)** | **[Technical Product Manager, Telephony Infrastructure](https://jobr.pro/job/32746579/technical-product-manager-telephony-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Palo Alto | On Site | Nov 19 |
-| **[Binance](https://www.binance.com/)** | **[Binance Accelerator Program - Product Manager (KYC)](https://jobr.pro/job/32745324/binance-accelerator-program-product-manager-kyc?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Asia | On Site | Nov 19 |
-| **[Clara](https://www.clara.com/)** | **[Senior Product Manager (Gerente Sênior de Produto) - São Paulo (Hybrid)](https://jobr.pro/job/32744585/senior-product-manager-gerente-senior-de-produto-sao-paulo-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Brasil | On Site | Nov 19 |
-| **[Code for America](https://codeforamerica.org/)** | **[Lead Product Manager](https://jobr.pro/job/32740150/lead-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (in the U.S.) | Remote | Nov 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 35 companies | Avg salary: 187k  
+**Current Stats:** 50 jobs | 0% remote | 33 companies | Avg salary: 190k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
