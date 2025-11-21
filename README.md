@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 21, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[embecta](https://www.embecta.com/)** | **[Product Manager, Malaysia & Indonesia](https://jobr.pro/job/32921701/product-manager-malaysia-indonesia?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | MYS Selangor, Malaysia | On Site | Nov 21 |
+| **[Cloudera](https://www.cloudera.com/)** | **[Product Manager, Data Governance & Lineage (SaaS Solutions), Cloudera Octopai](https://jobr.pro/job/32918222/product-manager-data-governance-lineage-saas-solutions-cloudera-octopai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hungary-Budapest | On Site | Nov 21 |
+| **[Cloudera](https://www.cloudera.com/)** | **[Product Manager, Data Governance & Lineage (On-Premises Solutions), Cloudera](https://jobr.pro/job/32918224/product-manager-data-governance-lineage-on-premises-solutions-cloudera?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hungary-Budapest | On Site | Nov 21 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Sr. AI Product Manager (Digital)](https://jobr.pro/job/32906900/sr-ai-product-manager-digital?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - Nationwide, United States | Remote | Nov 20 |
 | **[Roko Labs](https://www.rokolabs.com/)** | **[Product Manager](https://jobr.pro/job/32903974/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, Croatia (Remote) | Remote | Nov 20 |
 | **[StarkWare Industries Ltd.](https://starkware.co/)** | **[Bitcoin & DeFi Product Manager](https://jobr.pro/job/32895348/bitcoin-defi-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Netanya, Israel, IL | On Site | Nov 20 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Azelis](https://www.azelis.com/)** | **[Product Manager](https://jobr.pro/job/32896226/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Courbevoie - Avenue de l'Arche, France | On Site | Nov 20 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Product Manager](https://jobr.pro/job/32875414/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PK - ISLAMABAD 101 W AL KHAIR PLAZA, Pakistan | On Site | Nov 20 |
 | **[Finastra](https://www.finastra.com/)** | **[Product Manager](https://jobr.pro/job/32863908/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Manila, Philippines | On Site | Nov 20 |
-| **[Comcast](https://corporate.comcast.com/)** | **[Product Manager](https://jobr.pro/job/32914444/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CO - Denver, 8000 E Iliff Ave, United States | On Site | Nov 20 |
-| **[athenahealth](https://www.athenahealth.com/)** | **[Senior Product Manager](https://jobr.pro/job/32913793/senior-product-manager-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chennai India | On Site | Nov 20 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Product Manager](https://jobr.pro/job/32913651/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Wesbank Building, 1 Enterprise Road, Fairland, Johannesburg, 2170, South Africa | On Site | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 44 companies | Avg salary: 223k  
+**Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 226k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
