@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 22, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Claritev](https://www.multiplan.us/)** | **[Product Manager](https://jobr.pro/job/33052706/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Work From Home, United States | Remote | Nov 22 |
+| **[Tempur Sealy International](https://www.tempursealy.com/)** | **[Sr. Product Manager, eCommerce](https://jobr.pro/job/33052304/sr-product-manager-ecommerce?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lexington, KY, United States | On Site | Nov 22 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[Teacher Incentive Allotment Product Manager (Systems Analyst V)](https://jobr.pro/job/33042137/teacher-incentive-allotment-product-manager-systems-analyst-v?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Texas-Austin | On Site | Nov 22 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Technical Product Manager - GenAI Data Discovery & Governance Platform - CTO Office](https://jobr.pro/job/33039302/technical-product-manager-genai-data-discovery-governance-platform-cto-office?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York | On Site | Nov 22 |
 | **[TikTok](https://www.tiktok.com/)** | **[Product Manager Project Intern (Search Ads Product) - 2025 Start (BS/MS)](https://jobr.pro/job/33037703/product-manager-project-intern-search-ads-product-2025-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle, Washington, United States | On Site | Nov 22 |
@@ -53,6 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ília](https://ilia.digital/)** | **[SR Product Manager](https://jobr.pro/job/33017706/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Brasil | On Site | Nov 21 |
 | **[UJET](https://ujet.cx/)** | **[Senior Product Manager - WFM](https://jobr.pro/job/33009943/senior-product-manager-wfm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States and Canada | Remote | Nov 21 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[AI Product Manager, Vice President](https://jobr.pro/job/33041551/ai-product-manager-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Plano, TX, United States | On Site | Nov 21 |
+| **[Brady Corporation](https://www.bradyid.com/)** | **[Sr. Product Manager - Pipe & Valve](https://jobr.pro/job/33052271/sr-product-manager-pipe-valve?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Milwaukee, WI, United States | On Site | Nov 21 |
 | **[Hologic, Inc.](https://www.hologic.com/)** | **[Product Manager](https://jobr.pro/job/33040183/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Marlborough, MA, United States | On Site | Nov 21 |
 | **[Sully.ai](https://www.sully.ai/)** | **[Senior Product Manager (Contract)](https://jobr.pro/job/33013337/senior-product-manager-contract?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US - Remote | On Site | Nov 21 |
 | **[Replicant](https://www.replicant.com/)** | **[Senior Product Manager](https://jobr.pro/job/33015071/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Canada | On Site | Nov 21 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Stability AI](https://stability.ai/)** | **[Principal Product Manager, Gaming](https://jobr.pro/job/33015633/principal-product-manager-gaming?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Nov 21 |
 | **[Rohlik Group](https://www.rohlik.group/)** | **[Principal Product Manager - Finance Systems](https://jobr.pro/job/33014642/principal-product-manager-finance-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Prague, Czech Republic (Headoffice) | Remote | Nov 21 |
 | **[Sage](https://www.hellosage.com/)** | **[Senior Product Manager - Platform](https://jobr.pro/job/33017655/senior-product-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York, United States | On Site | Nov 21 |
-| **[IXL Learning](https://www.ixl.com/)** | **[IXL Product Manager](https://jobr.pro/job/33020549/ixl-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Mateo, CA | On Site | Nov 21 |
-| **[Magellan Partners](https://www.magellan-partners.eu/)** | **[Product Manager Business Intelligence \[Luxe-Retail\]](https://jobr.pro/job/33014164/product-manager-business-intelligence-luxe-retail?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris, IDF, France | On Site | Nov 21 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[C360 Coverage Product Manager](https://jobr.pro/job/33041587/c360-coverage-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jersey City, NJ, United States | On Site | Nov 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 40 companies | Avg salary: 25202k  
+**Current Stats:** 50 jobs | 16% remote | 41 companies | Avg salary: 24335k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
