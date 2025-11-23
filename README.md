@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 23, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 23, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AECOM](https://www.aecom.com)** | **[Product Manager / Delivery Lead (POD Lead) – Operational AI](https://jobr.pro/job/33059838/product-manager-delivery-lead-pod-lead-operational-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dallas, TX, United States | On Site | Nov 23 |
 | **[Claritev](https://www.multiplan.us/)** | **[Product Manager](https://jobr.pro/job/33052706/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Work From Home, United States | Remote | Nov 22 |
 | **[Tempur Sealy International](https://www.tempursealy.com/)** | **[Sr. Product Manager, eCommerce](https://jobr.pro/job/33052304/sr-product-manager-ecommerce?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lexington, KY, United States | On Site | Nov 22 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[Teacher Incentive Allotment Product Manager (Systems Analyst V)](https://jobr.pro/job/33042137/teacher-incentive-allotment-product-manager-systems-analyst-v?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Texas-Austin | On Site | Nov 22 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tiffany & Co.](https://www.tiffany.com/)** | **[Product Manager](https://jobr.pro/job/33035322/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Nov 21 |
 | **[Stability AI](https://stability.ai/)** | **[Principal Product Manager, Gaming](https://jobr.pro/job/33015633/principal-product-manager-gaming?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Nov 21 |
 | **[Rohlik Group](https://www.rohlik.group/)** | **[Principal Product Manager - Finance Systems](https://jobr.pro/job/33014642/principal-product-manager-finance-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Prague, Czech Republic (Headoffice) | Remote | Nov 21 |
-| **[Sage](https://www.hellosage.com/)** | **[Senior Product Manager - Platform](https://jobr.pro/job/33017655/senior-product-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York, United States | On Site | Nov 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 41 companies | Avg salary: 24335k  
+**Current Stats:** 50 jobs | 16% remote | 41 companies | Avg salary: 25197k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
