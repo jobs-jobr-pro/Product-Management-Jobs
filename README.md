@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 25, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Equifax](https://www.equifax.com/)** | **[Product Manager Consumer](https://jobr.pro/job/33199827/product-manager-consumer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | AUS-Sydney-Blue-Street, Australia | On Site | Nov 26 |
 | **[Roko Labs](https://www.rokolabs.com/)** | **[Product Manager](https://jobr.pro/job/33186040/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, Serbia (Remote) | Remote | Nov 25 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Product Manager - Cardholder Solutions](https://jobr.pro/job/33175790/product-manager-cardholder-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oslo, Oslo, NO | On Site | Nov 25 |
 | **[Tesco](https://www.tesco.com/)** | **[Senior Product Manager - Edge Compute Platforms](https://jobr.pro/job/33162189/senior-product-manager-edge-compute-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Welwyn Garden City, United Kingdom of Great Britain and Northern Ireland | On Site | Nov 25 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wells Fargo](https://www.wellsfargo.com/)** | **[Lead Digital Product Manager - Liquidity](https://jobr.pro/job/33149963/lead-digital-product-manager-liquidity?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 110380-IND-BENGALURU-INTL BLR Twr-1&2 CARNATION, India | On Site | Nov 25 |
 | **[Baxter International Inc.](https://www.baxter.com/)** | **[Product Manager](https://jobr.pro/job/33152482/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | KT - Gateway, Singapore | On Site | Nov 25 |
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Product Manager - Client Onboarding, Platforms, Director, Wealth Management](https://jobr.pro/job/33155642/product-manager-client-onboarding-platforms-director-wealth-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | COMMERZ III, OBEROI GARDEN CITY, India | On Site | Nov 25 |
-| **[RELX](https://www.relx.com/)** | **[Fleet Data Product Manager](https://jobr.pro/job/33151752/fleet-data-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | UK - London (Bishopsgate), United Kingdom | On Site | Nov 25 |
 
 ---
 
