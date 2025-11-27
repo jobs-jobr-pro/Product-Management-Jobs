@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Amazon.com](https://www.amazon.com/)** | **[Sr Mgr Product Manager, Brand, Amazon Global Selling](https://jobr.pro/job/33289685/sr-mgr-product-manager-brand-amazon-global-selling?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shanghai, CHN | On Site | Nov 27 |
+| **[Amazon.com](https://www.amazon.com/)** | **[Senior Product Manager, Amazon Global Selling - PMO](https://jobr.pro/job/33289711/senior-product-manager-amazon-global-selling-pmo?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shanghai, CHN | On Site | Nov 27 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Product Manager- Identity Security (Cortex Cloud)](https://jobr.pro/job/33287022/principal-product-manager-identity-security-cortex-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Israel | On Site | Nov 26 |
+| **[NielsenIQ](https://nielseniq.com)** | **[Product Manager](https://jobr.pro/job/33287354/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Budapest, BU, Hungary | On Site | Nov 26 |
 | **[Tempur Sealy International](https://www.tempursealy.com/)** | **[Marketing Product Manager](https://jobr.pro/job/33268649/marketing-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lexington, KY, United States | On Site | Nov 26 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Technical Product Manager (POS) - Project manager](https://jobr.pro/job/33251916/technical-product-manager-pos-project-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US-WA-Seattle | On Site | Nov 26 |
 | **[Scapia](https://www.scapia.cards/)** | **[Group Product Manager](https://jobr.pro/job/33255207/group-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, India | On Site | Nov 26 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Laboratoire Guerbet](https://www.guerbet.com)** | **[APAC Product Manager](https://jobr.pro/job/33217744/apac-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hung Hom, HK | On Site | Nov 26 |
 | **[Weekday](https://www.weekday.works)** | **[Associate Product Manager-Collections & Payments](https://jobr.pro/job/33232716/associate-product-manager-collections-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mumbai, Maharashtra, India | On Site | Nov 26 |
 | **[SciPlay](https://www.sciplay.com/)** | **[Product Manager](https://jobr.pro/job/33245015/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ISRAEL-Tel Aviv-2A Jabotinsky, Israel | On Site | Nov 26 |
-| **[GE HealthCare](https://www.gehealthcare.com/)** | **[Quality Technical Product Manager, Pharmaceutical Diagnostics](https://jobr.pro/job/33270157/quality-technical-product-manager-pharmaceutical-diagnostics?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cork, Ireland | On Site | Nov 26 |
-| **[Workday](https://www.workday.com/)** | **[Product Manager](https://jobr.pro/job/33279794/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND.Chennai, India | On Site | Nov 26 |
-| **[Razer](https://www.razer.com/)** | **[Senior Product Manager](https://jobr.pro/job/33279442/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | France | On Site | Nov 26 |
-| **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[Principal Security Product Manager](https://jobr.pro/job/33279140/principal-security-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - PA - Conshohocken - West First, United States | On Site | Nov 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 42 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 10% remote | 39 companies | Avg salary: 216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
