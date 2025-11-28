@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DXC Technology](https://dxc.com/)** | **[Product Manager(ToC)](https://jobr.pro/job/33401255/product-managertoc?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CN004 - Shanghai, China (CN004) | On Site | Nov 29 |
+| **[TimeEdit](https://www.timeedit.com/)** | **[Product Manager](https://jobr.pro/job/33393282/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Utrecht | On Site | Nov 28 |
 | **[Google](https://www.google.com/)** | **[Product Manager II, Google Photos Organization](https://jobr.pro/job/33378628/product-manager-ii-google-photos-organization?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney NSW, Australia | On Site | Nov 28 |
 | **[Google](https://www.google.com/)** | **[Product Manager, Marketing Technology, Marketing Engineering](https://jobr.pro/job/33378603/product-manager-marketing-technology-marketing-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mexico City, CDMX, Mexico | On Site | Nov 28 |
 | **[LaFinteca](https://www.la-finteca.com/)** | **[Senior Product Manager (Payments)](https://jobr.pro/job/33375552/senior-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Argentina | On Site | Nov 28 |
@@ -33,8 +35,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Finance and Tax Product Manager](https://jobr.pro/job/33384172/finance-and-tax-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 28 |
 | **[Medibank](https://www.medibank.com.au/)** | **[Digital Product Manager](https://jobr.pro/job/33366039/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | DOCKLANDS, VIC, AU, 3008 | On Site | Nov 28 |
 | **[Saab](https://www.saab.com/)** | **[Saab söker Product Manager AT4](https://jobr.pro/job/33388407/saab-soker-product-manager-at4?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Karlskoga - Boforsvägen 1, Sweden | On Site | Nov 28 |
+| **[Nasdaq](https://www.nasdaq.com/)** | **[Product Manager](https://jobr.pro/job/33397668/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Poland | On Site | Nov 28 |
+| **[CompuGroup Medical](https://www.cgm.com/)** | **[Product Manager (m/w/d)](https://jobr.pro/job/33401932/product-manager-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Koblenz \| Maria Trost 21, Tyskland | On Site | Nov 28 |
+| **[Citi](https://www.citigroup.com/)** | **[SVP - Cross Border Product Manager - Hybrid](https://jobr.pro/job/33401050/svp-cross-border-product-manager-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | JL. JEND SUDIMAN KAV 52-53, SC, Indonesia | On Site | Nov 28 |
+| **[CrowdStrike](https://www.crowdstrike.com/)** | **[Product Manager - Data Protection](https://jobr.pro/job/33393095/product-manager-data-protection?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv (Sky Tower), Israel | On Site | Nov 28 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Product Manager (Digital Services) Traineeship \[GRIT@Gov\]](https://jobr.pro/job/33400871/product-manager-digital-services-traineeship-gritgov?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NEA-HQ-ENVIRONMENT BUILDING, Singapore | On Site | Nov 28 |
+| **[Alliander](https://www.werkenbij.alliander.com/)** | **[Strategisch Product Manager Energietransitie](https://jobr.pro/job/33391560/strategisch-product-manager-energietransitie?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ARNHEM, Netherlands | On Site | Nov 28 |
 | **[Flight Centre Travel Group](https://www.fctgl.com/)** | **[Touring Product Manager - Broadbeach, QLD](https://jobr.pro/job/33377094/touring-product-manager-broadbeach-qld?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Australia, Queensland | On Site | Nov 27 |
 | **[Easygo](https://easygo.io/)** | **[Senior Product Manager (Sportsbook)](https://jobr.pro/job/33361753/senior-product-manager-sportsbook?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Melbourne, Australia | On Site | Nov 27 |
+| **[Omaze](https://www.omaze.com/)** | **[Product Manager](https://jobr.pro/job/33393932/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Central London, SouthEast WC1, United Kingdom | On Site | Nov 27 |
 | **[Red Bull](https://www.redbull.com/)** | **[Product Manager - POSM & Trade Marketing Materials](https://jobr.pro/job/33370122/product-manager-posm-trade-marketing-materials?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Elsbethen, Salzburg, Austria | On Site | Nov 27 |
 | **[Inetum](https://www.inetum.com)** | **[Tech Product Manager – SaaS & Cloud Solutions](https://jobr.pro/job/33358190/tech-product-manager-saas-cloud-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lisbon, Lisbon, Portugal | On Site | Nov 27 |
 | **[Okta](https://www.okta.com)** | **[Technical Product Manager - SDKs](https://jobr.pro/job/33364476/technical-product-manager-sdks?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, India | On Site | Nov 27 |
@@ -54,19 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Meezan Bank](https://www.meezanbank.com/)** | **[Assistant Product Manager](https://jobr.pro/job/33335104/assistant-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Karachi, Sindh, Pakistan | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com/)** | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobr.pro/job/33325254/product-manager-intern-tiktok-search-comprehensive-search-2025-project-intern-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, United States | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com/)** | **[Product Manager Graduate (TikTok Shop Logistics Fulfillment Experience) - 2026 Start (BS/MS)](https://jobr.pro/job/33325215/product-manager-graduate-tiktok-shop-logistics-fulfillment-experience-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle, Washington, United States | On Site | Nov 27 |
-| **[ClearGrid](https://cleargrid.ae/)** | **[Product Manager](https://jobr.pro/job/33327350/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Riyadh, Saudi Arabia | On Site | Nov 27 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Product Manager - Liquidity & Account Solutions – Cash Concentration Products – Associate – London](https://jobr.pro/job/33331952/product-manager-liquidity-account-solutions-cash-concentration-products-associate-london?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | LONDON, LONDON, United Kingdom | On Site | Nov 27 |
-| **[Google](https://www.google.com/)** | **[Senior Product Manager, Discover Recommendations](https://jobr.pro/job/33320984/senior-product-manager-discover-recommendations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA, USA; New York, NY, USA | On Site | Nov 27 |
-| **[Google](https://www.google.com/)** | **[Senior Product Manager, Google Cloud](https://jobr.pro/job/33320911/senior-product-manager-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sunnyvale, CA, USA | On Site | Nov 27 |
-| **[Visa](https://visa.com)** | **[Product Manager – Affluent Debit & Credit Card Propositions](https://jobr.pro/job/33369994/product-manager-affluent-debit-credit-card-propositions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin, BE, Germany | On Site | Nov 27 |
-| **[Google](https://www.google.com/)** | **[Product Manager II, Cross Product Safety, YouTube](https://jobr.pro/job/33320868/product-manager-ii-cross-product-safety-youtube?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Bruno, CA, USA; Mountain View, CA, USA | On Site | Nov 27 |
-| **[Google](https://www.google.com/)** | **[Product Manager, YouTube Channel Memberships, Creator Engagement](https://jobr.pro/job/33320821/product-manager-youtube-channel-memberships-creator-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 27 |
-| **[Welltech](https://welltech.com/)** | **[Senior Product Manager, Onboarding](https://jobr.pro/job/33364990/senior-product-manager-onboarding?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Spain | Remote | Nov 27 |
-| **[StepStone Group](https://www.thestepstonegroup.com/)** | **[Product Manager (m/w/d)](https://jobr.pro/job/33368114/product-manager-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Düsseldorf, NRW, Germany | On Site | Nov 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 40 companies | Avg salary: 201k  
+**Current Stats:** 50 jobs | 2% remote | 45 companies | Avg salary: 70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
