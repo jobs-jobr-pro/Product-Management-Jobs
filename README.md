@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 30, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 30, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Behavox](https://www.behavox.com/)** | **[Product Manager 3](https://jobr.pro/job/33415306/product-manager-3?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Montreal | On Site | Nov 29 |
 | **[DXC Technology](https://dxc.com/)** | **[Product Manager(ToC)](https://jobr.pro/job/33401255/product-managertoc?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CN004 - Shanghai, China (CN004) | On Site | Nov 29 |
 | **[Global Payments](https://www.globalpayments.com/)** | **[Partner/API Integrations Product Manager](https://jobr.pro/job/33406710/partnerapi-integrations-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Fortitude Valley, Queensland, Austrialia, Australia | On Site | Nov 29 |
+| **[Ingram Micro](https://www.ingrammicro.com/)** | **[Product Manager](https://jobr.pro/job/33442154/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mumbai, India | On Site | Nov 29 |
 | **[PDI Technologies](https://pditechnologies.com/)** | **[Manager, Product Management \| Product Manager IV](https://jobr.pro/job/33408693/manager-product-management-product-manager-iv?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alpharetta, GA | On Site | Nov 28 |
 | **[Bank of Hawaii](https://www.boh.com/)** | **[Cash Management Product Manager III](https://jobr.pro/job/33424342/cash-management-product-manager-iii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Honolulu, HI, United States | On Site | Nov 28 |
 | **[Wing Assistant](https://wingassistant.com)** | **[Founder's Associate/Product Manager](https://jobr.pro/job/33408452/founders-associateproduct-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore | On Site | Nov 28 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fivetran](https://www.fivetran.com/)** | **[Product Manager III - Technical - SaaS Connectors](https://jobr.pro/job/33411089/product-manager-iii-technical-saas-connectors?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka, India, APAC | On Site | Nov 28 |
 | **[LaFinteca](https://www.la-finteca.com/)** | **[Senior Product Manager (Payments)](https://jobr.pro/job/33375552/senior-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Argentina | On Site | Nov 28 |
 | **[Bumper](https://www.bumper.co/)** | **[Product Manager](https://jobr.pro/job/33425301/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sheffield, United Kingdom | On Site | Nov 28 |
-| **[Gameopedia](https://gameopedia.com/)** | **[Lead Product Manager](https://jobr.pro/job/33377428/lead-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lillestrøm, Norway | On Site | Nov 28 |
 
 ---
 
