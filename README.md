@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Nov 30, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 30, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -48,6 +48,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Product Manager-RBG-CV (Working Capital)-Business Development](https://jobr.pro/job/33428368/product-manager-rbg-cv-working-capital-business-development?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mumbai, Maharashtra, India | On Site | Nov 28 |
 | **[Irembo](https://irembo.com/)** | **[AI Product Manager, Consultant](https://jobr.pro/job/33409592/ai-product-manager-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kigali, Rwanda | On Site | Nov 28 |
 | **[Happening](https://www.happening.xyz/)** | **[Senior Product Manager - Sports](https://jobr.pro/job/33409896/senior-product-manager-sports?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Croatia | On Site | Nov 28 |
+| **[Distribusion Technologies](https://www.distribusion.com/)** | **[Lead Product Manager, eCommerce (all genders)](https://jobr.pro/job/33426857/lead-product-manager-ecommerce-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin, Berlin, Germany | On Site | Nov 28 |
 | **[Front](https://front.com/)** | **[Senior Product Manager](https://jobr.pro/job/33411304/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris, France | On Site | Nov 28 |
 | **[Netcompany](https://www.netcompany.com)** | **[Senior Product Manager](https://jobr.pro/job/33410693/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, England, United Kingdom | On Site | Nov 28 |
 | **[Zinnia](https://www.zinnia.com/)** | **[Senior Product Manager - SOR](https://jobr.pro/job/33408074/senior-product-manager-sor?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pune, Maharashtra, India | On Site | Nov 28 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ALTEN](https://www.alten.com/)** | **[Product Owner/ Product Manager H/F](https://jobr.pro/job/33412971/product-owner-product-manager-hf?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toulouse, Occitanie, France | On Site | Nov 28 |
 | **[Fivetran](https://www.fivetran.com/)** | **[Product Manager III - Technical - SaaS Connectors](https://jobr.pro/job/33411089/product-manager-iii-technical-saas-connectors?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka, India, APAC | On Site | Nov 28 |
 | **[LaFinteca](https://www.la-finteca.com/)** | **[Senior Product Manager (Payments)](https://jobr.pro/job/33375552/senior-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Argentina | On Site | Nov 28 |
-| **[Bumper](https://www.bumper.co/)** | **[Product Manager](https://jobr.pro/job/33425301/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sheffield, United Kingdom | On Site | Nov 28 |
 
 ---
 
