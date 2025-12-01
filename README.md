@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 01, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 01, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,14 +13,20 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Midea Group](https://www.midea.com/)** | **[Product Manager HVAC (m/w/d)](https://jobr.pro/job/33454061/product-manager-hvac-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Eschborn | On Site | Dec 01 |
+| **[Ford Motor Company](https://corporate.ford.com/)** | **[Product Manager](https://jobr.pro/job/33456966/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chennai, Tamil Nadu, India | On Site | Dec 01 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Sr Staff Inbound Product Manager - Workplace BU](https://jobr.pro/job/33448445/sr-staff-inbound-product-manager-workplace-bu?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hyderabad, Telangana, India | On Site | Dec 01 |
 | **[MoneyLion](https://www.moneylion.com)** | **[Senior Product Manager](https://jobr.pro/job/33443289/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kuala Lumpur, Kuala Lumpur, Malaysia | On Site | Dec 01 |
 | **[Xplor](https://www.xplortechnologies.com)** | **[Senior Product Manager](https://jobr.pro/job/33449564/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Melbourne, VIC, Australia | On Site | Dec 01 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Sr. AI Product Manager, Seller Compliance](https://jobr.pro/job/33443265/sr-ai-product-manager-seller-compliance?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shanghai, CHN | On Site | Dec 01 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Sr. AI Product Manager, Seller Education](https://jobr.pro/job/33443264/sr-ai-product-manager-seller-education?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shanghai, CHN | On Site | Dec 01 |
+| **[TD SYNNEX](https://www.tdsynnex.com/)** | **[Product Manager, Sonicwall](https://jobr.pro/job/33452463/product-manager-sonicwall?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Dec 01 |
+| **[Westpac](https://www.westpac.co.nz/)** | **[Senior Product Manager - Trade Finance](https://jobr.pro/job/33454446/senior-product-manager-trade-finance?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Westpac on Takutai Square, New Zealand | On Site | Dec 01 |
 | **[Tennr](https://www.tennr.com/)** | **[Prior Authorizations Product Manager](https://jobr.pro/job/33447260/prior-authorizations-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City Office | On Site | Nov 30 |
 | **[Forter](https://www.forter.com/)** | **[Senior Product Manager - Payments](https://jobr.pro/job/33445134/senior-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Israel - Tel Aviv | On Site | Nov 30 |
 | **[Apiiro](https://apiiro.com/)** | **[Product Manager](https://jobr.pro/job/33445302/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Nov 30 |
+| **[Bank of China (Hong Kong)](https://www.bochk.com/)** | **[(Senior) Product Manager (Product Sales), Transaction Banking](https://jobr.pro/job/33455247/senior-product-manager-product-sales-transaction-banking?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong | On Site | Nov 30 |
+| **[Rydoo](https://rydoo.com)** | **[Product Manager](https://jobr.pro/job/33455045/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Belgium - Remote | Remote | Nov 30 |
 | **[MoMA](https://moma.org)** | **[Product Manager, Digital Commerce](https://jobr.pro/job/33449224/product-manager-digital-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York, United States; New York, New York, United States | On Site | Nov 30 |
 | **[Via](https://ridewithvia.com/)** | **[Senior Product Manager, Remix](https://jobr.pro/job/33447993/senior-product-manager-remix?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City, New York | On Site | Nov 30 |
 | **[Grid](https://gridverify.com/)** | **[Senior Product Manager](https://jobr.pro/job/33446603/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Nov 30 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bank of Hawaii](https://www.boh.com/)** | **[Cash Management Product Manager III](https://jobr.pro/job/33424342/cash-management-product-manager-iii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Honolulu, HI, United States | On Site | Nov 28 |
 | **[Wing Assistant](https://wingassistant.com)** | **[Founder's Associate/Product Manager](https://jobr.pro/job/33408452/founders-associateproduct-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore | On Site | Nov 28 |
 | **[N26](https://n26.com/)** | **[Senior Product Manager - Customer Due Diligence](https://jobr.pro/job/33408697/senior-product-manager-customer-due-diligence?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin | On Site | Nov 28 |
-| **[Ford Motor Company](https://corporate.ford.com/)** | **[Sr. Product Manager](https://jobr.pro/job/33425504/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dearborn, MI, United States | On Site | Nov 28 |
-| **[DTCC](https://www.dtcc.com/)** | **[Principal Innovation Product Owner/ Product Manager](https://jobr.pro/job/33428858/principal-innovation-product-owner-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jersey City, NJ, United States | On Site | Nov 28 |
-| **[iwoca](https://www.iwoca.co.uk/)** | **[Product Manager - Operations (DE)](https://jobr.pro/job/33411495/product-manager-operations-de?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin | On Site | Nov 28 |
-| **[Alan](https://alan.com/)** | **[Product Manager (B2B)](https://jobr.pro/job/33410203/product-manager-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris, France; Lyon, France; Marseille, France; Bordeaux, France | Remote | Nov 28 |
-| **[Glacier Carbon Reduction GmbH](https://glacier.eco/)** | **[(Junior) Product Manager (w/m/d)](https://jobr.pro/job/33419926/junior-product-manager-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Wien (Hybrid), Vienna (Hybrid) | On Site | Nov 28 |
-| **[Point72](https://www.point72.com/)** | **[Product Manager, Macro Technology](https://jobr.pro/job/33408322/product-manager-macro-technology?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, UK | On Site | Nov 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 46 companies | Avg salary: 137k  
+**Current Stats:** 50 jobs | 10% remote | 46 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
