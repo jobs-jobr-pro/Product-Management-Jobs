@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 01, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 01, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Amazon.com](https://www.amazon.com/)** | **[Sr. AI Product Manager, Seller Compliance](https://jobr.pro/job/33443265/sr-ai-product-manager-seller-compliance?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shanghai, CHN | On Site | Dec 01 |
+| **[Amazon.com](https://www.amazon.com/)** | **[Sr. AI Product Manager, Seller Education](https://jobr.pro/job/33443264/sr-ai-product-manager-seller-education?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shanghai, CHN | On Site | Dec 01 |
 | **[TikTok](https://www.tiktok.com/)** | **[Product Manager, Risk Perception - Platform Responsibility](https://jobr.pro/job/33425082/product-manager-risk-perception-platform-responsibility?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Nov 29 |
 | **[Tata Capital](https://www.tatacapital.com/)** | **[Product Manager - Personal Loans - RFB - Mumbai - Lodha (I-Think Techno Campus) - JM](https://jobr.pro/job/33425477/product-manager-personal-loans-rfb-mumbai-lodha-i-think-techno-campus-jm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mumbai, Maharashtra, India | On Site | Nov 29 |
 | **[adidas](https://www.adidas-group.com/)** | **[Product Manager Kids Footwear Part Time: 20 hrs/week - BU Sportswear and Training - Temp SEPT 2026](https://jobr.pro/job/33411105/product-manager-kids-footwear-part-time-20-hrsweek-bu-sportswear-and-training-temp-sept-2026?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Herzogenaurach, BY, DE | On Site | Nov 29 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Narvar](https://corp.narvar.com/)** | **[Sr. Product Manager](https://jobr.pro/job/33407639/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid - Bangalore | On Site | Nov 28 |
 | **[Sunday Natural Products GmbH](https://sunday.de)** | **[Product Manager - ERP (all genders)](https://jobr.pro/job/33417430/product-manager-erp-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin | On Site | Nov 28 |
 | **[ALTEN](https://www.alten.com/)** | **[Product Owner/ Product Manager H/F](https://jobr.pro/job/33412971/product-owner-product-manager-hf?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toulouse, Occitanie, France | On Site | Nov 28 |
-| **[Fivetran](https://www.fivetran.com/)** | **[Product Manager III - Technical - SaaS Connectors](https://jobr.pro/job/33411089/product-manager-iii-technical-saas-connectors?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka, India, APAC | On Site | Nov 28 |
-| **[LaFinteca](https://www.la-finteca.com/)** | **[Senior Product Manager (Payments)](https://jobr.pro/job/33375552/senior-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Argentina | On Site | Nov 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 45 companies | Avg salary: 61k  
+**Current Stats:** 50 jobs | 6% remote | 44 companies | Avg salary: 61k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
