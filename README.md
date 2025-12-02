@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 02, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 02, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Momentus Technologies](https://ungerboeck.com)** | **[Senior Product Manager, AI & Data Platform](https://jobr.pro/job/33497988/senior-product-manager-ai-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boston, MA, United States | On Site | Dec 01 |
 | **[Convey Health Solutions](https://conveyhealthsolutions.com/)** | **[Sr. Product Manager](https://jobr.pro/job/33481717/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Fort Lauderdale, FL, United States | On Site | Dec 01 |
 | **[Tyto Athene](https://gotyto.com/)** | **[Product Manager](https://jobr.pro/job/33481245/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Selma, AL, United States | On Site | Dec 01 |
 | **[Nomba](https://nomba.com/)** | **[Product Manager](https://jobr.pro/job/33472970/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lagos, Nigeria | On Site | Dec 01 |
@@ -60,13 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Advantech](https://www.advantech.com/en)** | **[Product Manager - Digital Signage (DS) (Embedded/ 林口園區)](https://jobr.pro/job/33490423/product-manager-digital-signage-ds-embedded-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Linkou, Taiwan | On Site | Dec 01 |
 | **[Nutreco](https://www.nutreco.com/)** | **[Product Manager-Poultry](https://jobr.pro/job/33489478/product-manager-poultry?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Beijing, China | On Site | Dec 01 |
 | **[athenahealth](https://www.athenahealth.com/)** | **[Senior Product Manager](https://jobr.pro/job/33489454/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore - Whitefield India | On Site | Dec 01 |
-| **[Tennr](https://www.tennr.com/)** | **[Prior Authorizations Product Manager](https://jobr.pro/job/33447260/prior-authorizations-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City Office | On Site | Nov 30 |
-| **[Omaze](https://www.omaze.com/)** | **[Product Manager](https://jobr.pro/job/33474803/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Central London, SouthEast WC1, United Kingdom | On Site | Nov 30 |
-| **[AT&T Israel R&D Center](https://www.att.com/)** | **[Inbound Product Manager for the Network Domain](https://jobr.pro/job/33472571/inbound-product-manager-for-the-network-domain?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Airport, Center District, IL | On Site | Nov 30 |
+| **[Brunswick Corporation](https://www.brunswick.com/)** | **[Associate Product Manager](https://jobr.pro/job/33497876/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Navico-Montagnana, Italy | On Site | Dec 01 |
+| **[YETI](https://www.yeti.com/)** | **[Digital Product Manager](https://jobr.pro/job/33497999/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US - Headquarters, United States | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 176k  
+**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 173k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
