@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 01, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 02, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -44,6 +44,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Senior Technology Product Manager](https://jobr.pro/job/33470876/senior-technology-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND-Pune-IndiQube Orchid, India | On Site | Dec 01 |
 | **[Worldpay](https://www.worldpay.com/)** | **[Senior Product Manager - Payment methods](https://jobr.pro/job/33472714/senior-product-manager-payment-methods?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | GBR LNDN 25 Walbrook FL5&6, United Kingdom | On Site | Dec 01 |
 | **[Fiserv](https://www.fiserv.com/)** | **[Product Manager Issuing Payments](https://jobr.pro/job/33479327/product-manager-issuing-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Buenos Aires - Retiro, Argentina | On Site | Dec 01 |
+| **[Arctic Wolf](https://arcticwolf.com/)** | **[Product Manager - Attack Surface Management](https://jobr.pro/job/33493194/product-manager-attack-surface-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Office - USA - Minnesota, Eden Prairie, United States | On Site | Dec 01 |
+| **[Clario](https://clario.com/)** | **[Technical Product Manager](https://jobr.pro/job/33494435/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States Remote, United States | Remote | Dec 01 |
+| **[Unilever](https://www.unilever.com/)** | **[Assistant Product Manager - Digital Commerce](https://jobr.pro/job/33493901/assistant-product-manager-digital-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | UniOps Bangalore Centre, India | On Site | Dec 01 |
+| **[CoStar Group](https://www.costargroup.com/)** | **[Principal Product Manager, 3D Capture, Matterport](https://jobr.pro/job/33493892/principal-product-manager-3d-capture-matterport?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sunnyvale, United States | On Site | Dec 01 |
+| **[Euronext](https://www.euronext.com/)** | **[Product Manager](https://jobr.pro/job/33493715/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oslo, Tollbugata, Norway | On Site | Dec 01 |
+| **[Samsung Electronics](https://www.samsung.com/)** | **[Product Manager - Cloud APIs](https://jobr.pro/job/33496208/product-manager-cloud-apis?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 565 Great Northern Way, Vancouver, Canada | On Site | Dec 01 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Senior Product Manager I](https://jobr.pro/job/33492171/senior-product-manager-i?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - NY - 7 Hudson Square, United States | On Site | Dec 01 |
 | **[Oxy](https://www.oxy.com/)** | **[Product Manager VCM/EDC](https://jobr.pro/job/33487594/product-manager-vcmedc?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dallas, United States | On Site | Dec 01 |
 | **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Product Manager](https://jobr.pro/job/33492272/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Malvern - Lancaster, United States | Remote | Dec 01 |
 | **[Teledyne Technologies](https://www.teledyne.com/)** | **[Principal Product Manager](https://jobr.pro/job/33491534/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US - Billerica, MA, United States | On Site | Dec 01 |
@@ -53,20 +60,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Advantech](https://www.advantech.com/en)** | **[Product Manager - Digital Signage (DS) (Embedded/ 林口園區)](https://jobr.pro/job/33490423/product-manager-digital-signage-ds-embedded-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Linkou, Taiwan | On Site | Dec 01 |
 | **[Nutreco](https://www.nutreco.com/)** | **[Product Manager-Poultry](https://jobr.pro/job/33489478/product-manager-poultry?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Beijing, China | On Site | Dec 01 |
 | **[athenahealth](https://www.athenahealth.com/)** | **[Senior Product Manager](https://jobr.pro/job/33489454/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore - Whitefield India | On Site | Dec 01 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Senior Product Manager I](https://jobr.pro/job/33492171/senior-product-manager-i?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - NY - 7 Hudson Square, United States | On Site | Dec 01 |
 | **[Tennr](https://www.tennr.com/)** | **[Prior Authorizations Product Manager](https://jobr.pro/job/33447260/prior-authorizations-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City Office | On Site | Nov 30 |
 | **[Omaze](https://www.omaze.com/)** | **[Product Manager](https://jobr.pro/job/33474803/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Central London, SouthEast WC1, United Kingdom | On Site | Nov 30 |
 | **[AT&T Israel R&D Center](https://www.att.com/)** | **[Inbound Product Manager for the Network Domain](https://jobr.pro/job/33472571/inbound-product-manager-for-the-network-domain?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Airport, Center District, IL | On Site | Nov 30 |
-| **[Forter](https://www.forter.com/)** | **[Senior Product Manager - Payments](https://jobr.pro/job/33445134/senior-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Israel - Tel Aviv | On Site | Nov 30 |
-| **[Flexxon](https://www.flexxon.com)** | **[Solutions Product Manager](https://jobr.pro/job/33461455/solutions-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 30 |
-| **[Spawnpoint Media](https://spawnpointmedia.com/)** | **[Minecraft Marketplace Product Manager](https://jobr.pro/job/33460797/minecraft-marketplace-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Melbourne, Australia | On Site | Nov 30 |
-| **[Apiiro](https://apiiro.com/)** | **[Product Manager](https://jobr.pro/job/33445302/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Nov 30 |
-| **[Trackunit](https://trackunit.com/)** | **[Senior Product Manager (m/f/d)](https://jobr.pro/job/33459210/senior-product-manager-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, United Kingdom | Remote | Nov 30 |
-| **[Bank of China (Hong Kong)](https://www.bochk.com/)** | **[(Senior) Product Manager (Product Sales), Transaction Banking](https://jobr.pro/job/33455247/senior-product-manager-product-sales-transaction-banking?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong | On Site | Nov 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 177k  
+**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 176k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
