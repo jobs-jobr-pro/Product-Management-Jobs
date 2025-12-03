@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 02, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -56,17 +56,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Safeguard Global](https://www.safeguardglobal.com/)** | **[Product Manager](https://jobr.pro/job/33586398/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South Africa | On Site | Dec 02 |
 | **[Klook](https://www.klook.com/)** | **[Intern, Product Manager](https://jobr.pro/job/33546077/intern-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Taipei, Taiwan | On Site | Dec 02 |
 | **[Changejar Technologies Private Limited (Jar)](https://www.myjar.app/)** | **[Product Manager - Platform](https://jobr.pro/job/33551788/product-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka | On Site | Dec 02 |
-| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Senior Product Manager (Contract)](https://jobr.pro/job/33586358/senior-product-manager-contract?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | MAS: MAS Building, Singapore | On Site | Dec 02 |
-| **[VSP Vision](https://www.vspvision.com/)** | **[Senior Product Manager](https://jobr.pro/job/33587065/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote CA - R1, United States | Remote | Dec 02 |
-| **[Workday](https://www.workday.com/)** | **[Principal Product Manager - Accounting Center](https://jobr.pro/job/33585972/principal-product-manager-accounting-center?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Canada, BC, Vancouver | On Site | Dec 02 |
-| **[Edenred](https://www.edenred.com/)** | **[Product Manager (2)](https://jobr.pro/job/33583664/product-manager-2?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Romania - Bucharest - Edenred Digital Center | On Site | Dec 02 |
-| **[HP](https://www.hp.com/)** | **[Sr. Product Manager - Collaboration](https://jobr.pro/job/33582566/sr-product-manager-collaboration?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | AUT01 - Poly West Parmer Lane (AUT01), United States | On Site | Dec 02 |
-| **[Rakuten Asia Pte Ltd](https://global.rakuten.com/)** | **[Principal Product Manager, Marketing Automation](https://jobr.pro/job/33585147/principal-product-manager-marketing-automation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Crimson House Singapore | On Site | Dec 02 |
-| **[Applied Industrial Technologies](https://www.applied.com/)** | **[SOD Product Manager](https://jobr.pro/job/33581069/sod-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 6500 - MSS Cleveland, United States | On Site | Dec 02 |
+| **[Gen](https://gendigital.com/)** | **[Senior Product Manager - Engine by Gen](https://jobr.pro/job/33589693/senior-product-manager-engine-by-gen?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - New York, New York, United States | On Site | Dec 02 |
+| **[ResMed](https://www.resmed.com/)** | **[Technical Product Manager](https://jobr.pro/job/33589987/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US Brightree (Remote Workforce), United States | Remote | Dec 02 |
+| **[F5](https://www.f5.com/)** | **[Principal Product Manager, API Security](https://jobr.pro/job/33589584/principal-product-manager-api-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv, Israel | On Site | Dec 02 |
+| **[Avantor](https://avantorsciences.com/)** | **[Senior Product Manager, Life Science Reagents](https://jobr.pro/job/33590493/senior-product-manager-life-science-reagents?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA-MD Remote, United States | Remote | Dec 02 |
+| **[PNC](https://www.pnc.com/)** | **[Product Manager Expert – AMG Investment Office](https://jobr.pro/job/33588845/product-manager-expert-amg-investment-office?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PNC Bank N.A. (PA375), United States | On Site | Dec 02 |
+| **[ING](https://www.ing.com/)** | **[Product Manager – Front Office Services](https://jobr.pro/job/33590423/product-manager-front-office-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | TRC (Amsterdam - Treasury Center), Netherlands | On Site | Dec 02 |
+| **[Samsung Electronics](https://www.samsung.com/)** | **[CE Product Manager (TV Sub-categories Sound Device, Accessories, Content)](https://jobr.pro/job/33590694/ce-product-manager-tv-sub-categories-sound-device-accessories-content?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 6 Duntes Street, Riga, Latvia | On Site | Dec 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 220k  
+**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 212k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
