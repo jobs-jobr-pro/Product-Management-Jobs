@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Amazon.com](https://www.amazon.com/)** | **[Sr. Supply Chain Product Manager, Amazon Custom Modules](https://jobr.pro/job/33595949/sr-supply-chain-product-manager-amazon-custom-modules?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle, Washington, USA | On Site | Dec 03 |
 | **[ADP](https://www.adp.com/)** | **[Product Manager](https://jobr.pro/job/33567931/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alpharetta, GA, United States | On Site | Dec 02 |
 | **[ADP](https://www.adp.com/)** | **[Lead Product Manager - Reporting](https://jobr.pro/job/33567919/lead-product-manager-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Porto Alegre, BRA-RS, Brazil | On Site | Dec 02 |
 | **[AgileEngine](https://agileengine.com/)** | **[Product Manager ID45373](https://jobr.pro/job/33553869/product-manager-id45373?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Curitiba, Brazil | On Site | Dec 02 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Avantor](https://avantorsciences.com/)** | **[Senior Product Manager, Life Science Reagents](https://jobr.pro/job/33590493/senior-product-manager-life-science-reagents?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA-MD Remote, United States | Remote | Dec 02 |
 | **[PNC](https://www.pnc.com/)** | **[Product Manager Expert – AMG Investment Office](https://jobr.pro/job/33588845/product-manager-expert-amg-investment-office?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PNC Bank N.A. (PA375), United States | On Site | Dec 02 |
 | **[ING](https://www.ing.com/)** | **[Product Manager – Front Office Services](https://jobr.pro/job/33590423/product-manager-front-office-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | TRC (Amsterdam - Treasury Center), Netherlands | On Site | Dec 02 |
-| **[Samsung Electronics](https://www.samsung.com/)** | **[CE Product Manager (TV Sub-categories Sound Device, Accessories, Content)](https://jobr.pro/job/33590694/ce-product-manager-tv-sub-categories-sound-device-accessories-content?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 6 Duntes Street, Riga, Latvia | On Site | Dec 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 212k  
+**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 213k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
