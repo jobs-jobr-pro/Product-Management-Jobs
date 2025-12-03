@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 16:31 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 20:31 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -60,13 +60,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coles Group](https://www.colesgroup.com.au/)** | **[Senior Technology Product Manager - Hawthorn East](https://jobr.pro/job/33600556/senior-technology-product-manager-hawthorn-east?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hawthorn East Melbourne, VIC, AU, 3123 | On Site | Dec 03 |
 | **[Rakuten](https://corp.rakuten.co.jp/)** | **[Product Manager, Rakuten Ichiba Ads - Global Ad Technology Supervisory Department (GATD)](https://jobr.pro/job/33596600/product-manager-rakuten-ichiba-ads-global-ad-technology-supervisory-department-gatd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Futakotamagawa Rise Office, Japan | On Site | Dec 03 |
 | **[Red Hat](https://www.redhat.com/)** | **[Sr. Principal Product Manager](https://jobr.pro/job/33655111/sr-principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote US NC, United States | Remote | Dec 03 |
-| **[Allstate](https://www.allstate.com/)** | **[Product Manager / Consultant (Interactive Voice Response (IVR) & Call Routing)](https://jobr.pro/job/33654870/product-manager-consultant-interactive-voice-response-ivr-call-routing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - IL (Remote), United States | Remote | Dec 03 |
 | **[Gathern](https://gathern.co/)** | **[Senior Product Manager](https://jobr.pro/job/33638351/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Dec 03 |
 | **[Boston Scientific](https://www.bostonscientific.com/)** | **[Sr Digital Product Manager, PACE/Contract AI](https://jobr.pro/job/33622865/sr-digital-product-manager-pacecontract-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Arden Hills, MN, US, 55112 | On Site | Dec 03 |
+| **[Aristocrat](https://www.aristocrat.com/)** | **[Associate Product Manager](https://jobr.pro/job/33657113/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | UK - London (80 Strand), United Kingdom | On Site | Dec 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 37 companies | Avg salary: 215k  
+**Current Stats:** 50 jobs | 6% remote | 37 companies | Avg salary: 215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
