@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 05, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 05, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Sr. Product Manager - Platforms](https://jobr.pro/job/33818838/sr-product-manager-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pasadena, CA, United States | On Site | Dec 05 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com/)** | **[Associate Product Manager](https://jobr.pro/job/33821476/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Woodbridge, NJ, United States | On Site | Dec 05 |
 | **[Zolve](https://zolve.com)** | **[Product Manager-Engagement & Retention](https://jobr.pro/job/33807240/product-manager-engagement-retention?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, India | On Site | Dec 05 |
 | **[AgileEngine](https://agileengine.com/)** | **[Product Manager (Senior) ID46355](https://jobr.pro/job/33800247/product-manager-senior-id46355?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Poznań, Poland | On Site | Dec 05 |
 | **[Tesco](https://www.tesco.com/)** | **[Product Manager - Cyber Data Intelligence Platform](https://jobr.pro/job/33796812/product-manager-cyber-data-intelligence-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Welwyn Garden City, United Kingdom of Great Britain and Northern Ireland | On Site | Dec 05 |
@@ -56,17 +58,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sanofi](https://www.sanofi.com/)** | **[Senior Product Manager - Dupixent](https://jobr.pro/job/33808855/senior-product-manager-dupixent?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Taipei, Taiwan | On Site | Dec 05 |
 | **[Wells Fargo](https://www.wellsfargo.com/)** | **[Senior Product Manager](https://jobr.pro/job/33779934/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 111443-IND-HYDERABAD-INTL HYD WF CENTRE BLK B8 Twr-4, India | On Site | Dec 05 |
 | **[Wells Fargo](https://www.wellsfargo.com/)** | **[Lead Digital Product Manager - CIAM](https://jobr.pro/job/33779973/lead-digital-product-manager-ciam?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 110380-IND-BENGALURU-INTL BLR Twr-1&2 CARNATION, India | On Site | Dec 05 |
-| **[Waymo](https://waymo.com/)** | **[Product Manager, Perception ML Workflows](https://jobr.pro/job/33724422/product-manager-perception-ml-workflows?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA, USA; San Francisco, CA, USA | On Site | Dec 04 |
-| **[Oscar](https://www.hioscar.com/)** | **[Staff Product Manager](https://jobr.pro/job/33746449/staff-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York, United States | On Site | Dec 04 |
-| **[Carrier](https://www.carrier.com/)** | **[LCML Sustaining and Applications Product Manager](https://jobr.pro/job/33782112/lcml-sustaining-and-applications-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, United States | On Site | Dec 04 |
-| **[Ambient.ai](https://ambient.ai/)** | **[Senior Product Manager](https://jobr.pro/job/33739416/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redwood City | Remote | Dec 04 |
-| **[Obsidian Security](https://www.obsidiansecurity.com/)** | **[AI Product Manager – SaaS Supply Chain & Agent Access Risk](https://jobr.pro/job/33749536/ai-product-manager-saas-supply-chain-agent-access-risk?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Palo Alto CA | On Site | Dec 04 |
-| **[Docker](https://www.docker.com/)** | **[Principal Product Manager, Revenue Capture](https://jobr.pro/job/33738925/principal-product-manager-revenue-capture?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Canada | Remote | Dec 04 |
-| **[Roblox](https://www.roblox.com/)** | **[Compliance Product Manager, Safety](https://jobr.pro/job/33734173/compliance-product-manager-safety?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Mateo, CA, United States | On Site | Dec 04 |
+| **[Citi](https://www.citigroup.com/)** | **[Product Manager, Cross Border Payments, Senior Vice President](https://jobr.pro/job/33829146/product-manager-cross-border-payments-senior-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 1 NORTH WALL QUAY, Ireland | On Site | Dec 05 |
+| **[Dexcom](https://www.dexcom.com/)** | **[Product Manager - Dexcom One+/Flex Hardware Systems](https://jobr.pro/job/33828008/product-manager-dexcom-oneflex-hardware-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Diego, United States | On Site | Dec 05 |
+| **[Wilhelmsen group](https://www.wilhelmsen.com/)** | **[Product Manager – Water Test Kits](https://jobr.pro/job/33821291/product-manager-water-test-kits?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lysaker - Strandv. 20, Norway | On Site | Dec 05 |
+| **[Abbott](https://www.abbott.com/)** | **[Senior Product Manager](https://jobr.pro/job/33826715/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South Africa - Johannesburg : Abbott Place | On Site | Dec 05 |
+| **[Novanta](https://www.novanta.com/careers)** | **[Product Manager](https://jobr.pro/job/33824455/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sarasota, FL, United States | On Site | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 41 companies | Avg salary: 270k  
+**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 265k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
