@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 05, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -58,15 +58,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sanofi](https://www.sanofi.com/)** | **[Senior Product Manager - Dupixent](https://jobr.pro/job/33808855/senior-product-manager-dupixent?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Taipei, Taiwan | On Site | Dec 05 |
 | **[Wells Fargo](https://www.wellsfargo.com/)** | **[Senior Product Manager](https://jobr.pro/job/33779934/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 111443-IND-HYDERABAD-INTL HYD WF CENTRE BLK B8 Twr-4, India | On Site | Dec 05 |
 | **[Wells Fargo](https://www.wellsfargo.com/)** | **[Lead Digital Product Manager - CIAM](https://jobr.pro/job/33779973/lead-digital-product-manager-ciam?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 110380-IND-BENGALURU-INTL BLR Twr-1&2 CARNATION, India | On Site | Dec 05 |
-| **[Citi](https://www.citigroup.com/)** | **[Product Manager, Cross Border Payments, Senior Vice President](https://jobr.pro/job/33829146/product-manager-cross-border-payments-senior-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 1 NORTH WALL QUAY, Ireland | On Site | Dec 05 |
-| **[Dexcom](https://www.dexcom.com/)** | **[Product Manager - Dexcom One+/Flex Hardware Systems](https://jobr.pro/job/33828008/product-manager-dexcom-oneflex-hardware-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Diego, United States | On Site | Dec 05 |
-| **[Wilhelmsen group](https://www.wilhelmsen.com/)** | **[Product Manager – Water Test Kits](https://jobr.pro/job/33821291/product-manager-water-test-kits?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lysaker - Strandv. 20, Norway | On Site | Dec 05 |
-| **[Abbott](https://www.abbott.com/)** | **[Senior Product Manager](https://jobr.pro/job/33826715/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South Africa - Johannesburg : Abbott Place | On Site | Dec 05 |
+| **[Safeguard Global](https://www.safeguardglobal.com/)** | **[Senior Product Manager](https://jobr.pro/job/33816903/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South Africa | On Site | Dec 05 |
+| **[GEA Group](https://www.gea.com/)** | **[Product Manager, Recurring Revenue](https://jobr.pro/job/33816394/product-manager-recurring-revenue?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Soeborg : Gladsaxevej 305, Denmark | On Site | Dec 05 |
+| **[GSK](https://www.gsk.com/)** | **[Product Manager II](https://jobr.pro/job/33822008/product-manager-ii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 200 CambridgePark Drive, United States | On Site | Dec 05 |
 | **[Novanta](https://www.novanta.com/careers)** | **[Product Manager](https://jobr.pro/job/33824455/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sarasota, FL, United States | On Site | Dec 05 |
+| **[LSEG](https://www.lseg.com/)** | **[Product Manager - Database and Data Processing Design](https://jobr.pro/job/33819351/product-manager-database-and-data-processing-design?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | POL-Gdynia-3T Office Park, Tower C, Poland | On Site | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 265k  
+**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 256k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
