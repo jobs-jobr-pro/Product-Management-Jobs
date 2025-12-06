@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 06, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Principal Product Manager - Security Center](https://jobr.pro/job/33832853/principal-product-manager-security-center?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Dec 05 |
 | **[ADP](https://www.adp.com/)** | **[Sr. Product Manager - Platforms](https://jobr.pro/job/33818838/sr-product-manager-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pasadena, CA, United States | On Site | Dec 05 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com/)** | **[Associate Product Manager](https://jobr.pro/job/33821476/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Woodbridge, NJ, United States | On Site | Dec 05 |
+| **[Vention](https://vention.io/)** | **[Product Manager, 3D Design Software – MachineBuilder](https://jobr.pro/job/33832556/product-manager-3d-design-software-machinebuilder?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Montréal, QC, Canada | On Site | Dec 05 |
+| **[SOMFY Group](https://www.somfy-group.com/)** | **[Stage- Assistant Product Manager Data (H/F)](https://jobr.pro/job/33832522/stage-assistant-product-manager-data-hf?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Annecy, Auvergne-Rhône-Alpes, France | On Site | Dec 05 |
 | **[Zolve](https://zolve.com)** | **[Product Manager-Engagement & Retention](https://jobr.pro/job/33807240/product-manager-engagement-retention?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, India | On Site | Dec 05 |
 | **[AgileEngine](https://agileengine.com/)** | **[Product Manager (Senior) ID46355](https://jobr.pro/job/33800247/product-manager-senior-id46355?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Poznań, Poland | On Site | Dec 05 |
 | **[Tesco](https://www.tesco.com/)** | **[Product Manager - Cyber Data Intelligence Platform](https://jobr.pro/job/33796812/product-manager-cyber-data-intelligence-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Welwyn Garden City, United Kingdom of Great Britain and Northern Ireland | On Site | Dec 05 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wells Fargo](https://www.wellsfargo.com/)** | **[Lead Digital Product Manager - CIAM](https://jobr.pro/job/33779973/lead-digital-product-manager-ciam?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 110380-IND-BENGALURU-INTL BLR Twr-1&2 CARNATION, India | On Site | Dec 05 |
 | **[Safeguard Global](https://www.safeguardglobal.com/)** | **[Senior Product Manager](https://jobr.pro/job/33816903/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South Africa | On Site | Dec 05 |
 | **[GEA Group](https://www.gea.com/)** | **[Product Manager, Recurring Revenue](https://jobr.pro/job/33816394/product-manager-recurring-revenue?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Soeborg : Gladsaxevej 305, Denmark | On Site | Dec 05 |
-| **[GSK](https://www.gsk.com/)** | **[Product Manager II](https://jobr.pro/job/33822008/product-manager-ii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 200 CambridgePark Drive, United States | On Site | Dec 05 |
-| **[Novanta](https://www.novanta.com/careers)** | **[Product Manager](https://jobr.pro/job/33824455/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sarasota, FL, United States | On Site | Dec 05 |
-| **[LSEG](https://www.lseg.com/)** | **[Product Manager - Database and Data Processing Design](https://jobr.pro/job/33819351/product-manager-database-and-data-processing-design?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | POL-Gdynia-3T Office Park, Tower C, Poland | On Site | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 256k  
+**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 274k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
