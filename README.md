@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 07, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 07, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NielsenIQ](https://nielseniq.com)** | **[Product Manager – Platform & Enablement](https://jobr.pro/job/33901902/product-manager-platform-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chennai, TN, India | On Site | Dec 07 |
+| **[Visa](https://visa.com)** | **[Senior AI Product Manager - Risk Platform](https://jobr.pro/job/33901796/senior-ai-product-manager-risk-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, GA, United States | On Site | Dec 07 |
 | **[Visa](https://visa.com)** | **[Product Manager AI Operations](https://jobr.pro/job/33899802/product-manager-ai-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Foster City, CA, United States | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Product Manager, Ads Manager - Seattle](https://jobr.pro/job/33870682/senior-product-manager-ads-manager-seattle?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle, Washington, United States | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Product Manager – Search Growth (Multiple Positions)](https://jobr.pro/job/33870666/senior-product-manager-search-growth-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, United States | On Site | Dec 06 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Visa](https://visa.com)** | **[Sr. Product Manager, Solution Enablement](https://jobr.pro/job/33848269/sr-product-manager-solution-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Foster City, CA, United States | On Site | Dec 05 |
 | **[Stone](https://www.stone.com.br/)** | **[Product Manager III](https://jobr.pro/job/33837390/product-manager-iii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remoto | Remote | Dec 05 |
 | **[Stripe](https://stripe.com/en-ch)** | **[Product Manager, Support Products - Support Experience](https://jobr.pro/job/33839071/product-manager-support-products-support-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dublin | On Site | Dec 05 |
-| **[Canadian Bank Note Company](https://cbnco.com/)** | **[Product Manager - Print Manufacturing](https://jobr.pro/job/33853906/product-manager-print-manufacturing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ottawa, ON, Canada | On Site | Dec 05 |
-| **[Redis](https://redis.io/)** | **[Senior Product Manager- Cloud Native](https://jobr.pro/job/33850646/senior-product-manager-cloud-native?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Israel | On Site | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 42 companies | Avg salary: 216k  
+**Current Stats:** 50 jobs | 22% remote | 41 companies | Avg salary: 216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
