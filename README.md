@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Rakuten](https://corp.rakuten.co.jp/)** | **[Product Manager - Backend PDM Group, EC First Party Development Department (ECFD)](https://jobr.pro/job/33956269/product-manager-backend-pdm-group-ec-first-party-development-department-ecfd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Rakuten Crimson House, Japan | On Site | Dec 09 |
+| **[Amazon.com](https://www.amazon.com/)** | **[Sr. Product Manager, JP Payments](https://jobr.pro/job/33956582/sr-product-manager-jp-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tokyo, JPN | On Site | Dec 09 |
+| **[Visa](https://visa.com)** | **[Lead Technical Product Manager (Director Level) - Payments, Solution Architecture, GenAI](https://jobr.pro/job/33951791/lead-technical-product-manager-director-level-payments-solution-architecture-genai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, TX, United States | On Site | Dec 08 |
+| **[KMS Technology](https://careers.kms-technology.com)** | **[Senior Product Manager](https://jobr.pro/job/33952052/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Guadalajara, Jal., Mexico | On Site | Dec 08 |
 | **[SuperProcure](https://www.superprocure.com/)** | **[Product Manager - Trainee](https://jobr.pro/job/33930061/product-manager-trainee?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | West Bengal, Kolkata, India | On Site | Dec 08 |
 | **[Bright Data](https://brightdata.com/)** | **[Product Manager - PLG](https://jobr.pro/job/33931606/product-manager-plg?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Netanya, Center District, IL | On Site | Dec 08 |
 | **[ILLA](https://www.illatrucking.com/)** | **[Associate Product Manager](https://jobr.pro/job/33926815/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cairo, Egypt | On Site | Dec 08 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Lead/ Senior Product Manager, Housing Programme](https://jobr.pro/job/33946741/lead-senior-product-manager-housing-programme?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mapletree Business City, Block 10, Level 10, Singapore | On Site | Dec 08 |
 | **[Citi](https://www.citigroup.com/)** | **[Electronic Futures – Product Manager](https://jobr.pro/job/33947436/electronic-futures-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 33 CANADA SQUARE CANARY WHARF LONDON, United Kingdom | On Site | Dec 08 |
 | **[Citi](https://www.citigroup.com/)** | **[Services - Cross Border Payments Product Manager- VP](https://jobr.pro/job/33947424/services-cross-border-payments-product-manager-vp?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 8 MARINA VIEW SINGAPORE, Singapore | On Site | Dec 08 |
-| **[IQVIA](https://www.iqvia.com/)** | **[Product Manager – Audience Platforms](https://jobr.pro/job/33950129/product-manager-audience-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New Providence, New Jersey, United States of America | On Site | Dec 08 |
-| **[CIBC](https://www.cibc.com/)** | **[Product Manager - Banking Center Platforms](https://jobr.pro/job/33951364/product-manager-banking-center-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IL-120 S LaSalle St, United States | On Site | Dec 08 |
-| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Product Manager - UK Corporation Tax](https://jobr.pro/job/33948706/product-manager-uk-corporation-tax?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India, Hyderabad, Telangana | On Site | Dec 08 |
-| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Product Manager](https://jobr.pro/job/33948687/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mexico, Mexico City | On Site | Dec 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 44 companies | Avg salary: 198k  
+**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 207k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
