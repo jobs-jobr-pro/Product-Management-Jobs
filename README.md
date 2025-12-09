@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -50,23 +50,23 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GE Vernova](https://www.gevernova.com/)** | **[Senior Technical Product Manager - Infrastructure](https://jobr.pro/job/33926583/senior-technical-product-manager-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Budapest, Hungary | On Site | Dec 08 |
 | **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Product Manager - A25215](https://jobr.pro/job/33919195/product-manager-a25215?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Dec 08 |
 | **[BuzzBoard](https://www.buzzboard.ai/)** | **[Associate Product Manager / Product Manager](https://jobr.pro/job/33942950/associate-product-manager-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Remote | Remote | Dec 08 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Manager I (APM) - Associate Product Manager Program](https://jobr.pro/job/33947901/product-manager-i-apm-associate-product-manager-program?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - CA - 1200 Grand Central Ave, United States | On Site | Dec 08 |
+| **[Comcast](https://corporate.comcast.com/)** | **[Technical Product Manager – Search & Browse Platform](https://jobr.pro/job/33946793/technical-product-manager-search-browse-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PA - Philadelphia, 1800 Arch St, United States | On Site | Dec 08 |
 | **[MillerKnoll](https://www.millerknoll.com/)** | **[Product Manager](https://jobr.pro/job/33948163/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | MI - Holland Design Yard, United States | On Site | Dec 08 |
 | **[Grubhub](https://www.grubhub.com/)** | **[Staff Product Manager (Lifecycle, CDP & CRM)](https://jobr.pro/job/33943120/staff-product-manager-lifecycle-cdp-crm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City Bryant Park Office, United States | On Site | Dec 08 |
 | **[Moneris](https://www.moneris.com/)** | **[Senior Product Manager, Restaurant Solutions (Hybrid)](https://jobr.pro/job/33946028/senior-product-manager-restaurant-solutions-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto Office, Canada | On Site | Dec 08 |
 | **[Montrose Environmental Group](https://montrose-env.com/)** | **[Principal Product Manager](https://jobr.pro/job/33947633/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA-RI-Remote, United States | Remote | Dec 08 |
 | **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Lead/ Senior Product Manager, Housing Programme](https://jobr.pro/job/33946741/lead-senior-product-manager-housing-programme?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mapletree Business City, Block 10, Level 10, Singapore | On Site | Dec 08 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Manager I (APM) - Associate Product Manager Program](https://jobr.pro/job/33947901/product-manager-i-apm-associate-product-manager-program?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - CA - 1200 Grand Central Ave, United States | On Site | Dec 08 |
 | **[Citi](https://www.citigroup.com/)** | **[Electronic Futures – Product Manager](https://jobr.pro/job/33947436/electronic-futures-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 33 CANADA SQUARE CANARY WHARF LONDON, United Kingdom | On Site | Dec 08 |
 | **[Citi](https://www.citigroup.com/)** | **[Services - Cross Border Payments Product Manager- VP](https://jobr.pro/job/33947424/services-cross-border-payments-product-manager-vp?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 8 MARINA VIEW SINGAPORE, Singapore | On Site | Dec 08 |
-| **[Comcast](https://corporate.comcast.com/)** | **[Technical Product Manager – Search & Browse Platform](https://jobr.pro/job/33946793/technical-product-manager-search-browse-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PA - Philadelphia, 1800 Arch St, United States | On Site | Dec 08 |
-| **[Anthropic](https://www.anthropic.com/)** | **[Product Manager, Developer Services (Lead)](https://jobr.pro/job/33907816/product-manager-developer-services-lead?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City, NY; San Francisco, CA | On Site | Dec 07 |
-| **[Goed](https://www.goed.be/)** | **[Product Manager Microsoft Dynamics 365](https://jobr.pro/job/33942645/product-manager-microsoft-dynamics-365?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mechelen, BE | On Site | Dec 07 |
-| **[Omaze](https://www.omaze.com/)** | **[Product Manager](https://jobr.pro/job/33937017/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Central London, SouthEast WC1, United Kingdom | On Site | Dec 07 |
-| **[DCS Corp](https://www.dcscorp.com/)** | **[Software Product Manager, Senior - Secret](https://jobr.pro/job/33915195/software-product-manager-senior-secret?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bedford, Massachusetts | On Site | Dec 07 |
+| **[IQVIA](https://www.iqvia.com/)** | **[Product Manager – Audience Platforms](https://jobr.pro/job/33950129/product-manager-audience-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New Providence, New Jersey, United States of America | On Site | Dec 08 |
+| **[CIBC](https://www.cibc.com/)** | **[Product Manager - Banking Center Platforms](https://jobr.pro/job/33951364/product-manager-banking-center-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IL-120 S LaSalle St, United States | On Site | Dec 08 |
+| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Product Manager - UK Corporation Tax](https://jobr.pro/job/33948706/product-manager-uk-corporation-tax?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India, Hyderabad, Telangana | On Site | Dec 08 |
+| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Product Manager](https://jobr.pro/job/33948687/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mexico, Mexico City | On Site | Dec 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 227k  
+**Current Stats:** 50 jobs | 8% remote | 44 companies | Avg salary: 198k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
