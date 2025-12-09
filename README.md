@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -60,13 +60,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Littlebit Technology](https://www.littlebit-group.com/)** | **[Senior Product Manager Joule Performance](https://jobr.pro/job/34006819/senior-product-manager-joule-performance?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alzenau, Bayern, DE | On Site | Dec 09 |
 | **[Johnson & Johnson](https://www.jnj.com/)** | **[Product Manager Oncology (Prostate Cancer)](https://jobr.pro/job/34008449/product-manager-oncology-prostate-cancer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | GB006 High Wycombe, United Kingdom | On Site | Dec 09 |
 | **[Valmet](https://www.valmet.com/)** | **[Global product manager, Maintenance Master Data](https://jobr.pro/job/33999662/global-product-manager-maintenance-master-data?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jelenia Góra, Fabryczna, Poland | On Site | Dec 09 |
-| **[Gusto](https://gusto.com/)** | **[Senior Product Manager, Time Tools](https://jobr.pro/job/33971117/senior-product-manager-time-tools?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Denver, CO; San Francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA; Toronto, Ontario, CAN - Remote | Remote | Dec 08 |
-| **[SumUp](https://sumup.com/)** | **[Product Manager](https://jobr.pro/job/33959897/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boulder, Colorado, United States | On Site | Dec 08 |
-| **[Remote](https://remote.com/)** | **[Group Product Manager](https://jobr.pro/job/33971917/group-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote-EMEA | Remote | Dec 08 |
+| **[Edenred](https://www.edenred.com/)** | **[Product Manager](https://jobr.pro/job/34027124/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Greece - Moschato - Moschato | On Site | Dec 09 |
+| **[GSK](https://www.gsk.com/)** | **[Product Manager (HCP) - Adult Vaccines](https://jobr.pro/job/34024463/product-manager-hcp-adult-vaccines?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Petaling Jaya Horizon Penthouse, Malaysia | On Site | Dec 09 |
+| **[GSK](https://www.gsk.com/)** | **[Product Manager (Consumer)](https://jobr.pro/job/34024457/product-manager-consumer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Petaling Jaya Horizon Penthouse, Malaysia | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 43 companies | Avg salary: 203k  
+**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 209k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
