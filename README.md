@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -14,8 +14,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[ING](https://www.ing.com/)** | **[Product Manager – Front Office Services](https://jobr.pro/job/34039639/product-manager-front-office-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | TRC (Amsterdam - Treasury Center), Netherlands | On Site | Dec 10 |
+| **[Air Liquide](https://www.airliquide.com/)** | **[Senior Global Product Manager](https://jobr.pro/job/34043977/senior-global-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bundang - Advanced materials, Korea, Republic of | On Site | Dec 10 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Product Manager, Data & Analytics](https://jobr.pro/job/34040628/product-manager-data-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Miami, Florida, United States | On Site | Dec 09 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Product Manager- Agentic AI](https://jobr.pro/job/34040542/staff-product-manager-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, California, United States | On Site | Dec 09 |
+| **[Visa](https://visa.com)** | **[Lead Technical Product Manager - Payments, Solution Architecture, GenAI](https://jobr.pro/job/34040548/lead-technical-product-manager-payments-solution-architecture-genai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, TX, United States | On Site | Dec 09 |
 | **[AmTrust International](https://www.amtrustinternational.com/)** | **[Product Manager](https://jobr.pro/job/34016377/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cardiff | On Site | Dec 09 |
 | **[SearchLabs](https://searchlabs.ca/)** | **[Product Manager](https://jobr.pro/job/34005975/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto, Canada | On Site | Dec 09 |
+| **[Wise](https://wise.com)** | **[Senior Product Manager - Machine Learning and AI](https://jobr.pro/job/34040561/senior-product-manager-machine-learning-and-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, United Kingdom | On Site | Dec 09 |
 | **[Tesco](https://www.tesco.com/)** | **[Product Manager - Customer Fulfilment Automation](https://jobr.pro/job/34001060/product-manager-customer-fulfilment-automation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Welwyn Garden City, United Kingdom of Great Britain and Northern Ireland | On Site | Dec 09 |
 | **[Tesco](https://www.tesco.com/)** | **[Principal Product Manager - Project Beyond](https://jobr.pro/job/34000952/principal-product-manager-project-beyond?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Welwyn Garden City / London, United Kingdom of Great Britain and Northern Ireland | On Site | Dec 09 |
 | **[Tesco](https://www.tesco.com/)** | **[Senior Product Manager - Edge Compute Platforms](https://jobr.pro/job/34000927/senior-product-manager-edge-compute-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Welwyn Garden City, United Kingdom of Great Britain and Northern Ireland | On Site | Dec 09 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Creative Chaos](https://creativechaos.co/)** | **[Product Manager - Fintech](https://jobr.pro/job/33974917/product-manager-fintech?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Karachi, Sindh, Pakistan | On Site | Dec 09 |
 | **[Avnet](https://www.avnet.com/)** | **[Assistant Product Manager](https://jobr.pro/job/34000578/assistant-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, India | On Site | Dec 09 |
 | **[U.S. Bank](https://www.usbank.com/)** | **[Technical Product Manager 2](https://jobr.pro/job/34000033/technical-product-manager-2?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Brookfield, WI, United States | On Site | Dec 09 |
-| **[Littlebit Technology](https://www.littlebit-group.com/)** | **[Senior Product Manager Joule Performance](https://jobr.pro/job/34006819/senior-product-manager-joule-performance?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alzenau, Bayern, DE | On Site | Dec 09 |
-| **[Johnson & Johnson](https://www.jnj.com/)** | **[Product Manager Oncology (Prostate Cancer)](https://jobr.pro/job/34008449/product-manager-oncology-prostate-cancer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | GB006 High Wycombe, United Kingdom | On Site | Dec 09 |
-| **[Hitachi](https://www.hitachi.com/)** | **[Global Product Manager, Nitrogen and Air Treatment](https://jobr.pro/job/34039920/global-product-manager-nitrogen-and-air-treatment?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | (SUL) Remote - United States, United States | Remote | Dec 09 |
-| **[ING](https://www.ing.com/)** | **[Senior Product Manager Open Banking – Tribe Payments](https://jobr.pro/job/34039660/senior-product-manager-open-banking-tribe-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | HBP (Amsterdam - Haarlerbergpark), Netherlands | On Site | Dec 09 |
-| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Product Manager (Practical Law & Transactional Strategy)](https://jobr.pro/job/34037919/product-manager-practical-law-transactional-strategy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Kingdom, London | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 209k  
+**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 219k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
