@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ING](https://www.ing.com/)** | **[Product Manager – Front Office Services](https://jobr.pro/job/34039639/product-manager-front-office-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | TRC (Amsterdam - Treasury Center), Netherlands | On Site | Dec 10 |
 | **[AmTrust International](https://www.amtrustinternational.com/)** | **[Product Manager](https://jobr.pro/job/34016377/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cardiff | On Site | Dec 09 |
 | **[SearchLabs](https://searchlabs.ca/)** | **[Product Manager](https://jobr.pro/job/34005975/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto, Canada | On Site | Dec 09 |
 | **[Tesco](https://www.tesco.com/)** | **[Product Manager - Customer Fulfilment Automation](https://jobr.pro/job/34001060/product-manager-customer-fulfilment-automation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Welwyn Garden City, United Kingdom of Great Britain and Northern Ireland | On Site | Dec 09 |
@@ -59,14 +60,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[U.S. Bank](https://www.usbank.com/)** | **[Technical Product Manager 2](https://jobr.pro/job/34000033/technical-product-manager-2?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Brookfield, WI, United States | On Site | Dec 09 |
 | **[Littlebit Technology](https://www.littlebit-group.com/)** | **[Senior Product Manager Joule Performance](https://jobr.pro/job/34006819/senior-product-manager-joule-performance?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alzenau, Bayern, DE | On Site | Dec 09 |
 | **[Johnson & Johnson](https://www.jnj.com/)** | **[Product Manager Oncology (Prostate Cancer)](https://jobr.pro/job/34008449/product-manager-oncology-prostate-cancer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | GB006 High Wycombe, United Kingdom | On Site | Dec 09 |
-| **[Valmet](https://www.valmet.com/)** | **[Global product manager, Maintenance Master Data](https://jobr.pro/job/33999662/global-product-manager-maintenance-master-data?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jelenia Góra, Fabryczna, Poland | On Site | Dec 09 |
-| **[Edenred](https://www.edenred.com/)** | **[Product Manager](https://jobr.pro/job/34027124/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Greece - Moschato - Moschato | On Site | Dec 09 |
-| **[GSK](https://www.gsk.com/)** | **[Product Manager (HCP) - Adult Vaccines](https://jobr.pro/job/34024463/product-manager-hcp-adult-vaccines?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Petaling Jaya Horizon Penthouse, Malaysia | On Site | Dec 09 |
-| **[GSK](https://www.gsk.com/)** | **[Product Manager (Consumer)](https://jobr.pro/job/34024457/product-manager-consumer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Petaling Jaya Horizon Penthouse, Malaysia | On Site | Dec 09 |
+| **[Hitachi](https://www.hitachi.com/)** | **[Global Product Manager, Nitrogen and Air Treatment](https://jobr.pro/job/34039920/global-product-manager-nitrogen-and-air-treatment?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | (SUL) Remote - United States, United States | Remote | Dec 09 |
+| **[ING](https://www.ing.com/)** | **[Senior Product Manager Open Banking – Tribe Payments](https://jobr.pro/job/34039660/senior-product-manager-open-banking-tribe-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | HBP (Amsterdam - Haarlerbergpark), Netherlands | On Site | Dec 09 |
+| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Product Manager (Practical Law & Transactional Strategy)](https://jobr.pro/job/34037919/product-manager-practical-law-transactional-strategy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Kingdom, London | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 209k  
+**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 209k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
