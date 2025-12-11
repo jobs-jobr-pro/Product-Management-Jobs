@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Principal Product Manager](https://jobr.pro/job/34132555/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, Karnataka, India | On Site | Dec 11 |
+| **[Wix](https://www.wix.com/)** | **[Product Manager for AI assistant](https://jobr.pro/job/34130915/product-manager-for-ai-assistant?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kyiv, Ukraine | On Site | Dec 10 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Product Manager (Remote)](https://jobr.pro/job/34118172/product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oak Brook, IL, United States | Remote | Dec 10 |
 | **[ADP](https://www.adp.com/)** | **[Senior Product Manager](https://jobr.pro/job/34112594/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Florham Park, NJ, United States | On Site | Dec 10 |
+| **[finanzen.net GmbH](https://www.finanzennet.gmbh)** | **[(Senior) Product Manager - Markets & Search (m/w/d)](https://jobr.pro/job/34131048/senior-product-manager-markets-search-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Karlsruhe, BW, Germany | On Site | Dec 10 |
 | **[easyJet](https://www.easyjet.com/)** | **[Digital Product Manager](https://jobr.pro/job/34093785/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Spain-Barcelona-One Parc Central Carrer del Marroc, 33 08018 Barcelona Sant Mart | On Site | Dec 10 |
 | **[Tesco](https://www.tesco.com/)** | **[Product Manager - Tesco Analytical Platform (Transport and Geographics Domain)](https://jobr.pro/job/34092224/product-manager-tesco-analytical-platform-transport-and-geographics-domain?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kraków, Poland | On Site | Dec 10 |
 | **[Exodigo](https://www.exodigo.com)** | **[Senior Product Manager – Analysis Physical Layer](https://jobr.pro/job/34104158/senior-product-manager-analysis-physical-layer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv, IL | On Site | Dec 10 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Senior Technology Product Manager](https://jobr.pro/job/34104143/senior-technology-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND-Pune-IndiQube Orchid, India | On Site | Dec 10 |
 | **[GSK](https://www.gsk.com/)** | **[Senior Product Manager, AI/ML](https://jobr.pro/job/34119195/senior-product-manager-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cambridge 300 Technology Square, United States | On Site | Dec 10 |
 | **[Truist](https://www.truist.com/)** | **[ACH Product Manager II](https://jobr.pro/job/34126219/ach-product-manager-ii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Charlotte NC - 401 North Tryon St., United States | On Site | Dec 10 |
-| **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Product Manager - PL Care](https://jobr.pro/job/34122970/product-manager-pl-care?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | TH-BKK-001, Thailand | On Site | Dec 10 |
-| **[Early Warning](https://www.earlywarning.com/)** | **[Sr. Product Manager](https://jobr.pro/job/34122927/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City, United States | On Site | Dec 10 |
-| **[GSK](https://www.gsk.com/)** | **[Senior Product Manager - Molecule Design Products](https://jobr.pro/job/34119243/senior-product-manager-molecule-design-products?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London The Stanley Building, United Kingdom | On Site | Dec 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 39 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 12% remote | 40 companies | Avg salary: 216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
