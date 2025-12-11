@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -55,18 +55,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GE Aerospace](https://www.geaerospace.com/)** | **[Product Manager Electron Beam Melting](https://jobr.pro/job/34192616/product-manager-electron-beam-melting?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Molnlycke, Sweden | On Site | Dec 11 |
 | **[Devoted Studios](https://devotedstudios.com/)** | **[Associate Product Manager - LiveOps & Economy](https://jobr.pro/job/34186089/associate-product-manager-liveops-economy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Brazil - Remote | Remote | Dec 11 |
 | **[Likewize](https://www.likewize.com/)** | **[Product Manager](https://jobr.pro/job/34191925/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India SSC- Chennai | On Site | Dec 11 |
-| **[Hearst](https://www.hearst.com/)** | **[Senior Product Manager](https://jobr.pro/job/34188286/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dallas, TX, United States | On Site | Dec 10 |
-| **[Discord](https://discordapp.com/)** | **[Senior Product Manager, Commerce](https://jobr.pro/job/34153231/senior-product-manager-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco Bay Area | On Site | Dec 10 |
-| **[Zscaler](https://www.zscaler.com/careers)** | **[Product Manager Intern, ZPA](https://jobr.pro/job/34141530/product-manager-intern-zpa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, USA | On Site | Dec 10 |
-| **[Staples](https://www.staples.com/)** | **[Product Manager - Landing Pages](https://jobr.pro/job/34180632/product-manager-landing-pages?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Framingham, MA, United States | On Site | Dec 10 |
-| **[Block](https://block.xyz/)** | **[Senior Product Manager, Retention](https://jobr.pro/job/34139514/senior-product-manager-retention?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bay Area, CA, United States of America | On Site | Dec 10 |
-| **[Accordion](https://www.accordion.com/)** | **[Senior AI Product Manager](https://jobr.pro/job/34139303/senior-ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | On Site | Dec 10 |
-| **[Block](https://block.xyz/)** | **[Senior Product Manager, Engagement](https://jobr.pro/job/34139512/senior-product-manager-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bay Area, CA, United States of America | On Site | Dec 10 |
-| **[Astera Labs](https://www.asteralabs.com/)** | **[Sr. Principal Product Manager - Scale Up and Memory](https://jobr.pro/job/34152203/sr-principal-product-manager-scale-up-and-memory?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, CA or Vancouver, BC | On Site | Dec 10 |
+| **[Availity](https://www.availity.com/)** | **[Product Manager, Clearinghouse Enablement (Remote)](https://jobr.pro/job/34210361/product-manager-clearinghouse-enablement-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - United States, United States | Remote | Dec 11 |
+| **[Autodesk](https://www.autodesk.com/)** | **[Product Manager](https://jobr.pro/job/34199709/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | APAC - India - Bengaluru - Sunriver | On Site | Dec 11 |
+| **[Prysmian Group](https://www.prysmiangroup.com/)** | **[Connectivity Product Manager](https://jobr.pro/job/34200468/connectivity-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Milano, PCS (HQ), Italy | On Site | Dec 11 |
+| **[Reinsurance Group of America](https://www.rgare.com/)** | **[Business Data Product Manager](https://jobr.pro/job/34210360/business-data-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Kingdom, London | On Site | Dec 11 |
+| **[Grubhub](https://www.grubhub.com/)** | **[Staff Product Manager (Merchant Operations)](https://jobr.pro/job/34210251/staff-product-manager-merchant-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City Bryant Park Office, United States | On Site | Dec 11 |
+| **[HP](https://www.hp.com/)** | **[Large Format Printing Global Product Manager](https://jobr.pro/job/34203000/large-format-printing-global-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | BCN01 - Barcelona S.Cugat B1 (BCN01), Spain | On Site | Dec 11 |
+| **[John Lewis Partnership](https://www.jlpjobs.com/)** | **[Digital Product Manager](https://jobr.pro/job/34198682/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London Central Office, United Kingdom | Remote | Dec 11 |
+| **[Citi](https://www.citigroup.com/)** | **[Network & Trade Product Manager - Core Trade & Trade Loans, SVP, Sydney](https://jobr.pro/job/34209638/network-trade-product-manager-core-trade-trade-loans-svp-sydney?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 2 PARK STREET SYDNEY, Australia | On Site | Dec 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 40 companies | Avg salary: 260k  
+**Current Stats:** 50 jobs | 14% remote | 41 companies | Avg salary: 241k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
