@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -50,23 +50,23 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Airtable](https://airtable.com/)** | **[Product Manager, Omni Analysis & Q&A](https://jobr.pro/job/34138762/product-manager-omni-analysis-qa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA; New York, NY | On Site | Dec 11 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Principal Product Manager](https://jobr.pro/job/34132555/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, Karnataka, India | On Site | Dec 11 |
 | **[eBay](https://www.ebay.com/)** | **[Product Manager, Intent Platform Tools](https://jobr.pro/job/34151844/product-manager-intent-platform-tools?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, India | On Site | Dec 11 |
-| **[Verisure](https://www.verisure.com/)** | **[Technical Product Manager – Intern](https://jobr.pro/job/34185986/technical-product-manager-intern?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ES - Central Priégola - Pozuelo Headquarters, Spain | On Site | Dec 11 |
-| **[BBVA](https://www.bbva.com/)** | **[Product Manager de Pagos, Transferencias y Financiación](https://jobr.pro/job/34192481/product-manager-de-pagos-transferencias-y-financiacion?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | TORRE BBVA, Argentina | On Site | Dec 11 |
-| **[GE Aerospace](https://www.geaerospace.com/)** | **[Product Manager Electron Beam Melting](https://jobr.pro/job/34192616/product-manager-electron-beam-melting?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Molnlycke, Sweden | On Site | Dec 11 |
-| **[Devoted Studios](https://devotedstudios.com/)** | **[Associate Product Manager - LiveOps & Economy](https://jobr.pro/job/34186089/associate-product-manager-liveops-economy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Brazil - Remote | Remote | Dec 11 |
-| **[Likewize](https://www.likewize.com/)** | **[Product Manager](https://jobr.pro/job/34191925/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India SSC- Chennai | On Site | Dec 11 |
-| **[Availity](https://www.availity.com/)** | **[Product Manager, Clearinghouse Enablement (Remote)](https://jobr.pro/job/34210361/product-manager-clearinghouse-enablement-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - United States, United States | Remote | Dec 11 |
-| **[Autodesk](https://www.autodesk.com/)** | **[Product Manager](https://jobr.pro/job/34199709/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | APAC - India - Bengaluru - Sunriver | On Site | Dec 11 |
-| **[Prysmian Group](https://www.prysmiangroup.com/)** | **[Connectivity Product Manager](https://jobr.pro/job/34200468/connectivity-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Milano, PCS (HQ), Italy | On Site | Dec 11 |
+| **[Citi](https://www.citigroup.com/)** | **[Network & Trade Product Manager - Core Trade & Trade Loans, SVP, Sydney](https://jobr.pro/job/34209638/network-trade-product-manager-core-trade-trade-loans-svp-sydney?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 2 PARK STREET SYDNEY, Australia | On Site | Dec 11 |
+| **[Hiscox](https://www.hiscoxgroup.com/)** | **[Head of Reinsurance Value Stream (Product Manager)](https://jobr.pro/job/34208999/head-of-reinsurance-value-stream-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London - 22 Bishopsgate, United Kingdom | On Site | Dec 11 |
+| **[Entegris](https://www.entegris.com/)** | **[Senior Specialist, Product Manager - Life Sciences](https://jobr.pro/job/34208932/senior-specialist-product-manager-life-sciences?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | MA - Billerica Building 3, United States | On Site | Dec 11 |
+| **[AutoNation](https://www.autonation.com/)** | **[Senior Product Manager](https://jobr.pro/job/34206693/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Auto TechLabs, United States | On Site | Dec 11 |
+| **[Early Warning](https://www.earlywarning.com/)** | **[Product Manager, Developer Experience & Tools](https://jobr.pro/job/34206534/product-manager-developer-experience-tools?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Scottsdale, United States | On Site | Dec 11 |
+| **[John Lewis Partnership](https://www.jlpjobs.com/)** | **[Digital Product Manager](https://jobr.pro/job/34198682/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London Central Office, United Kingdom | Remote | Dec 11 |
 | **[Reinsurance Group of America](https://www.rgare.com/)** | **[Business Data Product Manager](https://jobr.pro/job/34210360/business-data-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Kingdom, London | On Site | Dec 11 |
 | **[Grubhub](https://www.grubhub.com/)** | **[Staff Product Manager (Merchant Operations)](https://jobr.pro/job/34210251/staff-product-manager-merchant-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City Bryant Park Office, United States | On Site | Dec 11 |
 | **[HP](https://www.hp.com/)** | **[Large Format Printing Global Product Manager](https://jobr.pro/job/34203000/large-format-printing-global-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | BCN01 - Barcelona S.Cugat B1 (BCN01), Spain | On Site | Dec 11 |
-| **[John Lewis Partnership](https://www.jlpjobs.com/)** | **[Digital Product Manager](https://jobr.pro/job/34198682/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London Central Office, United Kingdom | Remote | Dec 11 |
-| **[Citi](https://www.citigroup.com/)** | **[Network & Trade Product Manager - Core Trade & Trade Loans, SVP, Sydney](https://jobr.pro/job/34209638/network-trade-product-manager-core-trade-trade-loans-svp-sydney?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 2 PARK STREET SYDNEY, Australia | On Site | Dec 11 |
+| **[Availity](https://www.availity.com/)** | **[Product Manager, Clearinghouse Enablement (Remote)](https://jobr.pro/job/34210361/product-manager-clearinghouse-enablement-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - United States, United States | Remote | Dec 11 |
+| **[Autodesk](https://www.autodesk.com/)** | **[Product Manager](https://jobr.pro/job/34199709/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | APAC - India - Bengaluru - Sunriver | On Site | Dec 11 |
+| **[Prysmian Group](https://www.prysmiangroup.com/)** | **[Connectivity Product Manager](https://jobr.pro/job/34200468/connectivity-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Milano, PCS (HQ), Italy | On Site | Dec 11 |
+| **[Verisure](https://www.verisure.com/)** | **[Technical Product Manager – Intern](https://jobr.pro/job/34185986/technical-product-manager-intern?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ES - Central Priégola - Pozuelo Headquarters, Spain | On Site | Dec 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 41 companies | Avg salary: 241k  
+**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 230k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
