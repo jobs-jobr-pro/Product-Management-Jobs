@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NielsenIQ](https://nielseniq.com)** | **[Senior Data Product Manager](https://jobr.pro/job/34213209/senior-data-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Dec 11 |
 | **[Copado](https://www.copado.com/)** | **[Senior Product Manager - Data Deploy (Salesforce Ecosystem)](https://jobr.pro/job/34196490/senior-product-manager-data-deploy-salesforce-ecosystem?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 70130, New Orleans , LA, United States | On Site | Dec 11 |
 | **[Nike](https://www.nike.com/)** | **[Technical Product Manager - AI/ML](https://jobr.pro/job/34196273/technical-product-manager-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Salem, OR, US | On Site | Dec 11 |
 | **[ScaleOps](https://scaleops.com/)** | **[Product Manager](https://jobr.pro/job/34193249/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Dec 11 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Availity](https://www.availity.com/)** | **[Product Manager, Clearinghouse Enablement (Remote)](https://jobr.pro/job/34210361/product-manager-clearinghouse-enablement-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - United States, United States | Remote | Dec 11 |
 | **[Autodesk](https://www.autodesk.com/)** | **[Product Manager](https://jobr.pro/job/34199709/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | APAC - India - Bengaluru - Sunriver | On Site | Dec 11 |
 | **[Prysmian Group](https://www.prysmiangroup.com/)** | **[Connectivity Product Manager](https://jobr.pro/job/34200468/connectivity-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Milano, PCS (HQ), Italy | On Site | Dec 11 |
-| **[Verisure](https://www.verisure.com/)** | **[Technical Product Manager – Intern](https://jobr.pro/job/34185986/technical-product-manager-intern?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ES - Central Priégola - Pozuelo Headquarters, Spain | On Site | Dec 11 |
 
 ---
 
