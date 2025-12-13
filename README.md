@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 13, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -54,7 +54,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GE HealthCare](https://www.gehealthcare.com/)** | **[Global Product Manager](https://jobr.pro/job/34259451/global-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | BeiJing, China | On Site | Dec 12 |
 | **[PRISM+](https://prismplus.sg/)** | **[Product Manager](https://jobr.pro/job/34241083/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Dec 12 |
 | **[LotusFlare](https://lotusflare.com)** | **[Product Manager (Core Experience)](https://jobr.pro/job/34240234/product-manager-core-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pune | On Site | Dec 12 |
-| **[Mindera](https://mindera.com/)** | **[Product Manager - Contact Centre (Contract)](https://jobr.pro/job/34245010/product-manager-contact-centre-contract?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, England, United Kingdom | On Site | Dec 12 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Principal Product Manager](https://jobr.pro/job/34288458/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Full Time Remote - North Carolina, United States | Remote | Dec 12 |
+| **[M&T Bank](https://www.mtb.com/)** | **[Stablecoin Senior Product Manager](https://jobr.pro/job/34289613/stablecoin-senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, USA, United States | Remote | Dec 12 |
 | **[PerkinElmer](https://www.perkinelmer.com/)** | **[Regional Product Manager - Inorganic](https://jobr.pro/job/34262389/regional-product-manager-inorganic?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shanghai, China | On Site | Dec 12 |
 | **[Maxis](https://www.maxis.com.my/)** | **[Senior Product Manager, CPaaS](https://jobr.pro/job/34261644/senior-product-manager-cpaas?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Menara Maxis, Malaysia | On Site | Dec 12 |
 | **[Techtronic Industries](https://www.ttigroup.com/)** | **[Jr. Product Manager (f/m/d) Milwaukee® Construction & Wet Concrete](https://jobr.pro/job/34268957/jr-product-manager-fmd-milwaukee-construction-wet-concrete?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | DE Winnenden ELC, Germany | On Site | Dec 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Walmart](https://careers.walmart.com/)** | **[STAFF, PRODUCT MANAGER](https://jobr.pro/job/34265379/staff-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IN KA BANGALORE Home Office PTPP1, India | On Site | Dec 12 |
 | **[IQVIA](https://www.iqvia.com/)** | **[Product Manager](https://jobr.pro/job/34267013/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Rosemont, IL, United States of America | Remote | Dec 12 |
 | **[Infobip](https://www.infobip.com/)** | **[Product Manager (OTT)](https://jobr.pro/job/34265703/product-manager-ott?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Zagreb (Croatia) | On Site | Dec 12 |
-| **[Johnson & Johnson](https://www.jnj.com/)** | **[Senior Product Manager](https://jobr.pro/job/34259758/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | TW009 One J&J Taipei, Taiwan | On Site | Dec 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 225k  
+**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 223k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
