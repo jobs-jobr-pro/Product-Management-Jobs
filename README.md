@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 14, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 14, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Product Manager - Application Security (Cortex Cloud)](https://jobr.pro/job/34351000/principal-product-manager-application-security-cortex-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Israel | On Site | Dec 13 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior Product Manager - Identity Security (Cortex Cloud)](https://jobr.pro/job/34351001/senior-product-manager-identity-security-cortex-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Israel | On Site | Dec 13 |
 | **[ADP](https://www.adp.com/)** | **[Sr. Principal, Product Manager, Enterprise AI Tools](https://jobr.pro/job/34339841/sr-principal-product-manager-enterprise-ai-tools?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Roseland, NJ, United States | On Site | Dec 13 |
 | **[Google](https://www.google.com/)** | **[Senior Product Manager, Tensor SoC](https://jobr.pro/job/34323612/senior-product-manager-tensor-soc?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA, USA; San Diego, CA, USA | On Site | Dec 13 |
 | **[Google](https://www.google.com/)** | **[Product Manager, Tensor SoC](https://jobr.pro/job/34323588/product-manager-tensor-soc?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA, USA; San Diego, CA, USA | On Site | Dec 13 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Travelport](https://www.travelport.com/)** | **[Senior Product Manager](https://jobr.pro/job/34328482/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | LANGLEY, BERKSHIRE, United Kingdom | On Site | Dec 12 |
 | **[Bitpanda](https://www.bitpanda.com/)** | **[Technical Product Manager (Trading)](https://jobr.pro/job/34298141/technical-product-manager-trading?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Vienna, Vienna, Austria | On Site | Dec 12 |
 | **[AccuWeather](https://www.accuweather.com/)** | **[Senior Product Manager — Enterprise Subscription Services](https://jobr.pro/job/34298550/senior-product-manager-enterprise-subscription-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | State College, PA or New York, NY | On Site | Dec 12 |
-| **[Monzo](https://monzo.com/)** | **[Product Manager, FinCrime](https://jobr.pro/job/34306835/product-manager-fincrime?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London | On Site | Dec 12 |
-| **[Bitpanda](https://www.bitpanda.com/)** | **[Product Manager - Trading](https://jobr.pro/job/34298140/product-manager-trading?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Barcelona, Spain | On Site | Dec 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 43 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 28% remote | 43 companies | Avg salary: 218k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
