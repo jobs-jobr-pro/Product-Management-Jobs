@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 16, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 16, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -14,15 +14,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Vantive](https://www.vantive.com/)** | **[Senior Product Manager (Acute Therapy)](https://jobr.pro/job/34399427/senior-product-manager-acute-therapy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | BANGKOKV - VAN Bangkok - Main Office, Thailand | On Site | Dec 16 |
+| **[Mattel](https://www.mattel.com)** | **[Sr Product Manager](https://jobr.pro/job/34403045/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | El Segundo, CALIFORNIA, United States | On Site | Dec 15 |
 | **[Tempur Sealy International](https://www.tempursealy.com/)** | **[Product Manager, Digital Operations](https://jobr.pro/job/34391612/product-manager-digital-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lexington, KY, United States | On Site | Dec 15 |
 | **[Tempur Sealy International](https://www.tempursealy.com/)** | **[Sr. Product Manager, Digital Operations](https://jobr.pro/job/34391611/sr-product-manager-digital-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lexington, KY, United States | On Site | Dec 15 |
+| **[Visa](https://visa.com)** | **[Product Manager, Data Production](https://jobr.pro/job/34402881/product-manager-data-production?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Foster City, CA, United States | On Site | Dec 15 |
 | **[Foresight Autonomous Holdings](https://www.foresightauto.com/)** | **[Product Manager](https://jobr.pro/job/34380559/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ness Ziona, Center District, IL | On Site | Dec 15 |
 | **[SuperPlay](https://www.superplay.co/)** | **[Product Manager](https://jobr.pro/job/34379171/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 15 |
+| **[H&M Group](https://hmgroup.com/)** | **[Product Manager - H&M HOME](https://jobr.pro/job/34402929/product-manager-hm-home?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Dec 15 |
 | **[LiveU](https://www.liveu.tv/)** | **[Senior Product Manager](https://jobr.pro/job/34378736/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kefar Sava, Center District, IL | On Site | Dec 15 |
 | **[Global-e](https://www.global-e.com/)** | **[Payment Product Manager](https://jobr.pro/job/34379940/payment-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Petah-Tikva, IL | On Site | Dec 15 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Wealth Management Product Manager](https://jobr.pro/job/34370966/wealth-management-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IN-KA-Bangalore | On Site | Dec 15 |
 | **[Evinced](https://www.evinced.com/)** | **[Platform Product Manager](https://jobr.pro/job/34380353/platform-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 15 |
-| **[H&M Group](https://hmgroup.com/)** | **[Product Manager - H&M HOME](https://jobr.pro/job/34370178/product-manager-hm-home?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Dec 15 |
 | **[Mashreq](https://www.mashreq.com/)** | **[Product Manager- Corporate Cards](https://jobr.pro/job/34372646/product-manager-corporate-cards?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Arab Emirates | On Site | Dec 15 |
 | **[Exodigo](https://www.exodigo.com)** | **[Product Manager – Field Operations](https://jobr.pro/job/34380130/product-manager-field-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv, IL | On Site | Dec 15 |
 | **[CHECK24](https://www.check24.de/)** | **[(Junior) Digital Product Manager (m/w/d) Mobilfunk](https://jobr.pro/job/34369802/junior-digital-product-manager-mwd-mobilfunk?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Köln, Nordrhein-Westfalen, Germany | On Site | Dec 15 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Product Manager - AI Data Center Infrastructure](https://jobr.pro/job/34398025/product-manager-ai-data-center-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, Karnataka, India | On Site | Dec 15 |
 | **[CSL](https://www.csl.com/)** | **[Product Manager, Specialty](https://jobr.pro/job/34395010/product-manager-specialty?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Americas, US-PA, King of Prussia, CSL Behring, United States | On Site | Dec 15 |
 | **[CHG Healthcare](https://www.chghealthcare.com/)** | **[Product Manager, Data/AI](https://jobr.pro/job/34400611/product-manager-dataai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Midvale, UT, United States | On Site | Dec 15 |
-| **[Amplify](https://amplify.com/)** | **[Associate Product Manager, Math Adoptions and Customizations (Contractor)](https://jobr.pro/job/34400312/associate-product-manager-math-adoptions-and-customizations-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - United States, United States | Remote | Dec 15 |
-| **[Amplify](https://amplify.com/)** | **[Product Manager, Math Adoptions and Customizations (Contractor)](https://jobr.pro/job/34400311/product-manager-math-adoptions-and-customizations-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - United States, United States | Remote | Dec 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 47 companies | Avg salary: 155k  
+**Current Stats:** 50 jobs | 2% remote | 48 companies | Avg salary: 175k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
