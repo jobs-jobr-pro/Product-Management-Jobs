@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 15, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 16, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Vantive](https://www.vantive.com/)** | **[Senior Product Manager (Acute Therapy)](https://jobr.pro/job/34399427/senior-product-manager-acute-therapy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | BANGKOKV - VAN Bangkok - Main Office, Thailand | On Site | Dec 16 |
 | **[Tempur Sealy International](https://www.tempursealy.com/)** | **[Product Manager, Digital Operations](https://jobr.pro/job/34391612/product-manager-digital-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lexington, KY, United States | On Site | Dec 15 |
 | **[Tempur Sealy International](https://www.tempursealy.com/)** | **[Sr. Product Manager, Digital Operations](https://jobr.pro/job/34391611/sr-product-manager-digital-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lexington, KY, United States | On Site | Dec 15 |
 | **[Foresight Autonomous Holdings](https://www.foresightauto.com/)** | **[Product Manager](https://jobr.pro/job/34380559/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ness Ziona, Center District, IL | On Site | Dec 15 |
@@ -40,12 +41,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Guidewire Software](https://www.guidewire.com/)** | **[Technical Product Manager, Release Engineering](https://jobr.pro/job/34368414/technical-product-manager-release-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru Office, India | On Site | Dec 15 |
 | **[Coles Group](https://www.colesgroup.com.au/)** | **[Product Manager - Last Mile Planning - Hawthorn East](https://jobr.pro/job/34354453/product-manager-last-mile-planning-hawthorn-east?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hawthorn East Melbourne, VIC, AU, 3123 | On Site | Dec 15 |
 | **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Product Manager - A25226](https://jobr.pro/job/34358943/product-manager-a25226?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Dec 15 |
-| **[SC Johnson](https://www.scjohnson.com/)** | **[Analytics Product Manager](https://jobr.pro/job/34385111/analytics-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - Howe Street, United States | On Site | Dec 15 |
+| **[Takeda](https://www.takeda.com/)** | **[(Sr.) Product Manager, GI, Beijing](https://jobr.pro/job/34372797/sr-product-manager-gi-beijing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CHN - Beijing - Commercial, China | On Site | Dec 15 |
+| **[Advantech](https://www.advantech.com/en)** | **[Product Manager - ARM - OEM/ODM (Embedded/林口園區)](https://jobr.pro/job/34377664/product-manager-arm-oemodm-embedded?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Linkou, Taiwan | On Site | Dec 15 |
 | **[Amgen](https://www.amgen.com/)** | **[Product Manager (Cardiovascular)](https://jobr.pro/job/34393994/product-manager-cardiovascular?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Japan - Tokyo | On Site | Dec 15 |
 | **[Comcast](https://corporate.comcast.com/)** | **[Product Manager - UCaaS](https://jobr.pro/job/34395518/product-manager-ucaas?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States | On Site | Dec 15 |
 | **[The Cigna Group](https://www.thecignagroup.com/)** | **[Sr. Product Manager – Omnichannel Operations & Service Enablement](https://jobr.pro/job/34396940/sr-product-manager-omnichannel-operations-service-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Connecticut Work at Home, United States | On Site | Dec 15 |
-| **[Takeda](https://www.takeda.com/)** | **[(Sr.) Product Manager, GI, Beijing](https://jobr.pro/job/34372797/sr-product-manager-gi-beijing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CHN - Beijing - Commercial, China | On Site | Dec 15 |
-| **[Advantech](https://www.advantech.com/en)** | **[Product Manager - ARM - OEM/ODM (Embedded/林口園區)](https://jobr.pro/job/34377664/product-manager-arm-oemodm-embedded?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Linkou, Taiwan | On Site | Dec 15 |
+| **[SC Johnson](https://www.scjohnson.com/)** | **[Analytics Product Manager](https://jobr.pro/job/34385111/analytics-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - Howe Street, United States | On Site | Dec 15 |
 | **[Rapid7](https://www.rapid7.com/)** | **[Lead Product Manager](https://jobr.pro/job/34378897/lead-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NIS Belfast, United Kingdom | On Site | Dec 15 |
 | **[Kantar](https://www.kantar.com/)** | **[Product Manager, AI/ML](https://jobr.pro/job/34376121/product-manager-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, South Bank Central, United Kingdom | On Site | Dec 15 |
 | **[Maersk](https://www.maersk.com/)** | **[Lead Logistics Product Manager](https://jobr.pro/job/34376008/lead-logistics-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | JPTYO09 - Tokyo - Akasaka Tameike Tower, Japan | On Site | Dec 15 |
@@ -59,14 +60,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com/)** | **[Senior Product Manager](https://jobr.pro/job/34388704/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | UK - London (Bishopsgate), United Kingdom | On Site | Dec 15 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Product Manager - AI Data Center Infrastructure](https://jobr.pro/job/34398025/product-manager-ai-data-center-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, Karnataka, India | On Site | Dec 15 |
 | **[CSL](https://www.csl.com/)** | **[Product Manager, Specialty](https://jobr.pro/job/34395010/product-manager-specialty?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Americas, US-PA, King of Prussia, CSL Behring, United States | On Site | Dec 15 |
-| **[U.S. Bank](https://www.usbank.com/)** | **[Product Manager in Englewood, Colorado.](https://jobr.pro/job/34397238/product-manager-in-englewood-colorado?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Englewood, CO, United States | On Site | Dec 15 |
-| **[U.S. Bank](https://www.usbank.com/)** | **[Senior Product Manager](https://jobr.pro/job/34397234/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bellevue, WA, United States | On Site | Dec 15 |
-| **[Snowflake](https://www.snowflake.com/)** | **[Product Manager - FinOps](https://jobr.pro/job/34355697/product-manager-finops?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US-WA-Bellevue | On Site | Dec 14 |
-| **[Clerkie](https://www.getfiber.ai/)** | **[Associate Product Manager](https://jobr.pro/job/34356764/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Dec 14 |
+| **[CHG Healthcare](https://www.chghealthcare.com/)** | **[Product Manager, Data/AI](https://jobr.pro/job/34400611/product-manager-dataai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Midvale, UT, United States | On Site | Dec 15 |
+| **[Amplify](https://amplify.com/)** | **[Associate Product Manager, Math Adoptions and Customizations (Contractor)](https://jobr.pro/job/34400312/associate-product-manager-math-adoptions-and-customizations-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - United States, United States | Remote | Dec 15 |
+| **[Amplify](https://amplify.com/)** | **[Product Manager, Math Adoptions and Customizations (Contractor)](https://jobr.pro/job/34400311/product-manager-math-adoptions-and-customizations-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - United States, United States | Remote | Dec 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 46 companies | Avg salary: 167k  
+**Current Stats:** 50 jobs | 6% remote | 47 companies | Avg salary: 155k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
