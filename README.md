@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -48,6 +48,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Williams Lea](https://www.williamslea.com/)** | **[Senior Product Manager](https://jobr.pro/job/34436223/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | WL GBR Work from home default, United Kingdom | Remote | Dec 16 |
 | **[Aptiv](https://www.aptiv.com/)** | **[Product Manager](https://jobr.pro/job/34442048/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CHN Changshu Tech Center, China | On Site | Dec 16 |
 | **[Vantive](https://www.vantive.com/)** | **[Senior Product Manager (Acute Therapy)](https://jobr.pro/job/34399427/senior-product-manager-acute-therapy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | BANGKOKV - VAN Bangkok - Main Office, Thailand | On Site | Dec 16 |
+| **[Westpac](https://www.westpac.com.au/)** | **[Senior Product Manager](https://jobr.pro/job/34461504/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Westpac on Takutai Square, New Zealand | On Site | Dec 16 |
+| **[MSD](https://www.msd.com/)** | **[Associate Product Manager - Real World Evidence](https://jobr.pro/job/34476447/associate-product-manager-real-world-evidence?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CZE - Central Bohemian - Prague (Five), Czechia | On Site | Dec 16 |
+| **[bp](https://www.bp.com/)** | **[Product Manager](https://jobr.pro/job/34469453/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | AU: Melbourne - Docklands, Australia | On Site | Dec 16 |
+| **[Vanderlande](https://www.vanderlande.com/)** | **[Senior Product Manager - Global Spare Parts](https://jobr.pro/job/34479557/senior-product-manager-global-spare-parts?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Veghel, Netherlands | On Site | Dec 16 |
+| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[o9 Supply Chain Product Manager](https://jobr.pro/job/34483754/o9-supply-chain-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Business Office & Sales Office - Madrid, Spain | On Site | Dec 16 |
+| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Dev CoE Product Manager @MMCTech](https://jobr.pro/job/34485953/dev-coe-product-manager-mmctech?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cluj-Napoca - Decembrie, Romania | Remote | Dec 16 |
+| **[Medline Industries, LP](https://www.medline.com/)** | **[Product Manager](https://jobr.pro/job/34485280/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CORP- Northfield - Headquarters, United States | On Site | Dec 16 |
 | **[Gen](https://gendigital.com/)** | **[Lead Product Manager Norton Growth](https://jobr.pro/job/34455057/lead-product-manager-norton-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - California, Mountain View, United States | On Site | Dec 16 |
 | **[Gen](https://gendigital.com/)** | **[Lead Product Manager – Norton Product Discovery and Engagement](https://jobr.pro/job/34455050/lead-product-manager-norton-product-discovery-and-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - California, Mountain View, United States | On Site | Dec 16 |
 | **[Jonas Software](https://www.jonassoftware.co.uk/)** | **[Product Manager (Dataflow UK)](https://jobr.pro/job/34463490/product-manager-dataflow-uk?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - UK Vesta, United Kingdom | Remote | Dec 16 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Salla](https://salla.com/)** | **[Product Manager \| Payment](https://jobr.pro/job/34437597/product-manager-payment?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jeddah, Makkah Province, Saudi Arabia | On Site | Dec 16 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Associate Product Manager, 2026 Graduate Australia & New Zealand](https://jobr.pro/job/34442848/associate-product-manager-2026-graduate-australia-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney - Australia - Sydney, 2000 Australia; Remote - Remote | Remote | Dec 16 |
 | **[Valmet](https://www.valmet.com/)** | **[Product Manager, RCM](https://jobr.pro/job/34439231/product-manager-rcm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Beihai, Gangzhong Road, China | On Site | Dec 16 |
-| **[HP](https://www.hp.com/)** | **[Product Manager, Commercial Notebooks](https://jobr.pro/job/34451514/product-manager-commercial-notebooks?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | TPC01 - NanKang Software Park III, Taipei (TPC01), Taiwan | On Site | Dec 16 |
-| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Product Manager, Authorisation and Security](https://jobr.pro/job/34449921/product-manager-authorisation-and-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Dec 16 |
-| **[Vesta Software Group](https://vestasoftwaregroup.com/)** | **[Product Manager (Dataflow UK)](https://jobr.pro/job/34449780/product-manager-dataflow-uk?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - UK Vesta, United Kingdom | Remote | Dec 16 |
-| **[Gen](https://gendigital.com/)** | **[Senior Director, Lead Product Manager - Norton 360](https://jobr.pro/job/34455044/senior-director-lead-product-manager-norton-360?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - California, Mountain View, United States | On Site | Dec 16 |
-| **[Philips](https://www.philips.com/)** | **[Senior Product Manager](https://jobr.pro/job/34454921/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shenzhen - No3 Road - Goldway, China | On Site | Dec 16 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Principal Product Manager](https://jobr.pro/job/34459701/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sunnyvale, California, United States of America | On Site | Dec 16 |
-| **[AirAsia](https://www.airasia.com/)** | **[Associate Product Manager](https://jobr.pro/job/34461157/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, India | On Site | Dec 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 249k  
+**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 206k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
