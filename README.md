@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Helena Agri-Enterprises, LLC](https://helenaagri.com/)** | **[Product Manager](https://jobr.pro/job/34468806/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kennewick, WA, United States | On Site | Dec 16 |
+| **[Wix](https://www.wix.com/)** | **[Product Manager - AI assistant](https://jobr.pro/job/34488490/product-manager-ai-assistant?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kyiv, Ukraine | On Site | Dec 16 |
 | **[Cardo Systems](https://cardosystems.com)** | **[Product Manager - Mobile Applications](https://jobr.pro/job/34460485/product-manager-mobile-applications?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ra'anana, Ha'sharon, IL | On Site | Dec 16 |
 | **[Epassi](https://www.epassi.com/)** | **[Product Manager](https://jobr.pro/job/34466466/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Vercelli; Milan | On Site | Dec 16 |
 | **[Akamai Technologies](https://www.akamai.com/)** | **[Principal Product Manager](https://jobr.pro/job/34454492/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Israel | Remote | Dec 16 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Shell](https://www.shell.com/)** | **[Product Manager Services On The Road](https://jobr.pro/job/34430864/product-manager-services-on-the-road?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Rotterdam - Weena, Netherlands | On Site | Dec 16 |
 | **[Salla](https://salla.com/)** | **[Product Manager \| Payment](https://jobr.pro/job/34437597/product-manager-payment?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jeddah, Makkah Province, Saudi Arabia | On Site | Dec 16 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Associate Product Manager, 2026 Graduate Australia & New Zealand](https://jobr.pro/job/34442848/associate-product-manager-2026-graduate-australia-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney - Australia - Sydney, 2000 Australia; Remote - Remote | Remote | Dec 16 |
-| **[Valmet](https://www.valmet.com/)** | **[Product Manager, RCM](https://jobr.pro/job/34439231/product-manager-rcm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Beihai, Gangzhong Road, China | On Site | Dec 16 |
 
 ---
 
