@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[finanzen.net GmbH](https://www.finanzennet.gmbh)** | **[(Senior) Product Manager - Markets & Search (m/w/d)](https://jobr.pro/job/34731179/senior-product-manager-markets-search-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Karlsruhe, BW, Germany | On Site | Dec 19 |
 | **[Valley National Bank](https://www.valley.com/)** | **[Treasury Solutions Product Manager - NYC, NY](https://jobr.pro/job/34715976/treasury-solutions-product-manager-nyc-ny?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Dec 19 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Product Manager](https://jobr.pro/job/34704139/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, Karnataka, India | On Site | Dec 19 |
 | **[Lylli](https://www.lylli.se/)** | **[Product Manager](https://jobr.pro/job/34718472/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Stockholm | On Site | Dec 19 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Autodesk](https://www.autodesk.com/)** | **[Product Manager – Forma Compass](https://jobr.pro/job/34708451/product-manager-forma-compass?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | EMEA - Norway - Oslo - Tjuvholmen Alle | On Site | Dec 19 |
 | **[Autodesk](https://www.autodesk.com/)** | **[Senior Product Manager, Digital Project Delivery](https://jobr.pro/job/34708366/senior-product-manager-digital-project-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | AMER - Canada - Ontario - Toronto - University Ave | On Site | Dec 19 |
 | **[Nike](https://www.nike.com/)** | **[Senior Product Manager](https://jobr.pro/job/34697218/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | INDIA TECHNOLOGY CENTER, India | On Site | Dec 19 |
-| **[Lyreco Group](https://www.lyreco.com/)** | **[Product Manager (Life & Tech)](https://jobr.pro/job/34689322/product-manager-life-tech?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cornellá De Llobregat, Spain | On Site | Dec 19 |
 
 ---
 
