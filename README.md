@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior IT Product Manager, Ecosystems](https://jobr.pro/job/34843497/senior-it-product-manager-ecosystems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Dec 22 |
 | **[abra](https://www.abra-it.com/)** | **[Product Manager](https://jobr.pro/job/34822356/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Center, Center District, IL | On Site | Dec 22 |
 | **[Seemplicity Security](https://www.seemplicity.io/)** | **[Sr. Technical Product Manager](https://jobr.pro/job/34823090/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
 | **[AgileEngine](https://agileengine.com/)** | **[Product Manager (AQA experience) ID46355](https://jobr.pro/job/34819722/product-manager-aqa-experience-id46355?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Одеса, Ukraine | On Site | Dec 22 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Smith+Nephew](https://www.smith-nephew.com/)** | **[Sr. Lifecycle Product Manager (Andover, MA)](https://jobr.pro/job/34822750/sr-lifecycle-product-manager-andover-ma?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Andover, MA, United States | On Site | Dec 22 |
 | **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Lead/ Senior Product Manager, Product Management Practice](https://jobr.pro/job/34804400/lead-senior-product-manager-product-management-practice?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mapletree Business City, Block 10, Level 10, Singapore | On Site | Dec 22 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com)** | **[Product Manager, Lytics (Contractor)](https://jobr.pro/job/34802684/product-manager-lytics-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seoul, Korea, Republic of, Busan | On Site | Dec 22 |
-| **[Innovaccer](https://innovaccer.com/)** | **[3663 Senior Product Manager](https://jobr.pro/job/34812837/3663-senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 46 companies | Avg salary: 170k  
+**Current Stats:** 50 jobs | 4% remote | 45 companies | Avg salary: 175k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
