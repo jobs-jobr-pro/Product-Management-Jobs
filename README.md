@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Product Manager for Cyber Products](https://jobr.pro/job/34921807/product-manager-for-cyber-products?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, TX, United States | On Site | Dec 23 |
 | **[Okoora](https://okoora.com/)** | **[Product Manager](https://jobr.pro/job/34894755/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Dec 23 |
 | **[Pando](https://pando.ai/)** | **[Product Manager AI](https://jobr.pro/job/34889640/product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tiruvallur, India | On Site | Dec 23 |
 | **[ScaleOps](https://scaleops.com/)** | **[Product Manager](https://jobr.pro/job/34895686/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Dec 23 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CDK Global](https://www.cdkglobal.com/)** | **[Sr Group Product Manager](https://jobr.pro/job/34882187/sr-group-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Hyderabad | On Site | Dec 23 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Principal Product Manager, Jira AI](https://jobr.pro/job/34880387/principal-product-manager-jira-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco - United States - San Francisco, California 94104 United States; Remote - Remote | Remote | Dec 23 |
 | **[Ofload](https://www.ofload.com.au/)** | **[Senior Product Manager](https://jobr.pro/job/34876567/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, New South Wales, Australia | On Site | Dec 23 |
-| **[If Insurance](https://www.if.se/)** | **[Product Manager SME](https://jobr.pro/job/34893325/product-manager-sme?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Turku, Kalevantie 3, Finland | On Site | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 39 companies | Avg salary: 213k  
+**Current Stats:** 50 jobs | 10% remote | 39 companies | Avg salary: 211k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
