@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior IT Product Manager, Ecosystems](https://jobr.pro/job/34985295/senior-it-product-manager-ecosystems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Dec 24 |
 | **[TechMagic](https://www.techmagic.co)** | **[Product Manager](https://jobr.pro/job/34975212/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | remote, Ukraine (Remote) | Remote | Dec 24 |
 | **[Nayax](https://www.nayax.com/)** | **[Senior Payments Product Manager](https://jobr.pro/job/34966894/senior-payments-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Herzliya, Israel, IL | On Site | Dec 24 |
 | **[Sunbit](https://sunbit.com/)** | **[Senior Product Manager - Accounting (B2B)](https://jobr.pro/job/34966561/senior-product-manager-accounting-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Binyamina-Giv'at Ada, Haifa District, IL | On Site | Dec 24 |
@@ -61,12 +62,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[X-energy](https://www.x-energy.com/)** | **[IT Product Manager](https://jobr.pro/job/34983053/it-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | MD - Gaither Rd., Rockville Corp Hqtrs, United States | On Site | Dec 24 |
 | **[Avnet](https://www.avnet.com/)** | **[Assistant Product Manager](https://jobr.pro/job/34984756/assistant-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, India | On Site | Dec 24 |
 | **[Avnet](https://www.avnet.com/)** | **[Supplier Management Specialist / Product Manager](https://jobr.pro/job/34984746/supplier-management-specialist-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, Karnataka, India | On Site | Dec 24 |
-| **[Shield AI](https://shield.ai/)** | **[Technical Product Manager (R4243)](https://jobr.pro/job/34926874/technical-product-manager-r4243?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London | On Site | Dec 23 |
-| **[Equity Residential](https://www.equityapartments.com/)** | **[Product Manager, Sales & Customer Experience](https://jobr.pro/job/34962883/product-manager-sales-customer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chicago, IL, United States | On Site | Dec 23 |
+| **[Amazon.com](https://www.amazon.com/)** | **[Senior Product Manager, Amazon Air Speed & Yield Management](https://jobr.pro/job/34985525/senior-product-manager-amazon-air-speed-yield-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bellevue, Washington, USA | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 46 companies | Avg salary: 186k  
+**Current Stats:** 50 jobs | 8% remote | 46 companies | Avg salary: 189k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, analytics, roadmap, stakeholder  
