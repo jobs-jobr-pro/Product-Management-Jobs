@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -19,6 +19,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Teleport](https://teleport.asia/)** | **[Associate Product Manager - Solutions & Platforms](https://jobr.pro/job/34999772/associate-product-manager-solutions-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Gurugram, Haryana, India | On Site | Dec 25 |
 | **[Global Fashion Group](https://www.global-fashion-group.com/)** | **[Senior Product Manager](https://jobr.pro/job/34996965/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ho Chi Minh City | On Site | Dec 25 |
 | **[Nuvei](https://nuvei.com/)** | **[AI & Data Science Senior Product Manager](https://jobr.pro/job/34996278/ai-data-science-senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 25 |
+| **[Roche](https://www.roche.com/)** | **[(Senior) Product Manager - Immunology](https://jobr.pro/job/35010443/senior-product-manager-immunology?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | SHANGHAI, China | On Site | Dec 25 |
+| **[Abbott](https://www.abbott.com/)** | **[＜バスキュラー事業部＞Product Manager](https://jobr.pro/job/35013056/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Japan - Tokyo : Mita South Tower, Minato-ku | On Site | Dec 25 |
+| **[Abbott](https://www.abbott.com/)** | **[Group Product Manager - General Medicine](https://jobr.pro/job/35013046/group-product-manager-general-medicine?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Mumbai : BKC Building | On Site | Dec 25 |
 | **[First Street](https://firststreet.org/)** | **[Lead Product Manager - Enterprise](https://jobr.pro/job/34989898/lead-product-manager-enterprise?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City | On Site | Dec 24 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior IT Product Manager, Ecosystems](https://jobr.pro/job/34985295/senior-it-product-manager-ecosystems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Dec 24 |
 | **[HeyGen](https://www.heygen.com/)** | **[Product Manager, Internship - LiveAvatar](https://jobr.pro/job/34991487/product-manager-internship-liveavatar?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Los Angeles | On Site | Dec 24 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deel](https://www.deel.com/)** | **[Staff Product Manager - Payroll](https://jobr.pro/job/34989737/staff-product-manager-payroll?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | EMEA | Remote | Dec 24 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Product Manager II, Insulin](https://jobr.pro/job/34937815/product-manager-ii-insulin?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, Karnataka, IN | On Site | Dec 24 |
 | **[Cyberark](https://www.cyberark.com)** | **[Senior Product Manager (Privileged Access)](https://jobr.pro/job/34993813/senior-product-manager-privileged-access?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Petah Tikva, Central District, Israel | On Site | Dec 24 |
-| **[Cloudbeds](https://www.cloudbeds.com/)** | **[Product Manager - Integrations](https://jobr.pro/job/34986341/product-manager-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austria | Remote | Dec 24 |
-| **[Bertelsmann](https://www.bertelsmann.com/)** | **[Senior Product Manager (m/w/d) Digital Frontends & UX](https://jobr.pro/job/34932176/senior-product-manager-mwd-digital-frontends-ux?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | München, BY, DE, 81673 | On Site | Dec 24 |
-| **[Merck Group](https://www.merckgroup.com/)** | **[Senior Product Manager - Specialty Care](https://jobr.pro/job/34929002/senior-product-manager-specialty-care?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ho Chi Minh City, Ho Chi Minh, VN, 70000 | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 18% remote | 43 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
