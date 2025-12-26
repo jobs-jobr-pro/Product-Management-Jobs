@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 26, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 26, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -17,8 +17,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Product Manager-Tractors and Farm Equipments (TFE)-Product Manager](https://jobr.pro/job/35020393/product-manager-tractors-and-farm-equipments-tfe-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 26 |
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[HO Product Manager - Household-HO & SUPPORT-HO House Hold](https://jobr.pro/job/35020374/ho-product-manager-household-ho-support-ho-house-hold?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 26 |
 | **[TE Connectivity](https://www.te.com)** | **[PRODUCT MANAGER II](https://jobr.pro/job/35017366/product-manager-ii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | KAWASAKI-SHI KANAGAWA, 14, JP, 213 | On Site | Dec 26 |
-| **[Target](https://www.target.com/)** | **[Sr Product Manager - Roundel](https://jobr.pro/job/35019155/sr-product-manager-roundel?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore,India | On Site | Dec 26 |
 | **[Boeing](https://www.boeing.com/)** | **[Global Compensation and Benefits Product Manager](https://jobr.pro/job/35020603/global-compensation-and-benefits-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - Chicago, IL, United States | On Site | Dec 26 |
+| **[Target](https://www.target.com/)** | **[Sr Product Manager - Roundel](https://jobr.pro/job/35019155/sr-product-manager-roundel?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore,India | On Site | Dec 26 |
+| **[Mastercard](https://www.mastercard.com/)** | **[Product Manager - Technical II](https://jobr.pro/job/35032767/product-manager-technical-ii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pune, India | On Site | Dec 26 |
+| **[BD](https://www.bd.com/)** | **[Product Manager, Clinical Instrument and FlowJo](https://jobr.pro/job/35031041/product-manager-clinical-instrument-and-flowjo?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | JPN Tokyo - Minato-ku, Japan | On Site | Dec 26 |
+| **[Omaze](https://www.omaze.com/)** | **[Product Manager](https://jobr.pro/job/35029309/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Central London, SouthEast WC1, United Kingdom | On Site | Dec 25 |
 | **[JFrog](https://jfrog.com/)** | **[Senior Product Manager - JFrog Security](https://jobr.pro/job/35016727/senior-product-manager-jfrog-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv/ Netanya, Israel | On Site | Dec 25 |
 | **[Droxi](https://www.droxi.ai/)** | **[Product Manager](https://jobr.pro/job/35006840/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boston, MA, US | On Site | Dec 25 |
 | **[Unframe AI](https://www.unframe.ai/)** | **[AI Product Manager](https://jobr.pro/job/35017297/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 25 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sunbit](https://sunbit.com/)** | **[Senior Product Manager - Accounting (B2B)](https://jobr.pro/job/34966561/senior-product-manager-accounting-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Binyamina-Giv'at Ada, Haifa District, IL | On Site | Dec 24 |
 | **[Insense](https://insense.pro/)** | **[Growth Product Manager, Pricing, Monetization & PLG](https://jobr.pro/job/35001781/growth-product-manager-pricing-monetization-plg?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Serbia, Serbia | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Risk Control Strategy Product Manager (Disposal Optimization) - TikTok BRIC Singapore](https://jobr.pro/job/34956284/risk-control-strategy-product-manager-disposal-optimization-tiktok-bric-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Dec 24 |
-| **[bolttech](https://bolttech.com/)** | **[Product Manager](https://jobr.pro/job/35000967/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Korea, Republic of | On Site | Dec 24 |
-| **[Coupang](https://www.coupang.com/)** | **[Senior Product Manager (Catalog)](https://jobr.pro/job/34990948/senior-product-manager-catalog?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Taipei, Taiwan | On Site | Dec 24 |
-| **[Monzo](https://monzo.com/)** | **[Lead Product Manager, New York](https://jobr.pro/job/34991135/lead-product-manager-new-york?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City | Remote | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 41 companies | Avg salary: 177k  
+**Current Stats:** 50 jobs | 16% remote | 41 companies | Avg salary: 174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
