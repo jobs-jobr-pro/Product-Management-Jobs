@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 27, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[沃太能源股份有限公司 AlphaESS](https://www.alphaess.cn/)** | **[Product Manager](https://jobr.pro/job/35057744/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 法兰克福 | On Site | Dec 27 |
 | **[TikTok](https://www.tiktok.com/)** | **[Product Manager Intern \[TikTok-Product-Search Growth\]- 2026 Summer (BS/MS)](https://jobr.pro/job/35044352/product-manager-intern-tiktok-product-search-growth-2026-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, United States | On Site | Dec 27 |
 | **[New Flag GmbH](https://www.new-flag.com/)** | **[Global Brand & Product Manager (m/w/d)](https://jobr.pro/job/35040761/global-brand-product-manager-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | München | On Site | Dec 27 |
 | **[Merck Group](https://www.merckgroup.com/)** | **[Senior Product Manager - Oncology](https://jobr.pro/job/35036211/senior-product-manager-oncology?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Istanbul, Istanbul, TR, 34752 | On Site | Dec 27 |
@@ -20,9 +21,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Johnson Health Tech Companies](https://www.johnsonhealthtech.com/)** | **[Product Manager – Console / Technology](https://jobr.pro/job/35042744/product-manager-console-technology?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cottage Grove, WI, US | On Site | Dec 27 |
 | **[Johnson Health Tech Companies](https://www.johnsonhealthtech.com/)** | **[Assistant Product Manager](https://jobr.pro/job/35042745/assistant-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cottage Grove, WI, US | On Site | Dec 27 |
 | **[Ross Video](https://www.rossvideo.com/)** | **[Senior Product Manager - XPression Technical (Job Req #2025-371)](https://jobr.pro/job/35048687/senior-product-manager-xpression-technical-job-req-2025-371?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ottawa, ON, K2E 1B8, CA | On Site | Dec 27 |
+| **[Salesforce](https://www.salesforce.com/)** | **[Senior Product Manager](https://jobr.pro/job/35056483/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Washington - Seattle, United States | On Site | Dec 27 |
+| **[AA New Zealand](https://www.aa.co.nz/)** | **[Senior Product Manager - Roadservice & Business Membership](https://jobr.pro/job/35056782/senior-product-manager-roadservice-business-membership?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Auckland Support Office - He Ngākau, New Zealand | On Site | Dec 27 |
+| **[Hitachi](https://www.hitachi.com/)** | **[Global Service Product Manager Network Control (f/m/d)](https://jobr.pro/job/35053024/global-service-product-manager-network-control-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | (HE)Office Mannheim New, Germany | On Site | Dec 27 |
 | **[Faire Wholesale, Inc.](https://www.faire.com/)** | **[Senior Product Manager](https://jobr.pro/job/35037241/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | Dec 26 |
 | **[Radiant](https://www.radiantnuclear.com/)** | **[Product Manager, Enterprise Data (Director)](https://jobr.pro/job/35038164/product-manager-enterprise-data-director?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | El Segundo, California, United States | On Site | Dec 26 |
 | **[Experian](https://www.experian.com/)** | **[PRODUCT MANAGER](https://jobr.pro/job/35036564/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bogotá, Colombia | On Site | Dec 26 |
+| **[Félix](https://www.felixpago.com/)** | **[Technical Product Manager - Identity](https://jobr.pro/job/35053570/technical-product-manager-identity?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Argentina | On Site | Dec 26 |
 | **[Unity](https://unity.com/)** | **[Senior Product Manager, LiveOps Services and Runtime Data](https://jobr.pro/job/35037119/senior-product-manager-liveops-services-and-runtime-data?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA, USA | On Site | Dec 26 |
 | **[Unity](https://unity.com/)** | **[Senior Product Manager, AI Runtime Data](https://jobr.pro/job/35037118/senior-product-manager-ai-runtime-data?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA, USA | On Site | Dec 26 |
 | **[Toptal](https://www.toptal.com)** | **[Senior Product Manager, AI - US-Based](https://jobr.pro/job/35034644/senior-product-manager-ai-us-based?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | Remote | Dec 26 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Govini](https://govini.com/)** | **[Senior Product Manager, Logistics Application](https://jobr.pro/job/35017412/senior-product-manager-logistics-application?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Arlington, VA | On Site | Dec 25 |
 | **[FarmWise](https://farmwise.io/)** | **[Product Manager](https://jobr.pro/job/35017048/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA | On Site | Dec 25 |
 | **[EventX](https://www.eventx.io/)** | **[Product Manager (Mid-Level) - EventX](https://jobr.pro/job/35016997/product-manager-mid-level-eventx?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong | On Site | Dec 25 |
-| **[EventX](https://www.eventx.io/)** | **[EventX Hong Kong - Product Manager (Mid-Level)](https://jobr.pro/job/35016996/eventx-hong-kong-product-manager-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong | On Site | Dec 25 |
-| **[Giveth](https://giveth.io/)** | **[General Magic - Product Manager](https://jobr.pro/job/35016946/general-magic-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote job | Remote | Dec 25 |
-| **[Blackhawk Network](https://www.blackhawknetwork.com)** | **[Principal Product Manager (Technology)](https://jobr.pro/job/34995298/principal-product-manager-technology?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pleasanton, CA, United States | On Site | Dec 25 |
-| **[Teleport](https://teleport.asia/)** | **[Associate Product Manager - Solutions & Platforms](https://jobr.pro/job/34999772/associate-product-manager-solutions-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Gurugram, Haryana, India | On Site | Dec 25 |
-| **[Global Fashion Group](https://www.global-fashion-group.com/)** | **[Senior Product Manager](https://jobr.pro/job/34996965/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ho Chi Minh City | On Site | Dec 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 210k  
+**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 217k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
