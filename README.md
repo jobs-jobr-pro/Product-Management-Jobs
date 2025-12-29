@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Salesforce](https://www.salesforce.com/)** | **[Senior Product Manager](https://jobr.pro/job/35056483/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Washington - Seattle, United States | On Site | Dec 27 |
 | **[AA New Zealand](https://www.aa.co.nz/)** | **[Senior Product Manager - Roadservice & Business Membership](https://jobr.pro/job/35056782/senior-product-manager-roadservice-business-membership?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Auckland Support Office - He Ngākau, New Zealand | On Site | Dec 27 |
 | **[Hitachi](https://www.hitachi.com/)** | **[Global Service Product Manager Network Control (f/m/d)](https://jobr.pro/job/35053024/global-service-product-manager-network-control-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | (HE)Office Mannheim New, Germany | On Site | Dec 27 |
+| **[Amazon.com](https://www.amazon.com/)** | **[Principal Product Manager - Technical, Traffic Measurement](https://jobr.pro/job/35059277/principal-product-manager-technical-traffic-measurement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle, Washington, USA | On Site | Dec 27 |
 | **[Faire Wholesale, Inc.](https://www.faire.com/)** | **[Senior Product Manager](https://jobr.pro/job/35037241/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | Dec 26 |
 | **[Radiant](https://www.radiantnuclear.com/)** | **[Product Manager, Enterprise Data (Director)](https://jobr.pro/job/35038164/product-manager-enterprise-data-director?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | El Segundo, California, United States | On Site | Dec 26 |
 | **[Experian](https://www.experian.com/)** | **[PRODUCT MANAGER](https://jobr.pro/job/35036564/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bogotá, Colombia | On Site | Dec 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Abridge](https://www.abridge.com/)** | **[Senior Product Manager](https://jobr.pro/job/35017512/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | SF Office | Remote | Dec 25 |
 | **[Govini](https://govini.com/)** | **[Senior Product Manager, Logistics Application](https://jobr.pro/job/35017412/senior-product-manager-logistics-application?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Arlington, VA | On Site | Dec 25 |
 | **[FarmWise](https://farmwise.io/)** | **[Product Manager](https://jobr.pro/job/35017048/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA | On Site | Dec 25 |
-| **[EventX](https://www.eventx.io/)** | **[Product Manager (Mid-Level) - EventX](https://jobr.pro/job/35016997/product-manager-mid-level-eventx?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hong Kong, Hong Kong | On Site | Dec 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 217k  
+**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 223k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
