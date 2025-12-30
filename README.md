@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -44,6 +44,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Advantech](https://www.advantech.com/en)** | **[Product Manager – AI 加速卡（NPU/GPU）(Embedded/ 林口園區)](https://jobr.pro/job/35097039/product-manager-ai-npugpuembedded-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Linkou, Taiwan | On Site | Dec 29 |
 | **[Advantech](https://www.advantech.com/en)** | **[Product Manager - ARM - OEM/ODM (Embedded/林口園區)](https://jobr.pro/job/35097037/product-manager-arm-oemodm-embedded?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Linkou, Taiwan | On Site | Dec 29 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Product Manager, Index](https://jobr.pro/job/35098102/product-manager-index?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IN - AHMEDABAD, India | On Site | Dec 29 |
+| **[Leidos](https://www.leidos.com/)** | **[Product Manager / Scrum Master](https://jobr.pro/job/35100825/product-manager-scrum-master?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 6314 Remote/Teleworker US, United States | Remote | Dec 29 |
+| **[Capital Group](https://www.capitalgroup.com/)** | **[Institutional Product Manager](https://jobr.pro/job/35101937/institutional-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Los Angeles, United States | On Site | Dec 29 |
 | **[MGT Insurance](https://mgtinsurance.com/)** | **[Sr. Technical Product Manager](https://jobr.pro/job/35066626/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Madison, WI or San Fransisco, CA | On Site | Dec 28 |
 | **[Mob Entertainment](https://mobentertainment.com)** | **[Game Product Manager](https://jobr.pro/job/35066522/game-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Dec 28 |
 | **[Omaze](https://www.omaze.com/)** | **[Product Manager](https://jobr.pro/job/35094671/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Central London, SouthEast WC1, United Kingdom | On Site | Dec 28 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Master-Works](https://master-works.sa)** | **[AI Product Manager](https://jobr.pro/job/35066411/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Dec 28 |
 | **[Bruker](https://www.bruker.com/)** | **[Product Manager - Electron Microscopy](https://jobr.pro/job/35066335/product-manager-electron-microscopy?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | WA, United States | On Site | Dec 28 |
 | **[Silverfin](https://silverfin.com/)** | **[Lead Product Manager/ Senior Product Manager](https://jobr.pro/job/35066262/lead-product-manager-senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ghent | On Site | Dec 28 |
-| **[Trading 212](https://www.trading212.com)** | **[Product Manager](https://jobr.pro/job/35064377/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sofia | On Site | Dec 28 |
-| **[BallerTV](https://www.ballertv.com/)** | **[Senior Product Manager, Consumer Experience](https://jobr.pro/job/35063806/senior-product-manager-consumer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pasadena, CA | On Site | Dec 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 158k  
+**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 165k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
