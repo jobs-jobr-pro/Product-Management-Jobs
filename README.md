@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -32,6 +32,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Jotun](https://www.jotun.com/)** | **[Product Manager - Interior](https://jobr.pro/job/35144353/product-manager-interior?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jeddah, Saudi Arabia | On Site | Dec 30 |
 | **[Barclays](https://home.barclays/)** | **[Liquidity Product Manager](https://jobr.pro/job/35132816/liquidity-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Marina Bay Financial Centre, Singapore | On Site | Dec 30 |
 | **[Institutional Shareholder Services](https://www.issgovernance.com/)** | **[Product Manager: Governance Solutions](https://jobr.pro/job/35157751/product-manager-governance-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, United States | On Site | Dec 30 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Senior Product Manager](https://jobr.pro/job/35160214/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto - 200 Bay Street, Canada | On Site | Dec 30 |
+| **[Rabobank](https://www.rabobank.com/)** | **[Product Manager GenAI - Conversational AI & CRM](https://jobr.pro/job/35161729/product-manager-genai-conversational-ai-crm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Utrecht Croeselaan 18, Netherlands | On Site | Dec 30 |
+| **[PNC](https://www.pnc.com/)** | **[Digital Product Manager Lead](https://jobr.pro/job/35159540/digital-product-manager-lead?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | The Tower at PNC Plaza (PAA86), United States | On Site | Dec 30 |
 | **[PDQ](https://www.pdq.com/)** | **[Product Manager, Billing](https://jobr.pro/job/35123213/product-manager-billing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South Salt Lake, UT | On Site | Dec 29 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 26483\] Data Product Manager, Brazil](https://jobr.pro/job/35107070/job-26483-data-product-manager-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Brazil | On Site | Dec 29 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Product Manager Intern, Cybersecurity](https://jobr.pro/job/35113232/product-manager-intern-cybersecurity?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, USA | On Site | Dec 29 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ONE ZERO Digital Bank](https://www.onezerobank.com/)** | **[Product Manager – Investments](https://jobr.pro/job/35081757/product-manager-investments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 29 |
 | **[monday.com](https://monday.com/)** | **[Lead Product Manager - Boards AI](https://jobr.pro/job/35081104/lead-product-manager-boards-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 29 |
 | **[MAN Energy Solutions](https://www.man-es.com/)** | **[PrimeServ Product Manager - Product Manager, Region Americas](https://jobr.pro/job/35140836/primeserv-product-manager-product-manager-region-americas?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pompano Beach, FL, 33069, USA | On Site | Dec 29 |
-| **[Visa](https://visa.com)** | **[Senior Product Manager - Payments Processing](https://jobr.pro/job/35110907/senior-product-manager-payments-processing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, INDIA, India | On Site | Dec 29 |
-| **[RedCloud](https://redcloudtechnology.com/)** | **[Senior Product Manager - Data](https://jobr.pro/job/35129697/senior-product-manager-data?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, United Kingdom | On Site | Dec 29 |
-| **[vFairs](https://www.vfairs.com)** | **[Product Manager](https://jobr.pro/job/35077128/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lahore, Pakistan | On Site | Dec 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 43 companies | Avg salary: 165k  
+**Current Stats:** 50 jobs | 16% remote | 44 companies | Avg salary: 156k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
