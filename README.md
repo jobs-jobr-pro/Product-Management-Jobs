@@ -1,9 +1,9 @@
 <!-- prettier-ignore-start -->
-# Product manager Jobs 2025
+# Product manager Jobs 2026
 
-<sub><small>Last updated: Dec 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 00:30 UTC</small></sub>
 
-This repository collects curated **Product manager opportunities in 2025**.  
+This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
 
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs) — **you choose the job, we handle the paperwork**.  
@@ -31,6 +31,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Franklin Templeton](https://www.franklintempleton.com/)** | **[Digital Product Manager](https://jobr.pro/job/35201136/digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND-HYNB/1-Hyderabad, India | On Site | Dec 31 |
 | **[Genuine Parts Company](https://www.genpt.com/)** | **[Product Manager Automaterialen](https://jobr.pro/job/35198342/product-manager-automaterialen?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NLD AAG Ede – HQ AAGB, Netherlands | On Site | Dec 31 |
 | **[Workday](https://www.workday.com/)** | **[Senior Product Manager, Authentication](https://jobr.pro/job/35206292/senior-product-manager-authentication?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA, CA, Pleasanton, United States | On Site | Dec 31 |
+| **[GE Vernova](https://www.gevernova.com/)** | **[Senior Product Manager, Telecom - Transmission](https://jobr.pro/job/35213059/senior-product-manager-telecom-transmission?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Massy, France | Remote | Dec 31 |
+| **[GE Vernova](https://www.gevernova.com/)** | **[Senior Product Manager, Telecom - Distribution & Industrial](https://jobr.pro/job/35213056/senior-product-manager-telecom-distribution-industrial?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Massy, France | Remote | Dec 31 |
+| **[President's Choice Financial](https://www.pcfinancial.ca/)** | **[Assistant Product Manager Co-op](https://jobr.pro/job/35213210/assistant-product-manager-co-op?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 500 Lake Shore Blvd W, Toronto, ON, Canada | On Site | Dec 31 |
 | **[R3](https://www.r3.com/)** | **[Senior Product Manager - Yield Vaults](https://jobr.pro/job/35166057/senior-product-manager-yield-vaults?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London | On Site | Dec 30 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr IT Product Manager](https://jobr.pro/job/35174134/sr-it-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, CA, United States | On Site | Dec 30 |
 | **[Nexthink](https://www.nexthink.com)** | **[Senior Product Manager, Platform](https://jobr.pro/job/35177732/senior-product-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Lausanne, VD, Switzerland | On Site | Dec 30 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Visa](https://visa.com)** | **[Product Manager (Non-Technical) – Go-to-Market, Germany with fluent German and English](https://jobr.pro/job/35173688/product-manager-non-technical-go-to-market-germany-with-fluent-german-and-english?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Frankfurt, GERMANY, Germany | On Site | Dec 30 |
 | **[Believe](https://www.believe.com)** | **[Junior Product Manager - Stage](https://jobr.pro/job/35171935/junior-product-manager-stage?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris, France | On Site | Dec 30 |
 | **[TikTok](https://www.tiktok.com/)** | **[Product Manager, Workforce Management, Platform Responsibility](https://jobr.pro/job/35132744/product-manager-workforce-management-platform-responsibility?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Dec 30 |
-| **[HALA](https://hala.com/)** | **[Senior Product Manager](https://jobr.pro/job/35168544/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Riyadh, Riyadh, Saudi Arabia | On Site | Dec 30 |
-| **[BenchSci](https://www.benchsci.com/)** | **[Senior Product Manager – Inference](https://jobr.pro/job/35166933/senior-product-manager-inference?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto, Ontario | On Site | Dec 30 |
-| **[XM Cyber](https://xmcyber.com/)** | **[Senior Product Manager - Cloud Team](https://jobr.pro/job/35143905/senior-product-manager-cloud-team?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 49 companies | Avg salary: 168k  
+**Current Stats:** 50 jobs | 22% remote | 48 companies | Avg salary: 159k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
