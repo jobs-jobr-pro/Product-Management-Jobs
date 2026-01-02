@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 02, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -17,12 +17,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ordr, Inc.](https://ordr.net/)** | **[AI Product Manager](https://jobr.pro/job/35238828/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | California, Santa Clara, United States of America | On Site | Jan 01 |
 | **[TikTok](https://www.tiktok.com/)** | **[Sr Product Manager, TikTok Risk Platform](https://jobr.pro/job/35233122/sr-product-manager-tiktok-risk-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, United States | On Site | Jan 01 |
 | **[Google](https://www.google.com/)** | **[Group Product Manager, SecOps Platform](https://jobr.pro/job/35230967/group-product-manager-secops-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka, India | On Site | Jan 01 |
+| **[Fresenius Group](https://www.fresenius.com/)** | **[Product Manager](https://jobr.pro/job/35240816/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pathumwan, BKK, Thailand | On Site | Jan 01 |
+| **[KLA](https://kla.com/)** | **[Engineering Product Manager](https://jobr.pro/job/35233584/engineering-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ISR-Center District-Yavne-Orbotech LTD, Israel | On Site | Jan 01 |
 | **[Airbus](https://www.airbus.com/)** | **[Satair - Market Product Manager](https://jobr.pro/job/35232517/satair-market-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore (Satair) | On Site | Jan 01 |
 | **[Kody](https://kody.com)** | **[Product Manager - Payment](https://jobr.pro/job/35227239/product-manager-payment?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shenzhen, Guangdong Province, China | On Site | Jan 01 |
 | **[Kody](https://kody.com)** | **[Product Manager - AI](https://jobr.pro/job/35227238/product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Shenzhen, Guangdong Province, China | On Site | Jan 01 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Product Manager Integrated Technologies (m/w/d)](https://jobr.pro/job/35229728/product-manager-integrated-technologies-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | AUT - Vienna, Austria | On Site | Jan 01 |
-| **[Fresenius Group](https://www.fresenius.com/)** | **[Product Manager](https://jobr.pro/job/35240816/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pathumwan, BKK, Thailand | On Site | Jan 01 |
-| **[KLA](https://kla.com/)** | **[Engineering Product Manager](https://jobr.pro/job/35233584/engineering-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | ISR-Center District-Yavne-Orbotech LTD, Israel | On Site | Jan 01 |
 | **[Carrier](https://corporate.carrier.com/)** | **[Trailer Product Manager](https://jobr.pro/job/35241337/trailer-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CAG01: CTD-Athens, 700 Olympic Drive, Athens, GA, 30601 USA, United States | On Site | Jan 01 |
 | **[Carrier](https://corporate.carrier.com/)** | **[HR Technology Product Manager - Workday Core HCM](https://jobr.pro/job/35241268/hr-technology-product-manager-workday-core-hcm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CAFLO: Carrier-Home Florida Remote Location, Remote City, FL, 33412 USA, United States | Remote | Jan 01 |
 | **[Carrier](https://corporate.carrier.com/)** | **[Controls Applications Product Manager](https://jobr.pro/job/35241239/controls-applications-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CAG01: CTD-Athens, 700 Olympic Drive, Athens, GA, 30601 USA, United States | On Site | Jan 01 |
