@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Jan 03, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 04, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[iFIT](https://www.ifit.com/)** | **[Treasury Solutions Product Manager - NYC, NY](https://jobr.pro/job/35303328/treasury-solutions-product-manager-nyc-ny?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Jan 03 |
 | **[AgileEngine](https://agileengine.com/)** | **[Product Manager (AQA experience) ID46355](https://jobr.pro/job/35296496/product-manager-aqa-experience-id46355?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Варна / Varna, Bulgaria | On Site | Jan 03 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Product Manager, Advertising Measurement and Data Science](https://jobr.pro/job/35295549/senior-product-manager-advertising-measurement-and-data-science?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York | On Site | Jan 03 |
 | **[Ambu A/S](https://www.ambu.com)** | **[Global Product Manager, Gastroenterology (downstream)](https://jobr.pro/job/35278721/global-product-manager-gastroenterology-downstream?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ballerup, DK | On Site | Jan 03 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Product Manager (Pickup)](https://jobr.pro/job/35277896/product-manager-pickup?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Jan 02 |
 | **[New Relic](https://newrelic.com/)** | **[Senior Product Manager - R115](https://jobr.pro/job/35254917/senior-product-manager-r115?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hyderabad, India | Remote | Jan 02 |
 | **[New Relic](https://newrelic.com/)** | **[Senior Product Manager - R0000180](https://jobr.pro/job/35254916/senior-product-manager-r0000180?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore, India | Remote | Jan 02 |
-| **[Counsel](https://www.counsel.health/)** | **[Product Manager, Consumer Growth](https://jobr.pro/job/35253764/product-manager-consumer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York Office | On Site | Jan 02 |
 
 ---
 
