@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Jan 14, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 14, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -42,8 +42,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[2K](https://2k.com/)** | **[Senior Product Manager - unannounced IP](https://jobr.pro/job/35990512/senior-product-manager-unannounced-ip?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, Texas, United States; Los Angeles, California, United States; Novato, California, United States | On Site | Jan 14 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Sr. Product Manager - Tech, Leo Logistics Operations Excellence](https://jobr.pro/job/35971613/sr-product-manager-tech-leo-logistics-operations-excellence?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bellevue, Washington, USA | On Site | Jan 14 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Product Manager](https://jobr.pro/job/36003571/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Jan 14 |
-| **[Lifebyte Systems](https://www.lifebyte.io/)** | **[Head of Product Manager](https://jobr.pro/job/36006225/head-of-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Beijing, Beijing Shi, China | On Site | Jan 14 |
 | **[Bupa](https://www.bupa.com/)** | **[Lead IT Product Manager](https://jobr.pro/job/36009289/lead-it-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Central London, United Kingdom | On Site | Jan 14 |
+| **[Lifebyte Systems](https://www.lifebyte.io/)** | **[Head of Product Manager](https://jobr.pro/job/36006225/head-of-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Beijing, Beijing Shi, China | On Site | Jan 14 |
 | **[Lucid Software](https://lucid.co/)** | **[Sr. Product Manager, airfocus](https://jobr.pro/job/35983221/sr-product-manager-airfocus?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Amsterdam, NL | On Site | Jan 13 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Inbound Product Manager \| Security](https://jobr.pro/job/35989484/senior-staff-inbound-product-manager-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | West Palm Beach, Florida, United States | On Site | Jan 13 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Product Manager, Vice President - Customer Acquisition Experiences (CAE)](https://jobr.pro/job/36015637/product-manager-vice-president-customer-acquisition-experiences-cae?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Columbus, OH, United States | On Site | Jan 13 |
