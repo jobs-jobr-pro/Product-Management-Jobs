@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Jan 21, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 21, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -33,11 +33,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CoreWeave](https://www.coreweave.com/)** | **[Staff Product Manager, Identity and Access Management](https://jobr.pro/job/36425984/staff-product-manager-identity-and-access-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Livingston, NJ / New York, NY / San Francisco, CA / Sunnyvale, CA / Bellevue, WA | On Site | Jan 21 |
 | **[Moloco](https://www.moloco.com/)** | **[Group Product Manager, Moloco Ads - Supply Quality](https://jobr.pro/job/36412544/group-product-manager-moloco-ads-supply-quality?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Menlo Park, California, United States; New York, United States; Seattle, Washington, United States | On Site | Jan 21 |
 | **[Parallel Systems](https://moveparallel.com/)** | **[Senior Product Manager](https://jobr.pro/job/36413444/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Los Angeles, CA | On Site | Jan 21 |
-| **[Ingram Micro](https://www.ingrammicro.com/)** | **[Product Manager - Lenovo ISG](https://jobr.pro/job/36446431/product-manager-lenovo-isg?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Saudi Arabia | On Site | Jan 21 |
-| **[Faro Health Inc.](https://farohealth.com/)** | **[Technical Product Manager - Platform & Integrations](https://jobr.pro/job/36444524/technical-product-manager-platform-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | California, United States - Remote | Remote | Jan 21 |
 | **[Arctic Wolf](https://arcticwolf.com/)** | **[Product Manager](https://jobr.pro/job/36442686/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Office - IND - Karnataka, Bengaluru, India | On Site | Jan 21 |
 | **[Auckland Council](https://www.aucklandcouncil.govt.nz/)** | **[Product Manager](https://jobr.pro/job/36426321/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | NZ, 1010 | On Site | Jan 21 |
 | **[Lubrizol Corporation](https://www.lubrizol.com/)** | **[Product Manager - IMEA](https://jobr.pro/job/36436005/product-manager-imea?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Turbhe, Navi Mumbai, MH, IN, 400703 | On Site | Jan 21 |
+| **[Faro Health Inc.](https://farohealth.com/)** | **[Technical Product Manager - Platform & Integrations](https://jobr.pro/job/36444524/technical-product-manager-platform-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | California, United States - Remote | Remote | Jan 21 |
+| **[Ingram Micro](https://www.ingrammicro.com/)** | **[Product Manager - Lenovo ISG](https://jobr.pro/job/36446431/product-manager-lenovo-isg?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Saudi Arabia | On Site | Jan 21 |
 | **[Canva](https://www.canva.com)** | **[Product Manager - AdTech](https://jobr.pro/job/36429044/product-manager-adtech?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, Australia | On Site | Jan 20 |
 | **[AngelList](https://www.angellist.com/)** | **[Product Manager, Meridian](https://jobr.pro/job/36412534/product-manager-meridian?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | Jan 20 |
 | **[Cloudflare, Inc.](https://www.cloudflare.com/)** | **[Senior Product Manager, Application Performance](https://jobr.pro/job/36426925/senior-product-manager-application-performance?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid | Remote | Jan 20 |
