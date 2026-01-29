@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Jan 29, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 29, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -61,12 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Chime](https://www.chime.com/)** | **[Product Manager – MyPay](https://jobr.pro/job/36975670/product-manager-mypay?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | Remote | Jan 29 |
 | **[Zuora](https://www.zuora.com/)** | **[Product Manager, Payments](https://jobr.pro/job/36956777/product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - United States | Remote | Jan 29 |
 | **[Windfall](https://www.windfall.com/)** | **[Senior Product Manager](https://jobr.pro/job/36955174/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco or Denver | On Site | Jan 29 |
-| **[Supermicro](https://www.supermicro.com)** | **[Sr. Product Manager, Rack Solution](https://jobr.pro/job/36968067/sr-product-manager-rack-solution?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chungho, Taiwan, TW | On Site | Jan 29 |
-| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Product Manager - Payments Acceptance](https://jobr.pro/job/36964626/product-manager-payments-acceptance?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Jan 29 |
+| **[Airbus](https://www.airbus.com/)** | **[Airbus Atlantic - IT ERP Product Manager SAP Planification (All Gender)](https://jobr.pro/job/37015160/airbus-atlantic-it-erp-product-manager-sap-planification-all-gender?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Colomiers Skypark (ex-Stelia), France | On Site | Jan 29 |
+| **[Airbus](https://www.airbus.com/)** | **[Technical Product Manager, AI/Analytics (d/f/m)](https://jobr.pro/job/37015058/technical-product-manager-aianalytics-dfm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Manching, Germany | On Site | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 36 companies | Avg salary: 259k  
+**Current Stats:** 50 jobs | 6% remote | 35 companies | Avg salary: 259k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
