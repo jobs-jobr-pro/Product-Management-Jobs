@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[PetIQ](https://petiq.com/)** | **[Product Manager (Remote)](https://jobr.pro/job/37101452/product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Oak Brook, IL, United States | Remote | Jan 30 |
 | **[Blackwoods](https://www.blackwoods.com.au/)** | **[Product Manager - Greystanes](https://jobr.pro/job/37098972/product-manager-greystanes?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Greystanes, NSW, AU | On Site | Jan 30 |
 | **[Parvana](https://www.parvana.co.uk)** | **[Product Manager](https://jobr.pro/job/37091572/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cape Town, South Africa | On Site | Jan 30 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Data Storage Managed Services Technical Product Manager - CTO Office](https://jobr.pro/job/37085267/data-storage-managed-services-technical-product-manager-cto-office?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York | On Site | Jan 30 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Medtronic](https://www.medtronic.com/)** | **[RGI_Associate Product Manager](https://jobr.pro/job/37037467/rgiassociate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CHN-31 Shanghai Dong Yu Road, China | On Site | Jan 30 |
 | **[GSK](https://www.gsk.com/)** | **[Platform Product Manager - Enterprise Hosting Services](https://jobr.pro/job/37063645/platform-product-manager-enterprise-hosting-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru Luxor North Tower, India | On Site | Jan 30 |
 | **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Senior Product Manager - A26032](https://jobr.pro/job/37073147/senior-product-manager-a26032?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Jan 30 |
-| **[Barclays](https://home.barclays/)** | **[AVP - Product Manager](https://jobr.pro/job/37070713/avp-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Gurugram, Block 4, DLF Downtown, India | On Site | Jan 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 37 companies | Avg salary: 239k  
+**Current Stats:** 50 jobs | 14% remote | 37 companies | Avg salary: 239k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
