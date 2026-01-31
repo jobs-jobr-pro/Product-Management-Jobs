@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -53,6 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[FranConnect](https://www.franconnect.com/)** | **[Senior Product Manager - Integrations](https://jobr.pro/job/37074943/senior-product-manager-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Herndon, VA, US | On Site | Jan 30 |
 | **[Learneo](https://www.learneo.com/)** | **[Senior Product Manager, New Tools](https://jobr.pro/job/37043472/senior-product-manager-new-tools?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Remote | Remote | Jan 30 |
 | **[QuillBot](https://quillbot.com/)** | **[Senior Product Manager, New Tools](https://jobr.pro/job/37053842/senior-product-manager-new-tools?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India - Remote | Remote | Jan 30 |
+| **[Bikeleasing-Service](https://bikeleasing.de/)** | **[Digital Product Manager (gn)](https://jobr.pro/job/37120652/digital-product-manager-gn?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | München | On Site | Jan 30 |
 | **[Gridware](https://www.gridware.com.au/)** | **[Senior Product Manager, Manufacturing Systems](https://jobr.pro/job/37044553/senior-product-manager-manufacturing-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | Jan 30 |
 | **[Tubi](https://tubitv.com/)** | **[Associate Product Manager](https://jobr.pro/job/37054221/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA (Hybrid) | Remote | Jan 30 |
 | **[Myriad Genetics](https://www.myriad.com/)** | **[Product Manager III Technology - (Remote-USA)](https://jobr.pro/job/37094203/product-manager-iii-technology-remote-usa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Salt Lake City, UT, United States | Remote | Jan 30 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Amazon.com](https://www.amazon.com/)** | **[Sr Product Manager - Tech , Leo BizOps, Amazon Leo](https://jobr.pro/job/37038074/sr-product-manager-tech-leo-bizops-amazon-leo?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Redmond, Washington, USA | On Site | Jan 30 |
 | **[Medtronic](https://www.medtronic.com/)** | **[RGI_Associate Product Manager](https://jobr.pro/job/37037467/rgiassociate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | CHN-31 Shanghai Dong Yu Road, China | On Site | Jan 30 |
 | **[GSK](https://www.gsk.com/)** | **[Platform Product Manager - Enterprise Hosting Services](https://jobr.pro/job/37063645/platform-product-manager-enterprise-hosting-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru Luxor North Tower, India | On Site | Jan 30 |
-| **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Senior Product Manager - A26032](https://jobr.pro/job/37073147/senior-product-manager-a26032?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore, Singapore | On Site | Jan 30 |
 
 ---
 
