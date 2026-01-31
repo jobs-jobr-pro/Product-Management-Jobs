@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Sr. Product Manager - Tax](https://jobr.pro/job/37182115/sr-product-manager-tax?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pasadena, CA, United States | On Site | Jan 31 |
 | **[TikTok](https://www.tiktok.com/)** | **[Product Manager, User Growth - USDS](https://jobr.pro/job/37165606/product-manager-user-growth-usds?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, United States | On Site | Jan 31 |
 | **[Google](https://www.google.com/)** | **[Product Manager, Google Compute Engine](https://jobr.pro/job/37162036/product-manager-google-compute-engine?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Warsaw, Poland | On Site | Jan 31 |
 | **[Google](https://www.google.com/)** | **[Product Manager, AI, Measurement and Optimization](https://jobr.pro/job/37161998/product-manager-ai-measurement-and-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA, USA | On Site | Jan 31 |
@@ -34,8 +35,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sprout Social](https://sproutsocial.com/)** | **[Principal Product Manager - AI](https://jobr.pro/job/37133913/principal-product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote Canada | Remote | Jan 31 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Product Manager Data and AI](https://jobr.pro/job/37167515/product-manager-data-and-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NY, United States | On Site | Jan 31 |
 | **[Headspace](https://headspace.com)** | **[Principal Product Manager, LLM Innovation](https://jobr.pro/job/37134635/principal-product-manager-llm-innovation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - New York City, NY; Remote - Seattle, WA; San Francisco - Hybrid | Remote | Jan 31 |
-| **[Gartner](https://www.gartner.com/)** | **[Sr. Product Manager](https://jobr.pro/job/37163472/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Irving - 6011 Connection, United States | On Site | Jan 31 |
 | **[Kaseware](https://www.kaseware.com)** | **[Product Manager](https://jobr.pro/job/37168150/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Denver, Colorado, United States | On Site | Jan 31 |
+| **[Gartner](https://www.gartner.com/)** | **[Sr. Product Manager](https://jobr.pro/job/37163472/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Irving - 6011 Connection, United States | On Site | Jan 31 |
 | **[Carbon Robotics](https://carbonrobotics.com/)** | **[Sr. Product Manager](https://jobr.pro/job/37125957/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle, WA | On Site | Jan 30 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Expense Allocation Product Manager](https://jobr.pro/job/37167541/expense-allocation-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Plano, TX, United States | On Site | Jan 30 |
 | **[ERG](https://www.erg.com)** | **[Product Manager/Generalist - Product Impact (pi)](https://jobr.pro/job/37129293/product-managergeneralist-product-impact-pi?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Concord, MA | On Site | Jan 30 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BetterHelp](https://www.betterhelp.com/)** | **[Senior Product Manager - Client Growth](https://jobr.pro/job/37136716/senior-product-manager-client-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US - Remote | Remote | Jan 30 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Product Manager, Shopping Experience](https://jobr.pro/job/37139871/senior-product-manager-shopping-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | Jan 30 |
 | **[GitLab](https://about.gitlab.com/)** | **[Senior Product Manager, Dedicated](https://jobr.pro/job/37140283/senior-product-manager-dedicated?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, Ireland; Remote, Netherlands; Remote, United Kingdom | Remote | Jan 30 |
-| **[Field AI](https://fieldai.com)** | **[3.55 Senior Product Manager, Construction](https://jobr.pro/job/37126324/355-senior-product-manager-construction?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Irvine, CA | On Site | Jan 30 |
 
 ---
 
