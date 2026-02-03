@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Feb 03, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Amazon.com](https://www.amazon.com/)** | **[Sr. Product Manager - Tech, Customer Purchase Journey](https://jobr.pro/job/37244488/sr-product-manager-tech-customer-purchase-journey?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle, Washington, USA | On Site | Feb 03 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Sr. Digital Product Manager- Physical AI](https://jobr.pro/job/37228751/sr-digital-product-manager-physical-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - Nationwide, United States | Remote | Feb 02 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Sr. Product Manager- AI Native Engineering](https://jobr.pro/job/37228739/sr-product-manager-ai-native-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - Nationwide, United States | Remote | Feb 02 |
+| **[Voyage Privé](https://www.voyage-prive.com)** | **[Product Manager - Mobile App - Full Remote or Hybrid (m/f/d)](https://jobr.pro/job/37243057/product-manager-mobile-app-full-remote-or-hybrid-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France | Remote | Feb 02 |
 | **[SolarEdge](https://www.solaredge.com/)** | **[Product Manager - AI Data Center Power Platforms](https://jobr.pro/job/37224442/product-manager-ai-data-center-power-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Modi'in, Center District, IL | On Site | Feb 02 |
 | **[monday.com](https://monday.com/)** | **[Senior AI Product Manager - Vibe](https://jobr.pro/job/37224310/senior-ai-product-manager-vibe?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Feb 02 |
 | **[Cyera](https://www.cyera.io/)** | **[Product Manager](https://jobr.pro/job/37225132/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Feb 02 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SWAROVSKI](https://www.swarovski.com/)** | **[(Senior) Product Manager Crystal Pearls & Jewelry Components (f/m/d)](https://jobr.pro/job/37222797/senior-product-manager-crystal-pearls-jewelry-components-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Wattens, AUT, Austria | On Site | Feb 02 |
 | **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[AI Technical Product Manager II - Supply Chain Operations](https://jobr.pro/job/37225451/ai-technical-product-manager-ii-supply-chain-operations?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - PA - Remote, United States | Remote | Feb 02 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Technical Product Manager - Kubernetes and Containers](https://jobr.pro/job/37237552/technical-product-manager-kubernetes-and-containers?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ft. Collins, Colorado, United States of America | On Site | Feb 02 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Principal Product Manager - Core Platform](https://jobr.pro/job/37237550/principal-product-manager-core-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | All, Washington, United States of America | On Site | Feb 02 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Principal Technical Product Manager](https://jobr.pro/job/37237539/principal-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ft. Collins, Colorado, United States of America | On Site | Feb 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 38 companies | Avg salary: 186k  
+**Current Stats:** 50 jobs | 14% remote | 40 companies | Avg salary: 161k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, scrum, user research, analytics, roadmap  
