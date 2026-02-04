@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Feb 03, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 04, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -20,6 +20,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JLL](https://www.jll.com/)** | **[Assistant Engineering Manager](https://jobr.pro/job/37324949/assistant-engineering-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | JPN-CORP Tokyo-Tokyo Garden Terrace Kioicho, Japan | On Site | Feb 04 |
 | **[JLL](https://www.jll.com/)** | **[Senior Engineering Manager](https://jobr.pro/job/37324933/senior-engineering-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | JPN-CORP Tokyo-Tokyo Garden Terrace Kioicho, Japan | On Site | Feb 04 |
 | **[JLL](https://www.jll.com/)** | **[Account Manager](https://jobr.pro/job/37324923/account-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | JPN-CORP Tokyo-Tokyo Garden Terrace Kioicho, Japan | On Site | Feb 04 |
+| **[Rolls-Royce](https://www.rolls-royce.com/)** | **[Product Owner Diasys (m/w/d)](https://jobr.pro/job/37335461/product-owner-diasys-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Friedrichshafen (EU01001008), Germany | On Site | Feb 04 |
+| **[Rolls-Royce](https://www.rolls-royce.com/)** | **[Product Owner Custom Solutions (m/w/d)](https://jobr.pro/job/37335460/product-owner-custom-solutions-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Friedrichshafen (EU01001008), Germany | On Site | Feb 04 |
+| **[Comcast](https://corporate.comcast.com/)** | **[Project Manager 3 (Hybrid - Nightshift)](https://jobr.pro/job/37334237/project-manager-3-hybrid-nightshift?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Philippines - Pasig City, Ortigas Center Glas Tower | On Site | Feb 04 |
+| **[Westpac](https://www.westpac.co.nz/)** | **[Mobile Lending Manager - Wellington](https://jobr.pro/job/37336387/mobile-lending-manager-wellington?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hapori Pōneke, New Zealand | On Site | Feb 04 |
+| **[Mammotion](https://mammotion.com/)** | **[Marketing Manager](https://jobr.pro/job/37331431/marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chino | On Site | Feb 03 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[Senior Manager of Smart Cockpit Products/智能座舱产品资深经理](https://jobr.pro/job/37330068/senior-manager-of-smart-cockpit-products?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 慕尼黑 | On Site | Feb 03 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[Sr. Sales Manager - Mexico](https://jobr.pro/job/37329366/sr-sales-manager-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 墨西哥城 | On Site | Feb 03 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[Sr. Aftersales Manager - Mexico](https://jobr.pro/job/37329364/sr-aftersales-manager-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 墨西哥城 | On Site | Feb 03 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ADP](https://www.adp.com/)** | **[Digital Sales District Manager](https://jobr.pro/job/37321846/digital-sales-district-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Barcelona, esp-, Spain | On Site | Feb 03 |
 | **[ADP](https://www.adp.com/)** | **[Major Accounts Sales District Manager](https://jobr.pro/job/37321840/major-accounts-sales-district-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Denver, CO, United States | On Site | Feb 03 |
 | **[IICRC](https://iicrc.org/)** | **[Construction Project Manager](https://jobr.pro/job/37327083/construction-project-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Jackson, MI, US | On Site | Feb 03 |
-| **[ADP](https://www.adp.com/)** | **[Major Accounts Sales Associate District Manager](https://jobr.pro/job/37321833/major-accounts-sales-associate-district-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pleasanton, CA, United States | On Site | Feb 03 |
-| **[ADP](https://www.adp.com/)** | **[Director – Client Services and Product Support, Employment Tax](https://jobr.pro/job/37321830/director-client-services-and-product-support-employment-tax?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Maitland, FL, United States | On Site | Feb 03 |
-| **[ADP](https://www.adp.com/)** | **[VAR Sales District Manager](https://jobr.pro/job/37321823/var-sales-district-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IL Home Office, IL, United States | On Site | Feb 03 |
-| **[ADP](https://www.adp.com/)** | **[3 (16) Relationship Manager](https://jobr.pro/job/37321807/3-16-relationship-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Florham Park, NJ, United States | On Site | Feb 03 |
-| **[ID Logistics](https://www.id-logistics.com/)** | **[Manufacturing Maintenance Manager](https://jobr.pro/job/37321763/manufacturing-maintenance-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Country Hills, IL, United States | On Site | Feb 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 15 companies | Avg salary: 3963k  
+**Current Stats:** 50 jobs | 0% remote | 18 companies | Avg salary: 3956k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, user research, analytics, roadmap, stakeholder  
