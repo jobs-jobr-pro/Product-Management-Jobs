@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Feb 04, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 05, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[MSD](https://www.msd.com/)** | **[Regional Sales Manager, South Region](https://jobr.pro/job/37426024/regional-sales-manager-south-region?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | AUS - New South Wales - Macquarie Park, Australia | On Site | Feb 05 |
+| **[Boeing](https://www.boeing.com/)** | **[Senior Manager, BDI Support Engineering](https://jobr.pro/job/37425370/senior-manager-bdi-support-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | IND - New Delhi, India | On Site | Feb 05 |
+| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Marketing Manager - Asia Pacific](https://jobr.pro/job/37424383/marketing-manager-asia-pacific?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Feb 05 |
+| **[EML Group](https://www.eml.com.au/)** | **[Group Manager](https://jobr.pro/job/37424174/group-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Melbourne Bourke, Australia | On Site | Feb 05 |
+| **[XPENG](https://www.xiaopeng.com/)** | **[Country Manager - Denmark](https://jobr.pro/job/37420952/country-manager-denmark?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hillerød | On Site | Feb 04 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Procurement Manager](https://jobr.pro/job/37418641/procurement-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 班加罗尔 | On Site | Feb 04 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[New retail Store operation manager/新零售门店运营-零售专项](https://jobr.pro/job/37417858/new-retail-store-operation-manager-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 曼谷 | On Site | Feb 04 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[New retail categories operation manager/新零售品类运营-零售专项](https://jobr.pro/job/37417849/new-retail-categories-operation-manager-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 曼谷 | On Site | Feb 04 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Crestline Hotels & Resorts](https://www.crestlinehotels.com/)** | **[Front Office Manager](https://jobr.pro/job/37410476/front-office-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Virginia Beach, VA, US | On Site | Feb 04 |
 | **[Crestline Hotels & Resorts](https://www.crestlinehotels.com/)** | **[Catering Sales Manager](https://jobr.pro/job/37410473/catering-sales-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tuscaloosa, AL, US | On Site | Feb 04 |
 | **[Crestline Hotels & Resorts](https://www.crestlinehotels.com/)** | **[Assistant General Manager](https://jobr.pro/job/37410472/assistant-general-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Syracuse, NY, US | On Site | Feb 04 |
-| **[ATI](https://www.atimetals.com/)** | **[Product Engineer II](https://jobr.pro/job/37410413/product-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Monroe, NC, United States | On Site | Feb 04 |
-| **[FOREO](https://www.foreo.com/)** | **[Business Development Manager](https://jobr.pro/job/37410335/business-development-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Warsaw, Poland | On Site | Feb 04 |
-| **[Springwood Hospitality](https://www.springwoodhospitality.com/)** | **[Area Sales Manager](https://jobr.pro/job/37410314/area-sales-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hershey, PA, US | On Site | Feb 04 |
-| **[Food King](https://www.foodkingcostplus.com/)** | **[Front End Manager](https://jobr.pro/job/37410299/front-end-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dilley, TX, US | On Site | Feb 04 |
-| **[Pizza Ranch](https://www.pizzaranch.com/)** | **[Assistant General Manager](https://jobr.pro/job/37410243/assistant-general-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Denison, IA, US | On Site | Feb 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 24 companies | Avg salary: 98k  
+**Current Stats:** 50 jobs | 2% remote | 24 companies | Avg salary: 83k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, stakeholder, strategy, metrics  
