@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Feb 05, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 06, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -14,6 +14,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Evonik](https://www.evonik.com/)** | **[Team Manager Enterprise AI](https://jobr.pro/job/37499471/team-manager-enterprise-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore - Int. Business Park | On Site | Feb 06 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Senior Manager (HR Business Partnering - Grassroots)](https://jobr.pro/job/37512161/senior-manager-hr-business-partnering-grassroots?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | PAS-Peoples Association Headquarters, Singapore | On Site | Feb 06 |
+| **[Valmet](https://www.valmet.com/)** | **[Process Development Manager, Logistics and Material Management](https://jobr.pro/job/37511230/process-development-manager-logistics-and-material-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Vantaa, Lauri Korpisen katu, Finland | On Site | Feb 06 |
+| **[WEX](https://www.wexinc.com/)** | **[Funding Engineering Manager](https://jobr.pro/job/37512776/funding-engineering-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Australia Collins St. Melbourne Office | On Site | Feb 06 |
 | **[Orangetheory Fitness](https://www.orangetheory.com/)** | **[Studio Manager](https://jobr.pro/job/37507298/studio-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mcallen, TX, US | On Site | Feb 05 |
 | **[Heights Wellness Retreat](https://www.heightswellnessretreat.com/)** | **[Guest Experience Manager](https://jobr.pro/job/37506839/guest-experience-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, GA, US | On Site | Feb 05 |
 | **[Wendy's](https://www.wendys.com/)** | **[SHIFT MANAGER](https://jobr.pro/job/37502292/shift-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Westland, MI, US | On Site | Feb 05 |
@@ -60,16 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Dunkin - HZ Coffee Group](https://www.dunkindonuts.com/)** | **[Restaurant Manager](https://jobr.pro/job/37500887/restaurant-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Miami, FL, US | On Site | Feb 05 |
 | **[Dunkin - HZ Coffee Group](https://www.dunkindonuts.com/)** | **[Multi Unit Restaurant Manager](https://jobr.pro/job/37500861/multi-unit-restaurant-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Miami, FL, US | On Site | Feb 05 |
 | **[Arby's](https://www.arbys.com/)** | **[Shift Manager](https://jobr.pro/job/37500652/shift-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Charleston, WV, US | On Site | Feb 05 |
-| **[Albany International](https://www.albint.com/)** | **[USG Property Manager](https://jobr.pro/job/37500636/usg-property-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Salt Lake City, UT, United States | On Site | Feb 05 |
-| **[Decathlon Lietuva](https://www.decathlon.lt/)** | **[Team Leader / Department Manager](https://jobr.pro/job/37500564/team-leader-department-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Klaipeda, Lietuva | On Site | Feb 05 |
-| **[Mplus](https://mplusgroup.eu/)** | **[Procurement Manager](https://jobr.pro/job/37500553/procurement-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Belgrade, Srbija (Remote) | Remote | Feb 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 32 companies | Avg salary: 72k  
+**Current Stats:** 50 jobs | 2% remote | 32 companies | Avg salary: 75k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** agile, analytics, stakeholder, strategy, metrics  
+**Trending Skills:** agile, analytics, roadmap, stakeholder, strategy  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
