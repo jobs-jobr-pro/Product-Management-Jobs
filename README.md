@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: May 02, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 03, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unframe](https://un-framed.co.za)** | **[Senior Product Analyst](https://jobr.pro/job/40594456/senior-product-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 03 |
+| **[Unframe](https://un-framed.co.za)** | **[AI Product Manager](https://jobr.pro/job/40594454/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 03 |
+| **[Unframe](https://un-framed.co.za)** | **[Group Product Manager – Product Growth](https://jobr.pro/job/40594455/group-product-manager-product-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 03 |
+| **[BJAK](https://bjak.my/en/about-us)** | **[Lead Technical Recruiter, Product & Engineering](https://jobr.pro/job/40590431/lead-technical-recruiter-product-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | China | Remote | May 03 |
+| **[Front](https://front.com/)** | **[Product Manager](https://jobr.pro/job/40584368/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santiago, Chile | Remote | May 02 |
+| **[Lightspeed](https://www.lightspeedhq.com/)** | **[Senior Product Manager](https://jobr.pro/job/40582675/senior-product-manager-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Yerevan | Remote | May 02 |
 | **[Everpure](https://purestorage.com)** | **[Principal Product Manager, FB Foundation](https://jobr.pro/job/40577556/principal-product-manager-fb-foundation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, California | On Site | May 02 |
 | **[Everpure](https://purestorage.com)** | **[Sr. Manager of Product Management, Data Protection](https://jobr.pro/job/40577562/sr-manager-of-product-management-data-protection?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, California | On Site | May 02 |
 | **[Everpure](https://purestorage.com)** | **[Sr. Product Manager, Data Protection](https://jobr.pro/job/40577563/sr-product-manager-data-protection?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, California | On Site | May 02 |
@@ -23,6 +29,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hudu](https://hudu.com)** | **[Product Manager](https://jobr.pro/job/40573596/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | Remote | May 01 |
 | **[Unknown Company](https://peek.com)** | **[Product Designer](https://jobr.pro/job/40572406/product-designer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mexico | Remote | May 01 |
 | **[Front](https://front.com/)** | **[Senior Product Manager, CPX](https://jobr.pro/job/40573317/senior-product-manager-cpx-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | May 01 |
+| **[VeSync](https://vesync.com)** | **[Senior Product Designer](https://jobr.pro/job/40589961/senior-product-designer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tustin, CA | On Site | May 01 |
 | **[Unknown Company](https://openai.com/)** | **[Product Manager, Premium Subscriptions](https://jobr.pro/job/40574571/product-manager-premium-subscriptions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | On Site | May 01 |
 | **[Life360]()** | **[Sr. Product Designer, Growth](https://jobr.pro/job/40578913/sr-product-designer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, USA | Remote | May 01 |
 | **[Braze](https://braze.com)** | **[Lead Product Analyst](https://jobr.pro/job/40572312/lead-product-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin | On Site | May 01 |
@@ -37,8 +44,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nebius](https://nebius.ai)** | **[Senior Technical Product Manager - Serverless AI](https://jobr.pro/job/40569959/senior-technical-product-manager-serverless-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Amsterdam, Netherlands; Remote - Europe; Remote - United States | Remote | May 01 |
 | **[Flex](https://withflex.com)** | **[Product Designer](https://jobr.pro/job/40577224/product-designer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | Remote | May 01 |
 | **[Horace Mann]()** | **[VP P&C State Product Management](https://jobr.pro/job/40573315/vp-pc-state-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | May 01 |
+| **[Empower Pharmacy](https://empowerpharmacy.com)** | **[Principal Technical Product Manager](https://jobr.pro/job/40583696/principal-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | US Remote | Remote | May 01 |
 | **[Waymo](https://waymo.com)** | **[Group Product Manager, Fleet & Event Response](https://jobr.pro/job/40571052/group-product-manager-fleet-event-response?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Mountain View, CA, US, San Francisco, CA, US | On Site | May 01 |
 | **[WunderGraph](https://wundergraph.com)** | **[Product Delivery Lead](https://jobr.pro/job/40573882/product-delivery-lead?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | EMEA | Remote | May 01 |
+| **[Gusto, Inc.](https://gusto.com)** | **[Senior Product Manager, Web Experiences](https://jobr.pro/job/40584280/senior-product-manager-web-experiences?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | May 01 |
 | **[SKELAR — your partner in building a global tech company](https://www.skelar.tech)** | **[Senior Product Analyst - Relatio](https://jobr.pro/job/40572037/senior-product-analyst-relatio?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ukraine, Remote | Remote | May 01 |
 | **[Klaviyo](https://klaviyo.com)** | **[Product Owner, GTM Sales Systems](https://jobr.pro/job/40569651/product-owner-gtm-sales-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | May 01 |
 | **[SKELAR — your partner in building a global tech company](https://www.skelar.tech)** | **[Product Marketing Lead / Growth Lead - Headquarter](https://jobr.pro/job/40572035/product-marketing-lead-growth-lead-headquarter?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kyiv | Remote | May 01 |
@@ -52,21 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Checkout](https://www.checkout.com/)** | **[Product Manager, Client Settlements](https://jobr.pro/job/40569874/product-manager-client-settlements?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London | On Site | May 01 |
 | **[Happl](http://www.happl.com)** | **[Product Manager](https://jobr.pro/job/40571621/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London | Remote | May 01 |
 | **[Unity Technologies]()** | **[Senior Technical Product Manager, Pipeline Applications & Collaboration](https://jobr.pro/job/40578631/senior-technical-product-manager-pipeline-applications-collaboration?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, United Kingdom | Remote | May 01 |
+| **[Build and Grow Your App Business – RevenueCat](https://www.revenuecat.com/)** | **[Senior Product Manager, Funnels/Workflow](https://jobr.pro/job/40582129/senior-product-manager-funnelsworkflow?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Americas | Remote | May 01 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[Product Manager](https://jobr.pro/job/40571179/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Indonesia | Remote | May 01 |
-| **[Udemy](https://udemy.com)** | **[Principal Product Designer](https://jobr.pro/job/40568894/principal-product-designer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | May 01 |
-| **[BEDI Partnerships]()** | **[Principal Product Designer](https://jobr.pro/job/40565188/principal-product-designer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | May 01 |
-| **[Udemy](https://udemy.com)** | **[Principal Product Manager, Partnerships](https://jobr.pro/job/40568895/principal-product-manager-partnerships?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | May 01 |
-| **[Hinge Health](https://www.hingehealth.com/)** | **[Senior Product Designer, Accounts & Plans](https://jobr.pro/job/40565187/senior-product-designer-accounts-plans?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco-HQ | Remote | May 01 |
-| **[Sierra](https://sierra.ai/)** | **[Product Manager, Infrastructure](https://jobr.pro/job/40569568/product-manager-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | May 01 |
-| **[Archer]()** | **[Senior Integrated Product Team (IPT) Quality Lead - (SJ2026YS)](https://jobr.pro/job/40581175/senior-integrated-product-team-ipt-quality-lead-sj2026ys?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, United States | On Site | May 01 |
-| **[Airwallex SG](https://www.airwallex.com)** | **[Director of Product Design - Business Accounts](https://jobr.pro/job/40564052/director-of-product-design-business-accounts?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | SG - Singapore | On Site | Apr 30 |
-| **[Airwallex SG](https://www.airwallex.com)** | **[Director of Product Design - Developer Platform](https://jobr.pro/job/40564053/director-of-product-design-developer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | SG - Singapore | On Site | Apr 30 |
-| **[Airwallex SG](https://www.airwallex.com)** | **[Director of Product Design - Payments](https://jobr.pro/job/40564050/director-of-product-design-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | UK - London | Remote | Apr 30 |
-| **[Seekr](https://seekr.com)** | **[Senior Director Technical Product Management, Neocloud and Data Center](https://jobr.pro/job/40575313/senior-director-technical-product-management-neocloud-and-data-center?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, Texas, United States; Reston, Virginia, United States | On Site | Apr 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 39 companies | Avg salary: 1.0241390551733449e+169k  
+**Current Stats:** 50 jobs | 54% remote | 37 companies | Avg salary: 1.2375013583344582e+139k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
