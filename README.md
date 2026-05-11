@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 11, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Qualdoc](https://qualdoc.com)** | **[Technical Project Manager – Process Engineering & Product Transfer](https://jobr.pro/job/40710368/technical-project-manager-process-engineering-product-transfer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Henrico, VA | On Site | May 11 |
+| **[Agoda](https://agoda.com)** | **[Senior Product Manager (SG-based)](https://jobr.pro/job/40705706/senior-product-manager-sg-based-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore | On Site | May 11 |
+| **[Emaratech 2]()** | **[Senior Product Owner (Arabic Speakers)](https://jobr.pro/job/40713133/senior-product-owner-arabic-speakers?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | May 11 |
+| **[Pavago](https://pavago.co)** | **[Product Marketing & GTM Lead](https://jobr.pro/job/40708393/product-marketing-gtm-lead?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pakistan | Remote | May 11 |
+| **[Buyers Edge Platform, LLC]()** | **[Sr. Manager, Product Design](https://jobr.pro/job/40710710/sr-manager-product-design?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remotely based | Remote | May 10 |
+| **[Uniti AI](https://getuniti.com)** | **[Senior Product Designer (UI/UX)](https://jobr.pro/job/40710182/senior-product-designer-uiux?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Uniti HQ | Remote | May 10 |
+| **[Vonage](https://vonage.com)** | **[Senior Product Manager - Vonage Cloud Runtime](https://jobr.pro/job/40703435/senior-product-manager-vonage-cloud-runtime?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Wroclaw, Poland (hybrid) | On Site | May 10 |
+| **[Photoroom](https://www.photoroom.com/)** | **[Senior Product Analyst](https://jobr.pro/job/40704219/senior-product-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris \| Remote | Remote | May 10 |
+| **[Super Technologies](https://superbet.ro)** | **[Staff Data Product Manager - Analytics Platform](https://jobr.pro/job/40702889/staff-data-product-manager-analytics-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United Kingdom | On Site | May 10 |
+| **[NICE](https://nicehash.com)** | **[AI Product Owner](https://jobr.pro/job/40701753/ai-product-owner?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Israel - Raanana | On Site | May 10 |
+| **[Pavago](https://pavago.co)** | **[Product Designer - UX/UI & Design Systems (Remote)](https://jobr.pro/job/40708387/product-designer-uxui-design-systems-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Belize | Remote | May 10 |
 | **[Anduril Industries](https://anduril.com)** | **[Recruiting Manager, Production](https://jobr.pro/job/40697098/recruiting-manager-production-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Costa Mesa, California, United States | On Site | May 09 |
 | **[Ebury](https://ebury.com)** | **[Senior Product Manager - Fraud Prevention](https://jobr.pro/job/40697380/senior-product-manager-fraud-prevention?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Málaga | On Site | May 09 |
 | **[Ebury](https://ebury.com)** | **[Senior Product Manager - Financial Crime (KYC/KYB)](https://jobr.pro/job/40697378/senior-product-manager-financial-crime-kyckyb?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Málaga | On Site | May 09 |
@@ -48,25 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nylas](https://www.nylas.com/)** | **[Product Manager](https://jobr.pro/job/40684210/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - Toronto, Ontario | Remote | May 08 |
 | **[Owner.com](https://www.owner.com/)** | **[Product Marketing Manager, Competitive & Market Intelligence](https://jobr.pro/job/40684042/product-marketing-manager-competitive-market-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - United States | Remote | May 08 |
 | **[LG Electronics](https://lg.com)** | **[Chiller Product Manager](https://jobr.pro/job/40682501/chiller-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Alpharetta, GA | On Site | May 08 |
-| **[Tailscale](https://tailscale.com)** | **[Senior Product Designer](https://jobr.pro/job/40695015/senior-product-designer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (Canada) | Remote | May 08 |
+| **[Tailscale](https://tailscale.com)** | **[Senior Product Designer](https://jobr.pro/job/40695014/senior-product-designer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (United States) | Remote | May 08 |
 | **[WHOOP](https://whoop.com)** | **[Senior Product Manager (Platform)](https://jobr.pro/job/40681944/senior-product-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boston, MA | On Site | May 08 |
 | **[Keeper Security](https://keepersecurity.com)** | **[Senior Product Designer](https://jobr.pro/job/40681970/senior-product-designer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, US | Remote | May 08 |
 | **[QiH Group](https://www.quantum.media)** | **[Lead Product Manager](https://jobr.pro/job/40681627/lead-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London (hybrid) | On Site | May 08 |
-| **[Aurora Innovation](https://aurorainnovation.com)** | **[Staff Product Program Manager](https://jobr.pro/job/40683060/staff-product-program-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Pittsburgh, Pennsylvania | On Site | May 08 |
-| **[Semperis](https://www.semperis.com/careers/)** | **[Director of Product Management-R1](https://jobr.pro/job/40682121/director-of-product-management-r1?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dallas, TX | Remote | May 08 |
-| **[Definitive Healthcare, US](https://definitivehc.com)** | **[Product Operations Manager](https://jobr.pro/job/40688833/product-operations-manager-?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Framingham, MA | On Site | May 08 |
-| **[Green Thumb](https://gtigrows.com)** | **[Product Manager, Digital Experience](https://jobr.pro/job/40684199/product-manager-digital-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chicago, Illinois, United States | On Site | May 08 |
-| **[Triple Whale](https://triplewhale.com)** | **[Senior Product Manager, Attribution](https://jobr.pro/job/40682813/senior-product-manager-attribution?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote- US | Remote | May 08 |
-| **[Tailscale](https://tailscale.com)** | **[Staff Product Designer](https://jobr.pro/job/40695017/staff-product-designer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (United States) | Remote | May 08 |
-| **[Moonpig](https://moonpig.com)** | **[Senior Manager, Product Analytics & Experimentation](https://jobr.pro/job/40683142/senior-manager-product-analytics-experimentation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London | On Site | May 08 |
-| **[Industrial Electric Manufacturing]()** | **[Operations Manager - Integrated Products (Second Shift)](https://jobr.pro/job/40683291/operations-manager-integrated-products-second-shift?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Surrey, British Columbia, Canada | On Site | May 08 |
-| **[Serhant](https://serhant.com)** | **[Senior Product Designer](https://jobr.pro/job/40684016/senior-product-designer?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, USA | Remote | May 08 |
-| **[Tulip Interfaces](https://tulipworld.com)** | **[Product Marketing Manager](https://jobr.pro/job/40692535/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Somerville, MA | On Site | May 08 |
-| **[STR](https://star-hq.com)** | **[Chief Product Manager– Collaborative Autonomy and Controls](https://jobr.pro/job/40686965/chief-product-manager-collaborative-autonomy-and-controls?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Melbourne, FL | On Site | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 38 companies | Avg salary: 6.689664310351033e+167k  
+**Current Stats:** 50 jobs | 32% remote | 39 companies | Avg salary: 9.238107857151429e+119k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** analytics  
