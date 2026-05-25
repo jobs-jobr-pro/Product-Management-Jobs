@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Poland and Eastern Europe]()** | **[Senior Product Manager](https://jobr.pro/job/40923668/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Poland | On Site | May 25 |
+| **[Harness](https://www.harness.io)** | **[Product Manager - Growth](https://jobr.pro/job/40925170/product-manager-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, Karnataka, India | On Site | May 25 |
+| **[RecordPoint](https://recordpoint.com)** | **[Product Marketing Manager](https://jobr.pro/job/40925145/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Seattle, WA, USA | On Site | May 25 |
+| **[HFG Capital Investments](https://halter.com)** | **[Product Training Manager](https://jobr.pro/job/40925277/product-training-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | No Location | On Site | May 25 |
+| **[Alan](https://venn.io)** | **[Senior Product Manager](https://jobr.pro/job/40925147/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto | On Site | May 24 |
+| **[Granted](https://grantedhealth.com/)** | **[Product Manager, Growth](https://jobr.pro/job/40919367/product-manager-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City, Hybrid | On Site | May 24 |
+| **[WHOOP](https://whoop.com)** | **[Product Manager II, Growth](https://jobr.pro/job/40921240/product-manager-ii-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boston, MA | On Site | May 24 |
+| **[Elite Talent](https://elitestalent.com/)** | **[Product Manager - Smartphones](https://jobr.pro/job/40918596/product-manager-smartphones?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Baghdad, Baghdad Governorate, Iraq | On Site | May 24 |
+| **[Elite Talent](https://elitestalent.com/)** | **[Product Manager - Computing Devices](https://jobr.pro/job/40918595/product-manager-computing-devices?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Baghdad, Baghdad Governorate, Iraq | On Site | May 24 |
+| **[Elite Talent](https://elitestalent.com/)** | **[Product Manager - Accessories](https://jobr.pro/job/40918594/product-manager-accessories?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Baghdad, Baghdad Governorate, Iraq | On Site | May 24 |
 | **[Everself](https://everself.com/)** | **[Lead/Senior Product Manager (Hybrid, San Francisco)](https://jobr.pro/job/40917672/leadsenior-product-manager-hybrid-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | Remote | May 23 |
 | **[US Mobile](https://www.usmobile.com)** | **[Principal Product Manager, Connectivity Platform](https://jobr.pro/job/40916332/principal-product-manager-connectivity-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City | On Site | May 23 |
 | **[Rad AI 2026 All Rights Reserved548 Market St](https://www.radai.com/)** | **[Product Manager, Workflows](https://jobr.pro/job/40913820/product-manager-workflows?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | On Site | May 23 |
@@ -53,23 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pebl](https://hellopebl.com/)** | **[Product Manager Intern - Alfie (Conversational AI)](https://jobr.pro/job/40908995/product-manager-intern-alfie-conversational-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto, Ontario | Remote | May 22 |
 | **[Jobber](https://jobber.com)** | **[Director, Product Management - Fintech](https://jobr.pro/job/40910435/director-product-management-fintech?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Edmonton | Remote | May 22 |
 | **[OpenAI](https://openai.com/)** | **[Product Design Program Manager](https://jobr.pro/job/40902917/product-design-program-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | Remote | May 22 |
-| **[Checkr](https://checkr.com)** | **[Product Finance & Strategy Manager](https://jobr.pro/job/40906363/product-finance-strategy-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, California, United States | On Site | May 22 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Product Manager II, Trust & Safety Tools](https://jobr.pro/job/40904011/product-manager-ii-trust-safety-tools?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA, US; Remote, US | Remote | May 22 |
-| **[Smartsheet](https://www.smartsheet.com/)** | **[Product Manager II - Growth (Remote Eligible)](https://jobr.pro/job/40902993/product-manager-ii-growth-remote-eligible?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | -REMOTE, USA- | Remote | May 22 |
-| **[Clutch Technologies Inc.](https://clutch.io)** | **[Production Manager](https://jobr.pro/job/40911657/production-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Etobicoke, Ontario, Canada | On Site | May 22 |
-| **[Assembled](https://www.assembled.com)** | **[Senior Product Manager](https://jobr.pro/job/40911640/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City, NY | Remote | May 22 |
-| **[Everpure](https://everpureghana.com)** | **[Principal Product Manager, Commercial Systems](https://jobr.pro/job/40903488/principal-product-manager-commercial-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chicago, Illinois; New York, New York; Santa Clara, California | On Site | May 22 |
-| **[QuEra Computing, Inc.](https://quera.com)** | **[Sr Technical Product Manager](https://jobr.pro/job/40909644/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boston, MA, USA | On Site | May 22 |
-| **[OPSWAT](https://opswat.com)** | **[Principal Hardware Product Manager – Security Appliances](https://jobr.pro/job/40906578/principal-hardware-product-manager-security-appliances?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tampa, Florida, United States | On Site | May 22 |
-| **[Checkout](https://www.checkout.com/)** | **[Senior Product Manager](https://jobr.pro/job/40902996/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Sao Paulo | Remote | May 22 |
-| **[Jerry](https://www.jerry.ai)** | **[Senior Product Manager, Agentic AI](https://jobr.pro/job/40909526/senior-product-manager-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Raleigh, North Carolina | Remote | May 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 43 companies | Avg salary: 7.5000075000075e+162k  
+**Current Stats:** 50 jobs | 32% remote | 42 companies | Avg salary: 7.045462272736819e+126k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** strategy  
+**Trending Skills:** Various technologies  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
