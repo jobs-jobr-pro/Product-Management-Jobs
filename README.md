@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 06, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,11 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Augury](https://augury.com)** | **[Principal Product Manager, Industrial AI - Platform & Ecosystem](https://jobr.pro/job/41068101/principal-product-manager-industrial-ai-platform-ecosystem?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, India | On Site | Jun 07 |
+| **[Eulerity](https://eulerity.com)** | **[Product Marketing Manager](https://jobr.pro/job/41066069/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York | On Site | Jun 06 |
+| **[Impossible Cloud](https://www.impossiblecloud.com)** | **[Product Manager / Director – GPU & AI Services](https://jobr.pro/job/41065955/product-manager-director-gpu-ai-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hamburg | On Site | Jun 06 |
+| **[Auctor](https://auctor.tv)** | **[Product Operations Manager](https://jobr.pro/job/41066604/product-operations-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York | On Site | Jun 06 |
 | **[Everpure](https://everpureghana.com)** | **[Senior Product Marketing Manager, Everpure Platform](https://jobr.pro/job/41060664/senior-product-marketing-manager-everpure-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Raleigh, North Carolina | On Site | Jun 06 |
 | **[SpaceX](https://spacex.com)** | **[Sr. Product Growth Manager (Starlink)](https://jobr.pro/job/41060406/sr-product-growth-manager-starlink?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bastrop, TX | On Site | Jun 06 |
 | **[Superhuman%20platform%20inc]()** | **[Director Product Management, Data](https://jobr.pro/job/41061305/director-product-management-data?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hub - San Francisco | Remote | Jun 06 |
 | **[Nium](https://niumba.com)** | **[Staff Product Manager - Payments](https://jobr.pro/job/41062030/staff-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | On Site | Jun 05 |
 | **[Scribd, Inc.](https://scribd.com)** | **[Senior Product Manager](https://jobr.pro/job/41062333/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | Remote | Jun 05 |
+| **[Overflow](https://www.overflow.co/)** | **[Product Marketing Manager](https://jobr.pro/job/41064502/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Jun 05 |
 | **[Shield AI](https://shield.ai/)** | **[Senior Staff Technical Product Manager (R5126)](https://jobr.pro/job/41060236/senior-staff-technical-product-manager-r5126?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dallas, Texas | On Site | Jun 05 |
 | **[Everpure](https://everpureghana.com)** | **[Product Configuration Manager](https://jobr.pro/job/41058990/product-configuration-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Santa Clara, California | On Site | Jun 05 |
 | **[Radar](https://radarschool.haramadhav.com/)** | **[Senior / Staff Product Manager, Maps](https://jobr.pro/job/41063808/senior-staff-product-manager-maps?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York | On Site | Jun 05 |
@@ -28,6 +33,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rithum](https://rithum.com)** | **[Senior Product Manager - Client Data Visualization](https://jobr.pro/job/41057400/senior-product-manager-client-data-visualization?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States - Remote | Remote | Jun 05 |
 | **[Robinhood](https://robinhood.com)** | **[Senior Product Manager, Crypto Trading](https://jobr.pro/job/41059123/senior-product-manager-crypto-trading?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Menlo Park, CA; New York, NY | On Site | Jun 05 |
 | **[SimSpace Corporation](https://simspace.com/)** | **[Principal Product Manager](https://jobr.pro/job/41058536/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote - U.S. | Remote | Jun 05 |
+| **[Unlearn](https://unlearndoc.com)** | **[Product Manager](https://jobr.pro/job/41065828/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | On Site | Jun 05 |
 | **[Campminder](https://campminder.com/)** | **[Senior Product Manager, Admin Workflows](https://jobr.pro/job/41059783/senior-product-manager-admin-workflows?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boulder, CO or US remote | Remote | Jun 05 |
 | **[Faire](https://tourdumondiste.com)** | **[Senior Product Marketing Manager](https://jobr.pro/job/41058966/senior-product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | Jun 05 |
 | **[MEMX](https://memx.com)** | **[Product Management Analyst](https://jobr.pro/job/41060676/product-management-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Jun 05 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Jerry](https://www.jerry.ai)** | **[Senior Technical Product Manager, AI Engineering & Systems](https://jobr.pro/job/41061920/senior-technical-product-manager-ai-engineering-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco Bay Area | Remote | Jun 05 |
 | **[Fischer Homes](https://www.fischerhomes.com)** | **[PRODUCTION PROCESS MANAGER](https://jobr.pro/job/41059202/production-process-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Columbus, OH | On Site | Jun 05 |
 | **[Constant Contact](https://vision6.com.au)** | **[Principal Product Manager, Agent-First](https://jobr.pro/job/41058129/principal-product-manager-agent-first?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote Us or Remote, Ontario, Canada | Remote | Jun 05 |
-| **[Scale%20army%20careers]()** | **[Product Owner / Product Manager](https://jobr.pro/job/41057661/product-owner-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Jun 05 |
-| **[Route](https://www.route.com)** | **[Sr. Technical Product Manager](https://jobr.pro/job/41059471/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Jun 05 |
-| **[AppDirect](https://appdirect.com)** | **[Senior Product Manager (Billing)](https://jobr.pro/job/41054417/senior-product-manager-billing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto, Canada | On Site | Jun 05 |
-| **[Rightmove Careers]()** | **[Engineering Manager - Internal Product](https://jobr.pro/job/41057078/engineering-manager-internal-product?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Milton Keynes, UK | On Site | Jun 05 |
-| **[Thought Machine Group](http://www.thoughtmachine.net)** | **[Senior Product Manager - Vault Expansion](https://jobr.pro/job/41054620/senior-product-manager-vault-expansion?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Portugal, Lisbon | On Site | Jun 05 |
-| **[Fundraise Up](https://fundraiseup.com)** | **[Senior Product Manager, New Products](https://jobr.pro/job/41058611/senior-product-manager-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Turkey - Remote | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 43 companies | Avg salary: 5.3414724390293905e+239k  
+**Current Stats:** 50 jobs | 44% remote | 43 companies | Avg salary: 3.205133820522308e+228k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** analytics  
