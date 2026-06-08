@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unframe](https://unframeddigital.com)** | **[Group Product Manager – Product Growth](https://jobr.pro/job/41069212/group-product-manager-product-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 07 |
+| **[Unframe](https://unframeddigital.com)** | **[AI Product Manager](https://jobr.pro/job/41069211/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 07 |
+| **[Teads](https://www.teads.com/?mtm_campaign=TeadsTvRedirect&mtm_placement=CTA)** | **[Product Manager - Amplify](https://jobr.pro/job/41068901/product-manager-amplify?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Netanya | On Site | Jun 07 |
 | **[Augury](https://augury.com)** | **[Principal Product Manager, Industrial AI - Platform & Ecosystem](https://jobr.pro/job/41068101/principal-product-manager-industrial-ai-platform-ecosystem?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bengaluru, India | On Site | Jun 07 |
 | **[Eulerity](https://eulerity.com)** | **[Product Marketing Manager](https://jobr.pro/job/41066069/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York | On Site | Jun 06 |
 | **[Impossible Cloud](https://www.impossiblecloud.com)** | **[Product Manager / Director – GPU & AI Services](https://jobr.pro/job/41065955/product-manager-director-gpu-ai-services?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hamburg | On Site | Jun 06 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Jerry.ai](https://jerry.ai/)** | **[Senior Product Manager, AI Agents and Platform](https://jobr.pro/job/41063400/senior-product-manager-ai-agents-and-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco Bay Area | Remote | Jun 05 |
 | **[Jerry](https://www.jerry.ai)** | **[Senior Product Manager, AI Agents and Platform](https://jobr.pro/job/41061923/senior-product-manager-ai-agents-and-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco Bay Area | Remote | Jun 05 |
 | **[Jerry.ai](https://jerry.ai/)** | **[Senior Technical Product Manager, AI Engineering & Systems](https://jobr.pro/job/41063397/senior-technical-product-manager-ai-engineering-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco Bay Area | Remote | Jun 05 |
-| **[Jerry](https://www.jerry.ai)** | **[Senior Technical Product Manager, AI Engineering & Systems](https://jobr.pro/job/41061920/senior-technical-product-manager-ai-engineering-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco Bay Area | Remote | Jun 05 |
-| **[Fischer Homes](https://www.fischerhomes.com)** | **[PRODUCTION PROCESS MANAGER](https://jobr.pro/job/41059202/production-process-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Columbus, OH | On Site | Jun 05 |
-| **[Constant Contact](https://vision6.com.au)** | **[Principal Product Manager, Agent-First](https://jobr.pro/job/41058129/principal-product-manager-agent-first?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote Us or Remote, Ontario, Canada | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 43 companies | Avg salary: 3.205133820522308e+228k  
+**Current Stats:** 50 jobs | 40% remote | 43 companies | Avg salary: 3.378384297307297e+216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** analytics  
