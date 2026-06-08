@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[OKX](https://okx.com)** | **[(Senior) Product Manager, Tokenized Stocks/Equity Trading (DEX)](https://jobr.pro/job/41070455/senior-product-manager-tokenized-stocksequity-trading-dex?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Jun 08 |
+| **[Boomi](https://boomi.com)** | **[Product Marketing Manager, Boomi Embedded](https://jobr.pro/job/41070468/product-marketing-manager-boomi-embedded?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States of America | On Site | Jun 08 |
+| **[Solstice](https://www.solsticehealth.co/)** | **[Founding Product Manager](https://jobr.pro/job/41069645/founding-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City | On Site | Jun 07 |
+| **[Lumilens](https://www.lumilens.com/)** | **[Product Line Manager](https://jobr.pro/job/41070025/product-line-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose | On Site | Jun 07 |
+| **[Axonius](https://axonius.com)** | **[Principal Product Manager- Adapters](https://jobr.pro/job/41069941/principal-product-manager-adapters?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv, Israel | On Site | Jun 07 |
 | **[Unframe](https://unframeddigital.com)** | **[Group Product Manager – Product Growth](https://jobr.pro/job/41069212/group-product-manager-product-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 07 |
 | **[Unframe](https://unframeddigital.com)** | **[AI Product Manager](https://jobr.pro/job/41069211/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 07 |
 | **[Teads](https://www.teads.com/?mtm_campaign=TeadsTvRedirect&mtm_placement=CTA)** | **[Product Manager - Amplify](https://jobr.pro/job/41068901/product-manager-amplify?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Netanya | On Site | Jun 07 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sotheby's](https://sothebys.com)** | **[VP, Product Management](https://jobr.pro/job/41055277/vp-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London | On Site | Jun 05 |
 | **[UnitX](http://www.unitxlabs.com)** | **[Product Manager, Vision & Robotics](https://jobr.pro/job/41056252/product-manager-vision-robotics?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | HQ | On Site | Jun 05 |
 | **[Jerry.ai](https://jerry.ai/)** | **[Senior Product Manager, Agentic AI](https://jobr.pro/job/41063401/senior-product-manager-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Raleigh, North Carolina | Remote | Jun 05 |
-| **[Jerry](https://www.jerry.ai)** | **[Senior Product Manager, Agentic AI](https://jobr.pro/job/41061924/senior-product-manager-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Raleigh, North Carolina | Remote | Jun 05 |
-| **[Rush Street Interactive](https://rushstreetinteractive.com)** | **[Product Manager](https://jobr.pro/job/41061967/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | USA - Remote | Remote | Jun 05 |
-| **[Jerry.ai](https://jerry.ai/)** | **[Senior Product Manager, AI Agents and Platform](https://jobr.pro/job/41063400/senior-product-manager-ai-agents-and-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco Bay Area | Remote | Jun 05 |
-| **[Jerry](https://www.jerry.ai)** | **[Senior Product Manager, AI Agents and Platform](https://jobr.pro/job/41061923/senior-product-manager-ai-agents-and-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco Bay Area | Remote | Jun 05 |
-| **[Jerry.ai](https://jerry.ai/)** | **[Senior Technical Product Manager, AI Engineering & Systems](https://jobr.pro/job/41063397/senior-technical-product-manager-ai-engineering-systems?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco Bay Area | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 40% remote | 43 companies | Avg salary: 3.378384297307297e+216k  
+**Current Stats:** 50 jobs | 30% remote | 46 companies | Avg salary: 3.9062568437615627e+186k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** analytics  
