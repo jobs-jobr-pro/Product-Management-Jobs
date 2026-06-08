@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Goodstack](https://goodstack.io)** | **[Senior Product Marketing Manager](https://jobr.pro/job/41071084/senior-product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | 🇺🇸 USA | Remote | Jun 08 |
+| **[Tessera Labs](https://tesseralabs.ai)** | **[Product Manager, Intern](https://jobr.pro/job/41070867/product-manager-intern?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose Office (HQ) | Remote | Jun 08 |
+| **[project44](https://gutenberg.org)** | **[Sr. Staff / Staff Product Manager](https://jobr.pro/job/41071358/sr-staff-staff-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bangalore (On-site) | On Site | Jun 08 |
 | **[OKX](https://okx.com)** | **[(Senior) Product Manager, Tokenized Stocks/Equity Trading (DEX)](https://jobr.pro/job/41070455/senior-product-manager-tokenized-stocksequity-trading-dex?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Singapore, Singapore | On Site | Jun 08 |
+| **[Jane](https://jane.app/)** | **[Director of Product Management - Infrastructure & Enablement](https://jobr.pro/job/41070786/director-of-product-management-infrastructure-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Jun 08 |
 | **[Boomi](https://boomi.com)** | **[Product Marketing Manager, Boomi Embedded](https://jobr.pro/job/41070468/product-marketing-manager-boomi-embedded?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States of America | On Site | Jun 08 |
 | **[Solstice](https://www.solsticehealth.co/)** | **[Founding Product Manager](https://jobr.pro/job/41069645/founding-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City | On Site | Jun 07 |
 | **[Lumilens](https://www.lumilens.com/)** | **[Product Line Manager](https://jobr.pro/job/41070025/product-line-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose | On Site | Jun 07 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Strive Health](https://strivehealth.com)** | **[Sr. Digital Product Manager](https://jobr.pro/job/41056642/sr-digital-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Denver, CO | On Site | Jun 05 |
 | **[Ride Aventon](http://www.aventon.ru/)** | **[Product Marketing Manager](https://jobr.pro/job/41061333/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Brea, California | On Site | Jun 05 |
 | **[Zscaler](https://zscaler.com)** | **[Senior Product Marketing Manager](https://jobr.pro/job/41056748/senior-product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Jose, California, USA | On Site | Jun 05 |
-| **[Sotheby's](https://sothebys.com)** | **[Head of Product Management](https://jobr.pro/job/41055276/head-of-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, United States | On Site | Jun 05 |
-| **[Sotheby's](https://sothebys.com)** | **[VP, Product Management](https://jobr.pro/job/41055277/vp-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London | On Site | Jun 05 |
-| **[UnitX](http://www.unitxlabs.com)** | **[Product Manager, Vision & Robotics](https://jobr.pro/job/41056252/product-manager-vision-robotics?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | HQ | On Site | Jun 05 |
-| **[Jerry.ai](https://jerry.ai/)** | **[Senior Product Manager, Agentic AI](https://jobr.pro/job/41063401/senior-product-manager-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Raleigh, North Carolina | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 46 companies | Avg salary: 3.9062568437615627e+186k  
+**Current Stats:** 50 jobs | 32% remote | 47 companies | Avg salary: 3.9000092375039063e+186k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** analytics  
