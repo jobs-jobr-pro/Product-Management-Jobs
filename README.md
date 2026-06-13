@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,8 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bloomerang](https://bloomerang.org)** | **[Sr. Product Manager](https://jobr.pro/job/41186641/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, US | Remote | Jun 13 |
+| **[Cloudflare](https://cloudflare.com)** | **[Product Manager, AI Access](https://jobr.pro/job/41186648/product-manager-ai-access?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid | On Site | Jun 13 |
 | **[OpenAI](https://openai.com)** | **[GRC Program Manager, Product and Customer Trust](https://jobr.pro/job/41183743/grc-program-manager-product-and-customer-trust?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | Remote | Jun 13 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Staff Product Manager, Launched Effects](https://jobr.pro/job/41182583/staff-product-manager-launched-effects?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Costa Mesa, California, United States | On Site | Jun 13 |
+| **[LiveKit](https://livekit.io)** | **[Staff Product Manager, Agent Observability](https://jobr.pro/job/41185829/staff-product-manager-agent-observability?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid, San Francisco | Remote | Jun 13 |
+| **[RadixArk](https://radixark.ai)** | **[Product Marketing Manager](https://jobr.pro/job/41186905/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Palo Alto, CA | On Site | Jun 13 |
+| **[Alphatec Spine](http://www.atecspine.com)** | **[Associate Product Manager, Alignment & Surgical Planning](https://jobr.pro/job/41186720/associate-product-manager-alignment-surgical-planning?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Carlsbad, California, United States | On Site | Jun 13 |
 | **[DemandTec](https://demandtec.com)** | **[Product Marketing Manager](https://jobr.pro/job/41182898/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | Remote | Jun 13 |
 | **[Karat](https://karat.com)** | **[Principal Product Manager (India)](https://jobr.pro/job/41182850/principal-product-manager-india?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote (India - Bangalore ONLY) | Remote | Jun 12 |
 | **[Harvey](https://www.harvey.ai)** | **[Senior Product Operations Manager, Evaluation](https://jobr.pro/job/41180793/senior-product-operations-manager-evaluation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | Remote | Jun 12 |
@@ -50,6 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Versant](https://versanthealth.com)** | **[Product Manager, Ad Sales Execution](https://jobr.pro/job/41176152/product-manager-ad-sales-execution?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Jun 12 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Associate Product Manager](https://jobr.pro/job/41176396/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NEW YORK, United States | Remote | Jun 12 |
 | **[Versant](https://versanthealth.com)** | **[Product Analytics Manager](https://jobr.pro/job/41176156/product-analytics-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Universal City, CA, United States | Remote | Jun 12 |
+| **[Mural](https://www.mural.co)** | **[Senior Product Manager, Customer Insights](https://jobr.pro/job/41186829/senior-product-manager-customer-insights?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States Remote | Remote | Jun 12 |
 | **[Versant](https://versanthealth.com)** | **[Sr. Technical Product Manager](https://jobr.pro/job/41176189/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Orlando, FL, United States | Remote | Jun 12 |
 | **[ShareGate- en]()** | **[Product Marketing Manager](https://jobr.pro/job/41182855/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Canada - Remote | Remote | Jun 12 |
 | **[Workleap - en](https://workleap.com)** | **[Product Marketing Manager](https://jobr.pro/job/41182831/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Canada - Remote | Remote | Jun 12 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wheelhouse](https://wheelhousefarm.com)** | **[Technical Product Manager](https://jobr.pro/job/41182841/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Jun 12 |
 | **[VREY](https://www.vrey.io)** | **[Energy Product Manager (w/m/d)](https://jobr.pro/job/41184665/energy-product-manager-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin HQ | On Site | Jun 12 |
 | **[Blend360](https://www.blend360.com)** | **[Technical Product Manager](https://jobr.pro/job/41176217/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Guadalajara, Jal., Mexico | Remote | Jun 12 |
-| **[Field Nation](https://fieldnation.com)** | **[Associate Product Marketing Manager](https://jobr.pro/job/41185478/associate-product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dhaka | On Site | Jun 12 |
-| **[Hippo Insurance](https://www.hippo.com)** | **[Product Manager - Mobile & Customer Portal](https://jobr.pro/job/41178882/product-manager-mobile-customer-portal?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, TX | On Site | Jun 12 |
-| **[Lone Wolf Technologies](https://lwolf.com)** | **[Product Manager, Innovation](https://jobr.pro/job/41182047/product-manager-innovation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cambridge, ON | Remote | Jun 12 |
-| **[Torc Robotics](https://torc.ai)** | **[Senior, Technical Product Manager - Requirements and Safety](https://jobr.pro/job/41179806/senior-technical-product-manager-requirements-and-safety?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ann Arbor, MI | On Site | Jun 12 |
-| **[CruxOCM](https://cruxocm.com)** | **[Technical Product Manager](https://jobr.pro/job/41183330/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Calgary, Edmonton, Vancouver | Remote | Jun 12 |
-| **[Socure](https://socure.com)** | **[Senior Product Manager - Document Verification](https://jobr.pro/job/41177944/senior-product-manager-document-verification?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid - US | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 56% remote | 47 companies | Avg salary: 1.05000105416725e+138k  
+**Current Stats:** 50 jobs | 56% remote | 47 companies | Avg salary: 7.85769957693277e+148k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, analytics  
