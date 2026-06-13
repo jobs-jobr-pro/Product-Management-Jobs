@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -39,6 +39,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ALTEN Technology USA]()** | **[Lead Product Development Project Manager](https://jobr.pro/job/41177281/lead-product-development-project-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Greensboro, North Carolina, United States | On Site | Jun 12 |
 | **[Cricut](https://cricut.com)** | **[Sr. Product Manager](https://jobr.pro/job/41180737/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | South Jordan, UT, United States | Remote | Jun 12 |
 | **[Second Nature](https://secondnature.io)** | **[Product Marketing Manager (RBP)](https://jobr.pro/job/41182480/product-marketing-manager-rbp?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, USA | Remote | Jun 12 |
+| **[Agate Software](https://agatesoftware.com)** | **[Product Manager (Hybrid in Glendale AZ or Okemos MI)](https://jobr.pro/job/41184042/product-manager-hybrid-in-glendale-az-or-okemos-mi?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Glendale, AZ | On Site | Jun 12 |
 | **[InStride](https://instride.com)** | **[Product Manager – Contractor (1099)](https://jobr.pro/job/41182906/product-manager-contractor-1099?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Los Angeles, CA or Remote | Remote | Jun 12 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Product Manager, eCommerce Data Platform](https://jobr.pro/job/41177005/product-manager-ecommerce-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bogota, DC, Colombia | Remote | Jun 12 |
 | **[Quadient](https://www.quadient.com)** | **[Product Engineering Manager](https://jobr.pro/job/41177021/product-engineering-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Kennesaw, , United States | On Site | Jun 12 |
@@ -54,19 +55,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Workleap - en](https://workleap.com)** | **[Product Marketing Manager](https://jobr.pro/job/41182831/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Canada - Remote | Remote | Jun 12 |
 | **[NMI](https://www.nmi.com)** | **[Director, Product Management - A2A & Money Movement](https://jobr.pro/job/41180523/director-product-management-a2a-money-movement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, US | Remote | Jun 12 |
 | **[Wheelhouse](https://wheelhousefarm.com)** | **[Technical Product Manager](https://jobr.pro/job/41182841/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Jun 12 |
-| **[VREY](https://www.vreynoldsart.com)** | **[Energy Product Manager (w/m/d)](https://jobr.pro/job/41181355/energy-product-manager-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin HQ | On Site | Jun 12 |
+| **[VREY](https://www.vrey.io)** | **[Energy Product Manager (w/m/d)](https://jobr.pro/job/41184665/energy-product-manager-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin HQ | On Site | Jun 12 |
 | **[Blend360](https://www.blend360.com)** | **[Technical Product Manager](https://jobr.pro/job/41176217/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Guadalajara, Jal., Mexico | Remote | Jun 12 |
+| **[Field Nation](https://fieldnation.com)** | **[Associate Product Marketing Manager](https://jobr.pro/job/41185478/associate-product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Dhaka | On Site | Jun 12 |
 | **[Hippo Insurance](https://www.hippo.com)** | **[Product Manager - Mobile & Customer Portal](https://jobr.pro/job/41178882/product-manager-mobile-customer-portal?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, TX | On Site | Jun 12 |
 | **[Lone Wolf Technologies](https://lwolf.com)** | **[Product Manager, Innovation](https://jobr.pro/job/41182047/product-manager-innovation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Cambridge, ON | Remote | Jun 12 |
 | **[Torc Robotics](https://torc.ai)** | **[Senior, Technical Product Manager - Requirements and Safety](https://jobr.pro/job/41179806/senior-technical-product-manager-requirements-and-safety?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Ann Arbor, MI | On Site | Jun 12 |
 | **[CruxOCM](https://cruxocm.com)** | **[Technical Product Manager](https://jobr.pro/job/41183330/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Calgary, Edmonton, Vancouver | Remote | Jun 12 |
 | **[Socure](https://socure.com)** | **[Senior Product Manager - Document Verification](https://jobr.pro/job/41177944/senior-product-manager-document-verification?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid - US | Remote | Jun 12 |
-| **[Wise](https://wise.com)** | **[Senior Product Manager - Business Invoicing](https://jobr.pro/job/41174161/senior-product-manager-business-invoicing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, , United Kingdom | Remote | Jun 12 |
-| **[Wise](https://wise.com)** | **[Lead Product Analyst - Business Account Management](https://jobr.pro/job/41174164/lead-product-analyst-business-account-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, , United Kingdom | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 60% remote | 46 companies | Avg salary: 1.00800101200056e+144k  
+**Current Stats:** 50 jobs | 56% remote | 47 companies | Avg salary: 1.05000105416725e+138k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, analytics  
