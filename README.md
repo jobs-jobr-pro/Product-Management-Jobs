@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Instead](https://insteading.com)** | **[Product Manager](https://jobr.pro/job/41188289/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | On Site | Jun 14 |
 | **[Bloomerang](https://bloomerang.org)** | **[Sr. Product Manager](https://jobr.pro/job/41186641/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, US | Remote | Jun 13 |
 | **[Cloudflare](https://cloudflare.com)** | **[Product Manager, AI Access](https://jobr.pro/job/41186648/product-manager-ai-access?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid | On Site | Jun 13 |
 | **[OpenAI](https://openai.com)** | **[GRC Program Manager, Product and Customer Trust](https://jobr.pro/job/41183743/grc-program-manager-product-and-customer-trust?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | Remote | Jun 13 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Workleap - en](https://workleap.com)** | **[Product Marketing Manager](https://jobr.pro/job/41182831/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Canada - Remote | Remote | Jun 12 |
 | **[NMI](https://www.nmi.com)** | **[Director, Product Management - A2A & Money Movement](https://jobr.pro/job/41180523/director-product-management-a2a-money-movement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, US | Remote | Jun 12 |
 | **[Wheelhouse](https://wheelhousefarm.com)** | **[Technical Product Manager](https://jobr.pro/job/41182841/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Jun 12 |
-| **[VREY](https://www.vrey.io)** | **[Energy Product Manager (w/m/d)](https://jobr.pro/job/41184665/energy-product-manager-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin HQ | On Site | Jun 12 |
 
 ---
 
