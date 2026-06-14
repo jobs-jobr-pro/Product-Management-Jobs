@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -17,7 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cloudflare](https://cloudflare.com)** | **[Product Manager, AI Access](https://jobr.pro/job/41186648/product-manager-ai-access?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid | On Site | Jun 13 |
 | **[OpenAI](https://openai.com)** | **[GRC Program Manager, Product and Customer Trust](https://jobr.pro/job/41183743/grc-program-manager-product-and-customer-trust?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | Remote | Jun 13 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Staff Product Manager, Launched Effects](https://jobr.pro/job/41182583/staff-product-manager-launched-effects?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Costa Mesa, California, United States | On Site | Jun 13 |
-| **[LiveKit](https://livekit.io)** | **[Staff Product Manager, Agent Observability](https://jobr.pro/job/41185829/staff-product-manager-agent-observability?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid, San Francisco | Remote | Jun 13 |
+| **[LiveKit](https://livekit.io)** | **[Staff Product Manager, Agent Observability](https://jobr.pro/job/41187857/staff-product-manager-agent-observability?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid, San Francisco | Remote | Jun 13 |
 | **[RadixArk](https://radixark.ai)** | **[Product Marketing Manager](https://jobr.pro/job/41186905/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Palo Alto, CA | On Site | Jun 13 |
 | **[Alphatec Spine](http://www.atecspine.com)** | **[Associate Product Manager, Alignment & Surgical Planning](https://jobr.pro/job/41186720/associate-product-manager-alignment-surgical-planning?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Carlsbad, California, United States | On Site | Jun 13 |
 | **[DemandTec](https://demandtec.com)** | **[Product Marketing Manager](https://jobr.pro/job/41182898/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | Remote | Jun 13 |
@@ -26,6 +26,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GenScript/ProBio](https://genscript.io)** | **[Product Manager, Gene to Protein Lab Essentials](https://jobr.pro/job/41181223/product-manager-gene-to-protein-lab-essentials?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Jun 12 |
 | **[Benchling](https://www.benchling.com)** | **[Product Marketing Manager](https://jobr.pro/job/41182479/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | Remote | Jun 12 |
 | **[Windfall](https://windfall.com)** | **[Product Marketing Manager](https://jobr.pro/job/41183728/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | On Site | Jun 12 |
+| **[Nooks](https://www.nooks.ai)** | **[Product Manager - AI Sequencing](https://jobr.pro/job/41187582/product-manager-ai-sequencing?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | Remote | Jun 12 |
 | **[OfferUp](https://offerup.com)** | **[Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobr.pro/job/41183833/product-management-intern-summer-2026-hybrid-bellevue-wa?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Hybrid @ Bellevue | On Site | Jun 12 |
 | **[Seekr](https://www.seekr.com)** | **[Senior Product Manager – AI Ready Data (SeekrFlow)](https://jobr.pro/job/41183843/senior-product-manager-ai-ready-data-seekrflow?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Austin, Texas, United States | On Site | Jun 12 |
 | **[Cortea](https://www.cortea.ai)** | **[AI Product Manager (m/f/x)](https://jobr.pro/job/41181342/ai-product-manager-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin | On Site | Jun 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NMI](https://www.nmi.com)** | **[Director, Product Management - A2A & Money Movement](https://jobr.pro/job/41180523/director-product-management-a2a-money-movement?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote, US | Remote | Jun 12 |
 | **[Wheelhouse](https://wheelhousefarm.com)** | **[Technical Product Manager](https://jobr.pro/job/41182841/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States | On Site | Jun 12 |
 | **[VREY](https://www.vrey.io)** | **[Energy Product Manager (w/m/d)](https://jobr.pro/job/41184665/energy-product-manager-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin HQ | On Site | Jun 12 |
-| **[Blend360](https://www.blend360.com)** | **[Technical Product Manager](https://jobr.pro/job/41176217/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Guadalajara, Jal., Mexico | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 56% remote | 47 companies | Avg salary: 7.85769957693277e+148k  
+**Current Stats:** 50 jobs | 56% remote | 47 companies | Avg salary: 7.566673666676e+154k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, analytics  
