@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ping Identity](https://www.pingidentity.com)** | **[Product Manager](https://jobr.pro/job/41191427/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | UK - Remote | Remote | Jun 14 |
+| **[Prosper AI](https://www.getprosper.ai)** | **[Lead AI Product Manager](https://jobr.pro/job/41191525/lead-ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Barcelona | Remote | Jun 14 |
 | **[monday.com](https://monday.com)** | **[Senior Product Manager - AI Agentic Solutions](https://jobr.pro/job/41190853/senior-product-manager-ai-agentic-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv | Remote | Jun 14 |
 | **[monday.com](https://monday.com)** | **[Senior Product Manager](https://jobr.pro/job/41190851/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv | Remote | Jun 14 |
 | **[NICE](https://nicehash.com)** | **[AML Product Manager](https://jobr.pro/job/41190075/aml-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Israel - Raanana | On Site | Jun 14 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Versant](https://versanthealth.com)** | **[Product Manager, Ad Sales Execution](https://jobr.pro/job/41176152/product-manager-ad-sales-execution?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Jun 12 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Associate Product Manager](https://jobr.pro/job/41176396/associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, NEW YORK, United States | Remote | Jun 12 |
 | **[Versant](https://versanthealth.com)** | **[Product Analytics Manager](https://jobr.pro/job/41176156/product-analytics-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Universal City, CA, United States | Remote | Jun 12 |
-| **[Mural](https://www.mural.co)** | **[Senior Product Manager, Customer Insights](https://jobr.pro/job/41186829/senior-product-manager-customer-insights?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | United States Remote | Remote | Jun 12 |
-| **[Versant](https://versanthealth.com)** | **[Sr. Technical Product Manager](https://jobr.pro/job/41176189/sr-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Orlando, FL, United States | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 54% remote | 46 companies | Avg salary: 7.85769957693277e+148k  
+**Current Stats:** 50 jobs | 54% remote | 47 companies | Avg salary: 8.17200756001008e+142k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, analytics  
