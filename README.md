@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 21, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unframe](https://www.unframe.ai)** | **[Group Product Manager – Product Growth](https://jobr.pro/job/41309450/group-product-manager-product-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 21 |
+| **[Unframe](https://www.unframe.ai)** | **[Group Product Manager, Product Solutions (Remote)](https://jobr.pro/job/41309451/group-product-manager-product-solutions-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York, United States | Remote | Jun 21 |
+| **[SigNoz](https://signoz.io)** | **[Sr Product Manager - IC](https://jobr.pro/job/41309385/sr-product-manager-ic?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India | Remote | Jun 21 |
 | **[Careers at Tide](https://www.tide.co)** | **[Senior Product Manager (Ongoing Monitoring)](https://jobr.pro/job/41307601/senior-product-manager-ongoing-monitoring?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India, Hyderabad | On Site | Jun 21 |
 | **[HighLevel](https://gohighlevel.com)** | **[Sr. Product Manager - Website Builder, Analytics & Tracking Events](https://jobr.pro/job/41308014/sr-product-manager-website-builder-analytics-tracking-events?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India | Remote | Jun 21 |
 | **[super{set} Hive Community](https://www.superset.com)** | **[Founding Product Manager](https://jobr.pro/job/41306770/founding-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | Jun 21 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Growe Talents](https://growetalents.com)** | **[Product Manager](https://jobr.pro/job/41290626/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Anywhere | On Site | Jun 19 |
 | **[Decagon](https://decagon.ai)** | **[Senior Agent Product Manager - Sydney](https://jobr.pro/job/41285103/senior-agent-product-manager-sydney?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Australia | On Site | Jun 19 |
 | **[ANYbotics](https://anybotics.com)** | **[Product Data Management Internship](https://jobr.pro/job/41288603/product-data-management-internship?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Zurich, Switzerland | On Site | Jun 19 |
-| **[Datadog](https://careers.datadoghq.com)** | **[Product Manager II, AI & Data Security](https://jobr.pro/job/41282849/product-manager-ii-ai-data-security?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Paris, France | On Site | Jun 19 |
-| **[DKB Code Factory](https://dkbcodefactory.com)** | **[Delivery Manager - Product & Engineering (x,f,m)](https://jobr.pro/job/41298793/delivery-manager-product-engineering-xfm?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Berlin, Germany | On Site | Jun 19 |
-| **[Wise](https://wise.com)** | **[Senior Product Compliance Manager - WISE Platform](https://jobr.pro/job/41283078/senior-product-compliance-manager-wise-platform?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | London, , United Kingdom | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 46 companies | Avg salary: 1.6666690833354168e+65k  
+**Current Stats:** 50 jobs | 42% remote | 46 companies | Avg salary: 1.6666690833354168e+65k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** analytics  
