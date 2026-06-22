@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -15,7 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Unframe](https://www.unframe.ai)** | **[Group Product Manager – Product Growth](https://jobr.pro/job/41309450/group-product-manager-product-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 21 |
 | **[Unframe](https://www.unframe.ai)** | **[Group Product Manager, Product Solutions (Remote)](https://jobr.pro/job/41309451/group-product-manager-product-solutions-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York, United States | Remote | Jun 21 |
-| **[SigNoz](https://signoz.io)** | **[Sr Product Manager - IC](https://jobr.pro/job/41309385/sr-product-manager-ic?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India | Remote | Jun 21 |
+| **[SigNoz](https://signoz.io)** | **[Sr Product Manager - IC](https://jobr.pro/job/41310670/sr-product-manager-ic?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India | Remote | Jun 21 |
 | **[Careers at Tide](https://www.tide.co)** | **[Senior Product Manager (Ongoing Monitoring)](https://jobr.pro/job/41307601/senior-product-manager-ongoing-monitoring?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India, Hyderabad | On Site | Jun 21 |
 | **[HighLevel](https://gohighlevel.com)** | **[Sr. Product Manager - Website Builder, Analytics & Tracking Events](https://jobr.pro/job/41308014/sr-product-manager-website-builder-analytics-tracking-events?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India | Remote | Jun 21 |
 | **[super{set} Hive Community](https://www.superset.com)** | **[Founding Product Manager](https://jobr.pro/job/41306770/founding-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | On Site | Jun 21 |
