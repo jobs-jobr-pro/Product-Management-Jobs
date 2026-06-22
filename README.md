@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Santen](https://www.santen.com)** | **[Manager, Product Supply Transformation](https://jobr.pro/job/41312133/manager-product-supply-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Osaka, Osaka, Japan | Remote | Jun 22 |
 | **[Unframe](https://www.unframe.ai)** | **[Group Product Manager – Product Growth](https://jobr.pro/job/41309450/group-product-manager-product-growth?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 21 |
 | **[Unframe](https://www.unframe.ai)** | **[Group Product Manager, Product Solutions (Remote)](https://jobr.pro/job/41309451/group-product-manager-product-solutions-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York, New York, United States | Remote | Jun 21 |
 | **[SigNoz](https://signoz.io)** | **[Sr Product Manager - IC](https://jobr.pro/job/41310670/sr-product-manager-ic?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | India | Remote | Jun 21 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Adyen](https://www.adyen.com)** | **[Senior Product Manager - Developer Experience](https://jobr.pro/job/41284886/senior-product-manager-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Amsterdam | On Site | Jun 19 |
 | **[Growe Talents](https://growetalents.com)** | **[Product Manager](https://jobr.pro/job/41290626/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Anywhere | On Site | Jun 19 |
 | **[Decagon](https://decagon.ai)** | **[Senior Agent Product Manager - Sydney](https://jobr.pro/job/41285103/senior-agent-product-manager-sydney?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Australia | On Site | Jun 19 |
-| **[ANYbotics](https://anybotics.com)** | **[Product Data Management Internship](https://jobr.pro/job/41288603/product-data-management-internship?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Zurich, Switzerland | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 46 companies | Avg salary: 1.6666690833354168e+65k  
+**Current Stats:** 50 jobs | 44% remote | 46 companies | Avg salary: 1.8181844545477274e+60k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** analytics  
