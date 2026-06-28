@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -50,6 +50,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Okta](https://www.okta.com)** | **[Group Product Manager - Privleged Access Management](https://jobr.pro/job/41438255/group-product-manager-privleged-access-management?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, California | On Site | Jun 26 |
 | **[MO Studios](http://www.mostudio.nl)** | **[Senior Product Manager - Temporary hire - Temp W2 or 1099 - path to permanent hire contingent on contract option year extension](https://jobr.pro/job/41436511/senior-product-manager-temporary-hire-temp-w2-or-1099-path-to-permanent-hire-contingent-on-contract-option-year-extension?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Jun 26 |
 | **[Scout Motors](https://scoutmotors.com)** | **[Senior Staff Technical Product Manager, Diagnostic & Telematics](https://jobr.pro/job/41437677/senior-staff-technical-product-manager-diagnostic-telematics?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Charlotte, North Carolina / Fremont, California, United States | On Site | Jun 26 |
+| **[Raya](https://raya.com)** | **[Product Manager, Places](https://jobr.pro/job/41452838/product-manager-places?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Jun 26 |
 | **[ezCater, Inc](https://www.ezcater.com)** | **[Senior Product Manager, Data Platform (Remote)](https://jobr.pro/job/41433441/senior-product-manager-data-platform-remote?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Boston, MA | Remote | Jun 26 |
 | **[Tools%20for%20humanity]()** | **[Product Manager, World ID](https://jobr.pro/job/41435945/product-manager-world-id?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco | On Site | Jun 26 |
 | **[Plexus Worldwide](https://plexusworldwide.com)** | **[Product Marketing Manager - Training](https://jobr.pro/job/41445061/product-marketing-manager-training?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Scottsdale, Arizona, United States | On Site | Jun 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[2026](https://plaud.com)** | **[Senior Product Marketing Manager, Americas - San Francisco/ Los Angeles](https://jobr.pro/job/41446281/senior-product-marketing-manager-americas-san-francisco-los-angeles?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | San Francisco, CA | Remote | Jun 26 |
 | **[Pebl](https://hellopebl.com)** | **[Product Operations Manager](https://jobr.pro/job/41432536/product-operations-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Palo Alto, CA | Remote | Jun 26 |
 | **[Dun & Bradstreet](https://dnb.co.in)** | **[Senior Product Marketing Manager, Sales and Marketing Solutions (R-19313)](https://jobr.pro/job/41435883/senior-product-marketing-manager-sales-and-marketing-solutions-r-19313?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Florham Park - New Jersey - United States | On Site | Jun 26 |
-| **[Neon](https://www.neonpay.com)** | **[Lead Product Marketing Manager](https://jobr.pro/job/41431345/lead-product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City | On Site | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 44 companies | Avg salary: 1.0000005555563371e+155k  
+**Current Stats:** 50 jobs | 40% remote | 44 companies | Avg salary: 1.0000005555563371e+155k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
