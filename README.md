@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Block](https://block.xyz)** | **[Product Accounting Manager, Cash App](https://jobr.pro/job/41461409/product-accounting-manager-cash-app?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Bay Area, CA, United States of America | On Site | Jun 28 |
 | **[NinjaTrader](https://ninjatrader.com)** | **[Director, Product Management - Brokerage](https://jobr.pro/job/41459664/director-product-management-brokerage?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Chicago | On Site | Jun 28 |
+| **[DualEntry](https://www.dualentry.com)** | **[Staff Product Manager](https://jobr.pro/job/41461481/staff-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City | On Site | Jun 28 |
 | **[monday.com](https://monday.com)** | **[Senior Product Manager - AI Billing Infrastructure](https://jobr.pro/job/41459872/senior-product-manager-ai-billing-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Tel Aviv | Remote | Jun 28 |
 | **[Lucid Motors](https://lucidmotors.com)** | **[Production Shift Manager, General Assembly](https://jobr.pro/job/41457912/production-shift-manager-general-assembly?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Saudi Arabia | On Site | Jun 28 |
 | **[Trovy](https://trovy.com)** | **[Product Manager, Platform Experience](https://jobr.pro/job/41459492/product-manager-platform-experience?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | New York City | On Site | Jun 28 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Plexus Worldwide](https://plexusworldwide.com)** | **[Product Marketing Manager - Training](https://jobr.pro/job/41445061/product-marketing-manager-training?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Scottsdale, Arizona, United States | On Site | Jun 26 |
 | **[1upHealth](https://1up.health)** | **[Product Manager](https://jobr.pro/job/41436458/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Remote | Remote | Jun 26 |
 | **[Achievers](https://achievers.com)** | **[Senior Product Manager](https://jobr.pro/job/41438882/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Toronto | On Site | Jun 26 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Staff Production Program Manager](https://jobr.pro/job/41435740/staff-production-program-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, Georgia, United States | On Site | Jun 26 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Senior Production Program Manager](https://jobr.pro/job/41435733/senior-production-program-manager?utm_source=github&utm_medium=repo&utm_campaign=github-product-management-jobs)** | Atlanta, Georgia, United States | On Site | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 45 companies | Avg salary: 1.0384621538471924e+149k  
+**Current Stats:** 50 jobs | 36% remote | 46 companies | Avg salary: 6.442318076932692e+148k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
